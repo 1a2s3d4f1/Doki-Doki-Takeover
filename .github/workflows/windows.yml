@@ -36,7 +36,7 @@ jobs:
             haxelib install hmm --quiet
             haxelib install firetongue
             haxelib install flxanimate
-            haxelib git hxCodec https://github.com/Raltyro/hxCodec.git
+            haxelib install hxCodec 2.6.1
             haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
             
             haxelib run hmm install
