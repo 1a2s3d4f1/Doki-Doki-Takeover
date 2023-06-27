@@ -28,9 +28,17 @@ jobs:
             haxelib setup ~/haxelib
             haxelib install hxcpp --quiet
             haxelib install hmm --quiet
-            haxelib run hmm install
-            haxelib remove hxCodec
-            haxelib git hxCodec https://github.com/Raltyro/hxCodec.git
+            haxelib --never install lime
+            haxelib --never install openfl
+            haxelib --never install flixel
+            haxelib --never install flixel-addons
+            haxelib --never install flixel-ui
+            haxelib --never install flixel-tools
+            haxelib --never install firetongue
+            haxelib --never install flxanimate
+            haxelib --never git hxCodec https://github.com/Raltyro/hxCodec.git main
+            haxelib --never git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git master
+            haxelib --never list
 
       - name: Compile DDTO
         run: haxelib run lime build windows -final
