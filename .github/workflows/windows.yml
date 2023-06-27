@@ -28,7 +28,17 @@ jobs:
             haxelib setup C:/haxelib
             haxelib --global update haxelib
             haxelib install hxcpp --quiet
+            haxelib install lime
+            haxelib install openfl
+            haxelib install flixel
+            haxelib run lime setup flixel
+            haxelib install flixel-tools
             haxelib install hmm --quiet
+            haxelib install firetongue
+            haxelib install flxanimate
+            haxelib git hxCodec https://github.com/Raltyro/hxCodec.git
+            haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
+            
             haxelib run hmm install
 
       - name: Compile DDTO
