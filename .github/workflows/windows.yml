@@ -38,8 +38,6 @@ jobs:
             haxelib install flxanimate
             haxelib install hxCodec 2.6.1
             haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
-            
-            haxelib run hmm install
 
       - name: Compile DDTO
         run: haxelib run lime build windows -final
