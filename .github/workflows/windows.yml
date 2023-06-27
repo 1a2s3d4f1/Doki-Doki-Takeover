@@ -25,19 +25,11 @@ jobs:
 
       - name: Install Libraries
         run: |
-            haxelib setup C:/haxelib
-            haxelib --global update haxelib
+            haxelib setup ~/haxelib
             haxelib install hxcpp --quiet
-            haxelib install lime
-            haxelib install openfl
-            haxelib install flixel
-            haxelib run lime setup flixel
-            haxelib install flixel-tools
             haxelib install hmm --quiet
-            haxelib install firetongue
-            haxelib install flxanimate
+            haxelib run hmm install
             haxelib install hxCodec 2.6.1
-            haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc.git
 
       - name: Compile DDTO
         run: haxelib run lime build windows -final
