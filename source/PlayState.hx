@@ -5169,36 +5169,34 @@ class PlayState extends MusicBeatState
 					else if (daNote.strumTime <= Conductor.songPosition || (daNote.isSustainNote && daNote.canBeHit && daNote.mustPress))
 						goodNoteHit(daNote);
 				}
-
+                    var center:Float = strumY + Note.swagWidth / 2;
 				if (strumGroup.members[daNote.noteData].sustainReduce
 					&& daNote.isSustainNote
 					&& (daNote.mustPress || !daNote.ignoreNote)
 					&& (!daNote.mustPress || (daNote.wasGoodHit || (daNote.prevNote.wasGoodHit && !daNote.canBeHit))))
 				{
-					var center:Float = strumY + Note.swagWidth / 2;
 					var scaleY:Float = daNote.scale.y * Conductor.playbackSpeed;
-					var swagRect:FlxRect = new FlxRect();
 
 					if (strumScroll)
 					{
 						if (daNote.y - daNote.offset.y * scaleY + daNote.height >= center)
 						{
-							swagRect = new FlxRect(0, 0, daNote.frameWidth, daNote.frameHeight);
+							var swagRect = new FlxRect(0, 0, daNote.frameWidth, daNote.frameHeight);
 							swagRect.height = (center - daNote.y) / daNote.scale.y;
 							swagRect.y = daNote.frameHeight - swagRect.height;
+                            daNote.clipRect = swagRect;
 						}
 					}
 					else
 					{
 						if (daNote.y + daNote.offset.y * scaleY <= center)
 						{
-							swagRect = new FlxRect(0, 0, daNote.width / daNote.scale.x, daNote.height / daNote.scale.y);
+							var swagRect = new FlxRect(0, 0, daNote.width / daNote.scale.x, daNote.height / daNote.scale.y);
 							swagRect.y = (center - daNote.y) / daNote.scale.y;
 							swagRect.height -= swagRect.y;
+                            daNote.clipRect = swagRect;
 						}
 					}
-
-					daNote.clipRect = swagRect;
 				}
 
 				// Kill extremely late notes and cause misses
