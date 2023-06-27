@@ -29,9 +29,10 @@ jobs:
             haxelib install hxcpp --quiet
             haxelib install hmm --quiet
             haxelib run hmm install
+            haxelib list
+            echo test
             haxelib remove hxCodec
             haxelib git hxCodec https://github.com/Raltyro/hxCodec.git
-            echo git | haxelib set hxCodec
 
 
       - name: Compile DDTO
