@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Wait-",
+			"string": "等等-",
 			"key": "bnyIntro1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Is that my microphone? How the hell did you get that?",
+			"string": "那不是我的麦克风吗? 你是怎么拿到的?",
 			"key": "bnyIntro2",
 			"side": "left"
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "and what is that WORM doing here?!",
+			"string": "而且那只该死的虫子也在这？！",
 			"key": "bnyIntro3",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Didn't have enough fun making a fool of me last time you showed up?",
+			"string": "你上次那样捉弄我还不够吗?",
 			"key": "bnyIntro5",
 			"side": "left"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Now you're bringing more of your hideously attractive friends here to mock me once again?",
+			"string": "现在你又带更多的朋友来嘲笑我了？",
 			"key": "bnyIntro6",
 			"side": "left"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Hey, its not-",
+			"string": "嘿，这不是-",
 			"key": "bnyIntro7",
 			"side": "right"
 		},
@@ -70,7 +70,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "You. Give me that back. I have another score to settle.",
+			"string": "你，把麦克风还来，我有更重要的事情要做",
 			"key": "bnyIntro8",
 			"side": "left"
 		},
@@ -78,7 +78,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Huh? No, wait, I was just about to-",
+			"string": "嗯？不，等等，我要-",
 			"key": "bnyIntro9",
 			"side": "right"
 		},
@@ -86,7 +86,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "I said GIVE IT!",
+			"string": "我说了，快给我!",
 			"key": "bnyIntro10",
 			"side": "left"
 		},
@@ -94,7 +94,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "N-no!",
+			"string": "嘿，不！",
 			"key": "bnyIntro11",
 			"side": "right"
 		}

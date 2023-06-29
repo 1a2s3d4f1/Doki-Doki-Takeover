@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "sick",
-			"string": "\"Hah... what was that about you not hitting fast notes, Yuri..?\"",
+			"string": "\"哈...优里，你为什么不打快音符..？\"",
 			"key": "catEnd1",
 			"side": "right"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"Huff... I see... I was correct about your conviction, though. No melody is too difficult for you.\"",
+			"string": "\"（生气地说）我明白了...不过，我对你说的话是正确的，没有什么旋律对你来说太难了\"",
 			"key": "catEnd2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Ehehe... You guys must be exhausted after that. Ooo! How about some tea and cookies?\"",
+			"string": "\"嗯...你们一定筋疲力尽了，哦！来点茶和饼干怎么样？\"",
 			"key": "catEnd3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "happy",
-			"string": "\"Uhu... sounds lovely.\"",
+			"string": "\"嗯...听起来不错\"",
 			"key": "catEnd4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "happy",
-			"string": "\"That... would be great.\"",
+			"string": "\"那就...太好了\"",
 			"key": "catEnd5",
 			"side": "right"
 		}

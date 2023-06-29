@@ -13,7 +13,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "As fun as singing was, the Literature Club had soon gone back to their regular club activity of writing and poems when Boyfriend and Girlfriend departed.",
+			"string": "尽管唱歌很有趣，但当BF和GF离开时，文学部很快又恢复了她们的日常社团活动——写作和诗歌",
 			"key": "lnfIntro1",
 			"side": ""
 		},
@@ -21,7 +21,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Though every so often, the two would make their visit, and the pleasant bouts of song would return to the clubroom.",
+			"string": "尽管偶尔，两人会来拜访，愉快的歌声会回到部室",
 			"key": "lnfIntro2",
 			"side": ""
 		},
@@ -29,7 +29,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Today, however, was quite the unusual lineup of club attendees.",
+			"string": "然而，今天来参加的人却是不同寻常的",
 			"key": "lnfIntro3",
 			"side": ""
 		},
@@ -37,7 +37,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "The two boys were absent, leaving today's meeting consisting of the original four girls...",
+			"string": "两个男孩缺席了，今天的活动由原来的四个女孩...",
 			"key": "lnfIntro4",
 			"side": ""
 		},
@@ -50,7 +50,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "and Girlfriend!",
+			"string": "以及GF组成！",
 			"key": "lnfIntro5",
 			"side": ""
 		},
@@ -58,7 +58,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"This is the first time I've ever seen you apart from your boyfriend.\"",
+			"string": "\"这是我第一次看到你和你男朋友分开\"",
 			"key": "lnfIntro6",
 			"side": ""
 		},
@@ -66,7 +66,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "gone",
-			"string": "*blank expression*",
+			"string": "*茫然的表情*",
 			"key": "lnfIntro7",
 			"side": ""
 		},
@@ -74,7 +74,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "gone",
-			"string": "\"I was told that Boyfriend is acting as a vocal coach for a certain someone now. They must be occupied with that.\"",
+			"string": "\"有人告诉我，BF现在正在为某个人担任声乐教练，她们一定很忙\"",
 			"key": "lnfIntro8",
 			"side": ""
 		},
@@ -82,7 +82,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "gone",
-			"string": "\"D-don't tell him I told you that though-!\"",
+			"string": "\"别告诉他是我告诉过你的-！\"",
 			"key": "lnfIntro9",
 			"side": ""
 		},
@@ -90,7 +90,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Looks like it's just us today then!\"",
+			"string": "\"看来今天只有我们了！\"",
 			"key": "lnfIntro10",
 			"side": ""
 		},
@@ -98,7 +98,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Come to think of it, I honestly can't remember the last time we've had an all girls meeting.\"",
+			"string": "\"回想起来，我真的不记得我们上一次举行全女生的活动是什么时候了\"",
 			"key": "lnfIntro11",
 			"side": ""
 		},
@@ -106,7 +106,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"Oooh, yeah! Actually, I've been wondering about this for a while, but hey Girlfriend!\"",
+			"string": "\"哦，是的！事实上，我已经想了一段时间了，但是嘿，GF！\"",
 			"key": "lnfIntro12",
 			"side": ""
 		},
@@ -114,7 +114,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "gone",
-			"string": "*surprised look*",
+			"string": "*惊讶的表情*",
 			"key": "lnfIntro13",
 			"side": ""
 		},
@@ -122,7 +122,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"I don't think I've seen you participate in any of our club activities before. We'd love to have you get more involved!\"",
+			"string": "\"我想我以前从未见过你参加我们文学部的任何活动，我们希望你能更多地参与进来！\"",
 			"key": "lnfIntro14",
 			"side": ""
 		},
@@ -130,7 +130,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"You've been the quiet type, I've noticed. But I'm sure deep down there's so much you wanna say.\"",
+			"string": "\"我注意到你一直是那种安静的人，但我敢肯定，在内心深处，你想说的很多\"",
 			"key": "lnfIntro15",
 			"side": ""
 		},
@@ -138,7 +138,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"And this is the perfect place to write the way into your heart! Have you ever written a poem before?\"",
+			"string": "\"这是一个完美的地方，可以把路写进你的心里！你以前写过诗吗？\"",
 			"key": "lnfIntro16",
 			"side": ""
 		},
@@ -146,7 +146,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "gone",
-			"string": "*confused gaze*",
+			"string": "*困惑的凝视*",
 			"key": "lnfIntro17",
 			"side": ""
 		},
@@ -154,7 +154,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"If you haven't, we can teach you! We're basically poetry experts by now.\"",
+			"string": "\"如果你没有，我们可以教你！我们现在基本上都是诗歌专家了\"",
 			"key": "lnfIntro18",
 			"side": ""
 		},
@@ -162,7 +162,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "gone",
-			"string": "\"I wouldn't mind helping you to find your writing style. Writing your feelings down can help you express deep down what you may have trouble expressing vocally.\"",
+			"string": "\"我不介意帮你找到你的写作风格。把你的感受写下来可以帮助你在内心深处表达你可能难以用语言表达的东西\"",
 			"key": "lnfIntro19",
 			"side": ""
 		},
@@ -170,7 +170,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"You've heard your boyfriend rap so much. Some of his rhymes had to have rubbed off on you.\"",
+			"string": "\"你听你男朋友唱了很多歌，他的一些押韵词一定是对你产生过影响的\"",
 			"key": "lnfIntro20",
 			"side": ""
 		},
@@ -178,7 +178,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"Heck, I'm surprised I haven't heard you sing either considering how music centric he is.\"",
+			"string": "\"见鬼，考虑到他是多么以音乐为中心，我很惊讶我也没听你唱歌\"",
 			"key": "lnfIntro21",
 			"side": ""
 		},
@@ -186,7 +186,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"That gives me another idea. Why not write a love song for Boyfriend? That way we can help you with writing and singing too!\"",
+			"string": "\"这给了我另一个想法，为什么不给你的男朋友写一首情歌呢？这样我们也可以帮助你写作和唱歌！\"",
 			"key": "lnfIntro22",
 			"side": ""
 		},
@@ -194,7 +194,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"Yeah, yeah! And what better way to help you write a song than to teach you with a song! Does that sound good?\"",
+			"string": "\"是的，是的！还有什么比用一首歌教你更好的方法来帮助你写歌呢！听起来不错吗？\"",
 			"key": "lnfIntro23",
 			"side": ""
 		},
@@ -202,7 +202,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "gone",
-			"string": "*cheering*",
+			"string": "*欢呼*",
 			"key": "lnfIntro24",
 			"side": ""
 		},
@@ -210,7 +210,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Okay, everyone! It's time for a lesson I'll call...\"",
+			"string": "\"大家好！是时候上课了，我把这首歌叫作...\"",
 			"key": "lnfIntro25",
 			"side": ""
 		},
@@ -218,7 +218,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Love n' Funkin'!\"",
+			"string": "\"爱与放克！\"",
 			"key": "lnfIntro26",
 			"side": ""
 		}

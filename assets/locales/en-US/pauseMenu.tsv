@@ -1,13 +1,13 @@
 flag	content
-resume	Resume
-restart song	Restart Song
-change difficulty	Change Difficulty
-practice mode	Practice Mode
-exit to menu	Exit to Menu
+resume	继续
+restart song	重新开始
+change difficulty	改变难度
+practice mode	训练模式
+exit to menu	退出
 easy	Easy
 normal	Normal
 hard	Hard
 back	Back
-deleted	Deleted
-blue balled	Blue balled
-pastad	Pasta'd
+deleted	删除次数
+blue balled	死亡次数
+pastad	死亡次数

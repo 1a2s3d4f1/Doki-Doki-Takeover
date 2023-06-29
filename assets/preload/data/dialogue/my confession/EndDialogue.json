@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "What a lovely performance that was! I knew you had it in you.",
+			"string": "那是一场多么美妙的演出啊！我就知道你能力非凡",
 			"key": "confEnd1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "Today has been one of the only real times I've tried to sing in front of strangers.",
+			"string": "今天是我第一次在陌生人面前唱歌",
 			"key": "confEnd2",
 			"side": "right"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "I'm glad that all the practice had paid off.",
+			"string": "我很高兴所有的练习都得到了回报",
 			"key": "confEnd3",
 			"side": "right"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "I quite liked the song choice as well. Where is it from?",
+			"string": "我也很喜欢这首歌，它是从哪里来的？",
 			"key": "confEnd4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Oh! I... I wrote that song.",
+			"string": "哦！我…是我写了那首歌",
 			"key": "confEnd5",
 			"side": "right"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "It's something I spend a lot of long nights working on. It was meant for someone who means a lot to me.",
+			"string": "这是我花了很多精力的结果，它是为一个对我有重大意义的人准备的",
 			"key": "confEnd6",
 			"side": "right"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "Unfortunately... a lot happened, and I lost my chance to sing it to them... ",
+			"string": "但可惜，发生了很多不幸的事，我失去了给她们唱这首歌的机会... ",
 			"key": "confEnd7",
 			"side": "right"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "I still don't know where I am now, so I don't know if I'll ever get to share it with them... ",
+			"string": "我仍然不知道我现在在哪里，所以我不知道我是否还能和她们分享... ",
 			"key": "confEnd8",
 			"side": "right"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "-though I don't know if they'll even want to hear it.",
+			"string": "-尽管我也不知道她们是否想听",
 			"key": "confEnd9",
 			"side": "right"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "Ah, such a tragic story you've found yourself entangled in.",
+			"string": "啊，你发现自己陷入了这样一个悲惨的故事",
 			"key": "confEnd10",
 			"side": "left"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "I can promise that this place is one of no such tragedies.",
+			"string": "我可以保证，这个地方不会发生这样的悲剧",
 			"key": "confEnd11",
 			"side": "left"
 		},
@@ -95,7 +95,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "happy",
-			"string": "I'll be around whenever you have a song in your heart that needs to be sang!",
+			"string": "每当你心里有一首歌需要唱的时候，我都会在你身边！",
 			"key": "confEnd12",
 			"side": "left"
 		},
@@ -107,7 +107,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "(This guy is awfully flirtatious all of a sudden- especially after he snapped at me and that kid earlier...)",
+			"string": "（这家伙怎么突然变得那么轻浮——尤其是在他早些时候对我和那个孩子大发雷霆之后……）",
 			"key": "confEnd13",
 			"side": "right"
 		},
@@ -115,7 +115,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "(Well. If I didn't end up here, it would've been the recycling bin instead...)",
+			"string": "（好吧，如果我没有来到这里，那我去的地方应该是回收站…）",
 			"key": "confEnd14",
 			"side": "right"
 		},
@@ -130,7 +130,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "(I hope the others are okay.)",
+			"string": "（我希望其他人都没事）",
 			"key": "confEnd15",
 			"side": "right"
 		},
@@ -138,7 +138,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "(Natsuki, Yuri, Sayori...)",
+			"string": "（夏树、优里、纱世里…）",
 			"key": "confEnd16",
 			"side": "right"
 		},
@@ -146,7 +146,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "(After what happened, I thought restoring their character files and leaving would be what's best for the club... and for the one I loved...)",
+			"string": "（那些事情发生后，我认为恢复她们的角色文件并离开对文学部和我爱的人来说是最好的结果…）",
 			"key": "confEnd17",
 			"side": "right"
 		},
@@ -165,7 +165,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "Is something the matter?",
+			"string": "你怎么了？有什么事吗？",
 			"key": "confEnd18",
 			"side": "left"
 		},
@@ -173,7 +173,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Ah- I'm fine. I don't know what that was-",
+			"string": "啊——我很好。我不知道那是什么-",
 			"key": "confEnd19",
 			"side": "right"
 		}

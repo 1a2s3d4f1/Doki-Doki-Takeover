@@ -8,7 +8,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "First you steal my things, and then you pull something like that?",
+			"string": "先是你偷了我的麦克风，然后你竟然还敢这样做？",
 			"key": "bnyEnd1",
 			"side": "left"
 		},
@@ -16,7 +16,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Who do you think you are?",
+			"string": "你算哪根葱啊？",
 			"key": "bnyEnd2",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "Now, step aside.",
+			"string": "现在，滚一边去",
 			"key": "bnyEnd3",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "...ahaha.",
+			"string": "...啊哈哈",
 			"key": "bnyEnd4",
 			"side": "right"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "I don't think I will.",
+			"string": "我不认为我会",
 			"key": "bnyEnd5",
 			"side": "right"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "You on the other hand-",
+			"string": "反倒是你-",
 			"key": "bnyEnd6",
 			"side": "right"
 		},
@@ -70,7 +70,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "angry",
-			"string": "What are you-",
+			"string": "你说什-",
 			"key": "bnyEnd7",
 			"side": "left"
 		},

@@ -1,24 +1,24 @@
 flag	content
-consIntro1	<Q>Ah, Sayori! Yuri! Natsuki! You're back!<Q>
-consIntro2	<Q>How was your time hanging with Boyfriend and Girlfriend in their hometown?<Q>
-consIntro3	(Aha, I still can't believe that's their actual names. Even says so on their character files-)
-consIntro4	<Q>I had a screaming competition with a rock star! And I totally beat them too.<Q>
-consIntro5	<Q>They're inviting me back next week for a rematch. If I win, I get free tickets to their band's next show!<Q>
-consIntro6	<Q>I had a lot of extra money to spend this week, so I ate dinner at a very nice restaurant not too far off from the city.<Q>
-consIntro7	<Q>While I was there, I had a nice chat with someone who shared a... similar interest in collecting.<Q>
-consIntro8	<Q>He also seemed very intrigued when I mentioned our two new club members in a conversation. I didn't want to pry, though.<Q>
-consIntro9	(There's a lot of strange, fantastical people out there in the real world, it seems.)
-consIntro10	(And somewhere out there, my true love... I still have not forgotten about them.)
-consIntro11	(I'll go back and continue my search soon enough. There's... so much I need to tell them.)
-consIntro12	<Q>Ah- sorry, I got lost in thought. What about you, Sayori? Did you meet any new friends on your trip?<Q>
-consIntro13	<Q>It was amazing! I didn't even know all these places existed!<Q>
-consIntro14	<Q>It's almost as if they popped up out of nowhere, ehehe~<Q>
-consIntro15	<Q>I did meet a new friend, in fact! He's followed me around the whole time we were gone.<Q>
-consIntro16	<Q>Eh-? That's... a little odd.<Q>
-consIntro17	<Q>-But I'm glad you all found some great new friends!<Q>
-consIntro18	<Q>Mhhmm! He followed me back here too! Wanna meet him? He's so cute!<Q>
-consIntro19	<Q>Oh? S-sure! Bring them in!<Q>
-consIntro20	<Q>Say hi, Zipper!<Q>
+consIntro1	<Q>啊，纱世里！优里！夏树！你们回来了！<Q>
+consIntro2	<Q>你们在BF和GF的家乡玩得怎么样？<Q>
+consIntro3	（啊哈，我还是不敢相信那是他们的真名。甚至在他们的角色文件上也这么说-）
+consIntro4	<Q>我和一个摇滚明星进行了一场激烈的比赛！我也完全打败了他们<Q>
+consIntro5	<Q>他们邀请我下周回来复赛，如果我赢了，我可以免费获得他们乐队下一场演出的门票！<Q>
+consIntro6	<Q>这周我有很多多余的钱要花，所以我在离城市不远的一家很好的餐厅吃了饭<Q>
+consIntro7	<Q>当我在那里的时候，我和一个对收藏有着相似兴趣的人聊得很愉快<Q>
+consIntro8	<Q>当我在一次谈话中提到我们的两位新成员时，他似乎也很感兴趣，不过我不想说太多<Q>
+consIntro9	（现实世界中似乎有很多奇怪、幻想的人）
+consIntro10	（在那里的某个地方，我的真爱……我仍然没有忘记他）
+consIntro11	（我很快就会回去继续搜索，我有……太多事情要告诉他了）
+consIntro12	<Q>啊——对不起，我刚才陷入了沉思，你呢，纱世里？你在旅途中遇到新朋友了吗？<Q>
+consIntro13	<Q>太神奇了！我甚至不知道这些地方都存在！<Q>
+consIntro14	<Q>他们好像不知是从哪里冒出来的，嗯~<Q>
+consIntro15	<Q>事实上，我确实遇到了一个新朋友！我们走的时候他一直跟着我<Q>
+consIntro16	<Q>呃？那是...有点奇怪<Q>
+consIntro17	<Q>-但我很高兴你们都找到了一些很棒的新朋友！<Q>
+consIntro18	<Q>嗯！他也跟着我回来了！想见见他吗？他太可爱了！<Q>
+consIntro19	<Q>哦当然！把他们带进来！<Q>
+consIntro20	<Q>"嗨，Zipper！<Q>
 consIntro21	<Q>SKREEEEEEEEEEE!!!!<Q>
-consEnd1	<Q>PUT THAT THING BACK WHERE IT CAME FROM OR SO HELP ME-!<Q>
+consEnd1	<Q>把那东西送回原来的地方或者来帮帮我-！<Q>
 consEnd2	<Q>Gwarrgh.<Q>

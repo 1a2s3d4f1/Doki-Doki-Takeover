@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "And through the power of song, Girlfriend was able to write down the lyrics to her very own love song for her darling Boyfriend.",
+			"string": "通过歌曲的力量，GF能够为她亲爱的男朋友写下她自己的情歌的歌词",
 			"key": "lnfEnd1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "The girls excitedly ask to see what Girlfriend had come up with, so she handed them the paper with all the lyrics written on it.",
+			"string": "女孩们兴奋地想看看GF想出了什么，于是她把写满歌词的纸递给了她们",
 			"key": "lnfEnd2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "With much anticipation, the girls began to read, and-",
+			"string": "带着极大的期待，女孩们开始阅读-",
 			"key": "lnfEnd3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "-their expressions slowly morphed into ones of shock and confusion.",
+			"string": "-她们的表情慢慢演变成了震惊和困惑",
 			"key": "lnfEnd4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"...I wasn't expecting you to write something so... explicit-\"",
+			"string": "\"…我没想到你会写这么…露骨的东西-\"",
 			"key": "lnfEnd5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Eugh, eww!!! Why did you write that?! I don't need to know what you and your boyfriend do at night!\"",
+			"string": "\"啊，啊！！！你为什么写这个？！我不需要知道你和你男朋友在床上做什么！\"",
 			"key": "lnfEnd6",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"I'm... curious as to what inspired you to write down several verses about 'The blood of your enemies'-\"",
+			"string": "\"我是好奇是什么激发了你写下几首关于“敌人的鲜血”的诗-\"",
 			"key": "lnfEnd7",
 			"side": "left"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Eheheh... ehhhhh... maybe next time, try to keep things school appropriate-\"",
+			"string": "\"呃...啊...也许下次，试着保持学校的适当风格-\"",
 			"key": "lnfEnd8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "peace",
-			"string": "*blep*",
+			"string": "*吐舌*",
 			"key": "lnfEnd9",
 			"side": "right"
 		}

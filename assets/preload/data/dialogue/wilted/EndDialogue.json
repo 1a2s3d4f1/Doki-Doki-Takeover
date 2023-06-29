@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "I knew this little sidetrack would not be fruitful for you. The girl is set on her ways.",
+			"string": "我就知道这个小插曲对你来说不会有什么收获，这个女孩已经出发了",
 			"key": "wiltEnd1",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "Though this brief visit allowed me to learn something vital.",
+			"string": "尽管这次短暂的访问让我学到了一些重要的东西",
 			"key": "wiltEnd2",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "It seems that those who reside in her world now have methods of escaping out of the digital space into the mortal world.",
+			"string": "似乎那些居住在她的世界里的人现在有了逃离虚拟空间进入凡人世界的方法",
 			"key": "wiltEnd3",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "And the stench of Daddy Dearest's kin... It permeates her world as well.",
+			"string": "Daddy Dearest的亲人散发出的恶臭也弥漫在她的世界里",
 			"key": "wiltEnd4",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "That girl and her boyfriend were there, and they know something.",
+			"string": "那个女孩和她的男朋友在那里，他们知道一些事情",
 			"key": "wiltEnd5",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "With your new abilities, we can catch them the next time they try to enter the digital world.",
+			"string": "有了你的新能力，我们可以在他们下次试图进入虚拟世界时抓住他们",
 			"key": "wiltEnd6",
 			"side": "left"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "Then… I'll take that boy's body and escape this electronic prison. And you will be able to follow suit.",
+			"string": "然后…我会带走那个男孩的尸体，逃离这个电子监狱，你也可以效仿",
 			"key": "wiltEnd7",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "There are hundreds more girls like her in the outside world, ones with the free spirit you desire.",
+			"string": "在外面的世界里，还有成百上千的女孩像她一样，拥有你渴望的自由精神",
 			"key": "wiltEnd8",
 			"side": "left"
 		},
@@ -86,7 +86,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "spirit",
-			"string": "The time for revenge is nigh.",
+			"string": "复仇的时刻即将到来",
 			"key": "wiltEnd9",
 			"side": "left"
 		}

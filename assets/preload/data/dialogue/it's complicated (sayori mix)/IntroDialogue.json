@@ -4,7 +4,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"There was one song in that list that popped out to me.\"",
+			"string": "\"我突然想到那张歌单上有一首歌\"",
 			"key": "compIntro1",
 			"side": "left"
 		},
@@ -12,7 +12,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"The song was both happy and upbeat-\"",
+			"string": "\"这首歌既欢快又乐观-\"",
 			"key": "compIntro2",
 			"side": "left"
 		},
@@ -20,7 +20,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"...and yet it felt really sad too.\"",
+			"string": "\"...然而也有点悲伤\"",
 			"key": "compIntro3",
 			"side": "left"
 		},
@@ -28,7 +28,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"Stuff that's both sad and happy in that way really speaks to me.\"",
+			"string": "\"那种既悲伤又快乐的东西真的很能打动我\"",
 			"key": "compIntro4",
 			"side": "left"
 		},
@@ -36,7 +36,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Eheheh, I don't know...\"",
+			"string": "\"呵呵，我不知道该怎么解释...\"",
 			"key": "compIntro5",
 			"side": "left"
 		},
@@ -44,7 +44,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"It's complicated.\"",
+			"string": "\"这很难说\"",
 			"key": "compIntro6",
 			"side": "left"
 		}

@@ -8,7 +8,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"Yuri, your singing voice is amazing! Sing again, sing again! I wanna hear!\"",
+			"string": "\"优里，你的歌声太棒了！再唱一遍！再唱一遍！我还想听！\"",
 			"key": "obseIntro1",
 			"side": "left"
 		},
@@ -16,7 +16,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "what",
-			"string": "\"Hrk-!\"",
+			"string": "\"啊-!\"",
 			"key": "obseIntro2",
 			"side": "right"
 		},
@@ -24,7 +24,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"Are you ok, Natsuki?\"",
+			"string": "\"你还好吗，夏树？\"",
 			"key": "obseIntro3",
 			"side": "left"
 		},
@@ -38,7 +38,7 @@
 		{
 			"isCommand": true,
 			"name": "autoskip",
-			"string": "\"Bleh... I'm not feeling so gooooooooooo-\"",
+			"string": "\"啊... 我感觉很gooooooooooo-\"",
 			"key": "obseIntro4"
 		},
 		{
@@ -104,7 +104,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "sick",
-			"string": "\"I'm not feeling so good.\"",
+			"string": "\"我感觉不太好\"",
 			"key": "obseIntro11",
 			"side": "right"
 		},
@@ -112,7 +112,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Ah- I’m gonna walk Natsuki to the nurse’s office.\"",
+			"string": "\"啊，我要送夏树去医务室\"",
 			"key": "obseIntro12",
 			"side": "left"
 		},
@@ -120,7 +120,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"Y-you guys have fun singing though!\"",
+			"string": "\"你-你们唱得开心！\"",
 			"key": "obseIntro13",
 			"side": "left"
 		},
@@ -128,7 +128,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Eheh-\"",
+			"string": "\"啊哈-\"",
 			"key": "obseIntro14",
 			"side": "left"
 		},
@@ -150,7 +150,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"...ufufu.\"",
+			"string": "\"...呵呵\"",
 			"key": "obseIntro15",
 			"side": "left"
 		},
@@ -158,7 +158,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Singing is much nicer than I thought.\"",
+			"string": "\"唱的比我想象的要好得多\"",
 			"key": "obseIntro16",
 			"side": "left"
 		},
@@ -166,7 +166,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Its a nice alternative means to... release my emotions.\"",
+			"string": "\"这对释放我的情绪是一个很好的方式…\"",
 			"key": "obseIntro17",
 			"side": "left"
 		},
@@ -174,7 +174,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Let’s sing again. Right now.\"",
+			"string": "\"让我们再唱一次，马上\"",
 			"key": "obseIntro18",
 			"side": "left"
 		},
@@ -182,7 +182,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ahaha",
-			"string": "\"Hahhhh...-\"",
+			"string": "\"哈哈...\"",
 			"key": "obseIntro19",
 			"side": "left"
 		},

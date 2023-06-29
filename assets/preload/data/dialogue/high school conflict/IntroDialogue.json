@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "...huh?",
+			"string": "...嗯?",
 			"key": "hscIntro1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "I thought... they deleted me. After what I did to my friends.",
+			"string": "我还以为...在我那样对待我的朋友们后我就被他们给删除了",
 			"key": "hscIntro2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "-but where am I now?",
+			"string": "-但现在我又在哪?",
 			"key": "hscIntro3",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "-Oh! Hello?",
+			"string": "-哦! 你好?",
 			"key": "hscIntro5",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "You wanna sing?",
+			"string": "你想唱一首歌?",
 			"key": "hscIntro7",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "...Things are happening really fast.",
+			"string": "...事情发展的有点太快了",
 			"key": "hscIntro9",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "-but you know what?",
+			"string": "-但你猜怎么着?",
 			"key": "hscIntro10",
 			"side": "left"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "happy",
-			"string": "I'd love to!",
+			"string": "我很乐意!",
 			"key": "hscIntro11",
 			"side": "left"
 		},
@@ -95,7 +95,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "Usually I'd play piano while I sing, but this isn't a bad change of pace.",
+			"string": "一般我喜欢边弹钢琴边唱，但做出这样的改变也不坏",
 			"key": "hscIntro12",
 			"side": "left"
 		},
@@ -103,7 +103,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "happy",
-			"string": "So... Yeah!",
+			"string": "所以...让我们开始吧！",
 			"key": "hscIntro13",
 			"side": "left"
 		}

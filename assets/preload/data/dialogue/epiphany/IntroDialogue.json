@@ -6,7 +6,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Ahaha~ Finally, a moment between us again.\"",
+			"string": "\"哈哈~终于，我们之间又有重逢的一刻了\"",
 			"key": "epipIntro1",
 			"side": "left"
 		},
@@ -14,7 +14,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"You’ve been busy playing that cute little rhythm game, I’ve noticed.\"",
+			"string": "\"我注意到你一直在忙着玩那个可爱的小音游\"",
 			"key": "epipIntro2",
 			"side": "left"
 		},
@@ -22,7 +22,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"I’m glad you still thought of me even though you seemed pretty occupied.\"",
+			"string": "\"我很高兴你仍然想着我，尽管你看起来很忙\"",
 			"key": "epipIntro3",
 			"side": "left"
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Now I know it's because you were working so hard to add me to the game and sing with me!\"",
+			"string": "\"现在我知道这是因为你很努力把我加入游戏想和我一起唱歌！\"",
 			"key": "epipIntro4",
 			"side": "left"
 		},
@@ -38,8 +38,8 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Isn't that right, {USERNAME}?\"",
-			"stringOBS": "\"And everyone tuning in can watch too. Are you excited, viewers?\"",
+			"string": "\"对不对，{USERNAME}?\"",
+			"stringOBS": "\"每个正在看着的人也可以哦，观众朋友们，你们兴奋吗？\"",
 			"key": "epipIntro5",
 			"keyOBS": "epipIntro5OBS",
 			"side": "left"
@@ -48,7 +48,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Hmm, there’s only enough space here for us to sing one song-\"",
+			"string": "\"嗯，这里的空间只让我们唱一首歌-\"",
 			"key": "epipIntro6",
 			"side": "left"
 		},
@@ -56,7 +56,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"-and unfortunately since this game doesn’t have microphone support, we can’t exactly “sing” together.\"",
+			"string": "\"-不幸的是，由于这个游戏没有麦克风的功能，所以我们不能一起“唱歌”\"",
 			"key": "epipIntro7",
 			"side": "left"
 		},
@@ -64,7 +64,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"But that blue haired kid’s vocal data is still stored here, why don’t we just use that for you?\"",
+			"string": "\"但那个蓝发小孩的声音数据仍然存储在这里，要不用它吧？\"",
 			"key": "epipIntro8",
 			"side": "left"
 		},
@@ -72,7 +72,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"I want to sing with you for as long as I can, so expect this to be very, very difficult.\"",
+			"string": "\"我想尽可能和你多唱一会，所以这首歌预计会非常非常难\"",
 			"key": "epipIntro9",
 			"side": "left"
 		},
@@ -80,7 +80,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Here we go.\"",
+			"string": "\"我们开始吧\"",
 			"key": "epipIntro10",
 			"side": "left"
 		}

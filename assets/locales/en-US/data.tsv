@@ -1,33 +1,33 @@
 flag	content
-cmnDiff	Difficulty
-cmnEasy	Easy
-cmnNormal	Normal
-cmnHard	Hard
-cmnPB	Personal Best
-cmnScore	Score
+cmnDiff	难度
+cmnEasy	简单
+cmnNormal	普通
+cmnHard	困难
+cmnPB	最佳分数
+cmnScore	分数
 cmnNPS	NPS
-cmnMax	Max
-cmnComboBreak	Combo Breaks
-cmnBreaks	Breaks
-cmnAccuracy	Accuracy
-cmnRating	Rating
-cmnBotplay	Botplay
-cmnClear	Clear
-cmnEarly	Early
-cmnLate	Late
-cmnOn	On
-cmnOff	Off
-cmnYes	Yes
-cmnNo	No
-cmnOffset	Global Offset
-cmnAddOffset	Song Offset: <X> | Adds an additional offset to this song only. (Left or Right, Shift to go faster)
-cmnCategory	Please select a category. (Global Offset: Left or Right, Shift to go faster)
-cmnPractice	Practice Mode
+cmnMax	最大数
+cmnComboBreak	连击中断
+cmnBreaks	失误
+cmnAccuracy	准度
+cmnRating	评分
+cmnBotplay	自动游玩
+cmnClear	消失
+cmnEarly	提前
+cmnLate	迟后
+cmnOn	开
+cmnOff	关
+cmnYes	是
+cmnNo	否
+cmnOffset	全局偏移
+cmnAddOffset	歌曲偏移： <X> | 只为这首歌添加一个额外的偏移量（按左右键设置，按住Shift以加快速度）
+cmnCategory	请选择一个类别（全局偏移：按左右键设置，按住Shift以加快速度）
+cmnPractice	训练模式
 cmnLock	Locked
-cmnSpeed	Song Speed
-cmnCaching	Caching
-cmnLanguage	Language Select
-cmnDisableCaching	(press D to disable next boot)
-cmnCachingFinish	Finished caching!
-cmnDialogueSkip	Press ESCAPE to skip the dialogue.
-cmnExit	Are you sure you want to<N>exit the game?
+cmnSpeed	歌曲速度
+cmnCaching	缓存
+cmnLanguage	语言设置
+cmnDisableCaching	（按D禁用下一次引导）
+cmnCachingFinish	已完成缓存！
+cmnDialogueSkip	按下回车键可跳过对话
+cmnExit	你想要<N>退出游戏吗?

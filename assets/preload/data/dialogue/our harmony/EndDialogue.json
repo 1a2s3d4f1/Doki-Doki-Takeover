@@ -8,7 +8,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "The Literature Club girls conclude their song with laughter and cheer. The music room is alight with excitement and joy.",
+			"string": "文学部的女孩们以欢声笑语结束了她们的歌曲，音乐室里充满了兴奋和欢乐",
 			"key": "ohEnd1",
 			"side": ""
 		},
@@ -16,7 +16,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"I can’t believe we waited this long to all sing together! I wanna do this so much more often!\"",
+			"string": "\"真不敢相信我们等了这么久才一起唱歌！我想经常这样做！\"",
 			"key": "ohEnd2",
 			"side": "left"
 		},
@@ -24,7 +24,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"There’s always plenty of extra time during club meetings to keep singing, and I’m more than excited to sing some more with everyone. We sound amazing together!\"",
+			"string": "\"在社团活动期间，我们总是有足够的额外时间来继续唱歌，我非常兴奋能和大家一起唱更多的歌，我们一起听起来很棒！\"",
 			"key": "ohEnd3",
 			"side": "right"
 		},
@@ -32,7 +32,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"Maybe next time we can get the other three to join us too.\"",
+			"string": "\"也许下次我们可以让其他三个人也加入我们\"",
 			"key": "ohEnd4",
 			"side": "left"
 		},
@@ -40,7 +40,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "gone",
-			"string": "\"I haven’t seen any of them around. Do you think they’ll show up for the club meeting today?\"",
+			"string": "\"我没有见过她们，你认为她们今天会出席社团活动吗？\"",
 			"key": "ohEnd5",
 			"side": "left"
 		},
@@ -48,7 +48,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"We’ll have to see.\"",
+			"string": "\"我们拭目以待\"",
 			"key": "ohEnd6",
 			"side": "right"
 		},
@@ -56,7 +56,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Actually, I just remembered-! Sayori, didn’t you have exciting news you wanted to share with us?\"",
+			"string": "\"事实上，我只是想起了-！纱世里，你不是有激动人心的消息想和我们分享吗？\"",
 			"key": "ohEnd7",
 			"side": "right"
 		},
@@ -64,7 +64,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"Oh oh! I do! Thank you for reminding me!\"",
+			"string": "\"哦哦！对了！谢谢你提醒我！\"",
 			"key": "ohEnd8",
 			"side": "left"
 		},
@@ -72,7 +72,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"You guys aren’t gonna believe this, but you know how my friend keeps refusing to sing with us?\"",
+			"string": "\"你们不会相信的，但你们知道我的朋友怎么一直拒绝和我们一起唱歌吗？\"",
 			"key": "ohEnd9",
 			"side": "left"
 		},
@@ -80,7 +80,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"I saw him in the clubroom with Boyfriend and Girlfriend, and I could have sworn I heard him singing!\"",
+			"string": "\"我看到他和BF和GF在部室里，我发誓我听到他唱歌了！\"",
 			"key": "ohEnd10",
 			"side": "left"
 		},
@@ -88,7 +88,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"Heh heh, about time he gave in. I was gonna keep bullying that dope until he did.\"",
+			"string": "\"呵呵，他该屈服了，我会一直欺负那个家伙，直到他屈服为止\"",
 			"key": "ohEnd11",
 			"side": "left"
 		},
@@ -96,7 +96,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"I’m surprised he stuck out not singing for so long. You think we’ll catch him mid-song if we all sneak in right now?\"",
+			"string": "\"我很惊讶他坚持这么长时间不唱歌，你认为如果我们现在都偷偷溜进去，我们会在中途抓到他吗？\"",
 			"key": "ohEnd12",
 			"side": "left"
 		},
@@ -104,7 +104,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"Let’s go and see! To the club!\"",
+			"string": "\"让我们去看看！去文学部！\"",
 			"key": "ohEnd13",
 			"side": "left"
 		}

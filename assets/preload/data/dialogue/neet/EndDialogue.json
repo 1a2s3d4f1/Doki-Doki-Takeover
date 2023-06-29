@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "happy",
-			"string": "\"Wow, that was a lot more fun than I thought. Didn't do half bad myself, I think.\"",
+			"string": "\"哇，那比我想象的有趣多了，我想我没有搞砸\"",
 			"key": "neetEnd1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"You did amazing!\"",
+			"string": "\"你唱的太棒了！\"",
 			"key": "neetEnd2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "happy",
-			"string": "\"Heh, thank you Sayo-\"",
+			"string": "\"嘿，谢谢你纱世-\"",
 			"key": "neetEnd3",
 			"side": "right"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "chill",
-			"string": "\"-wait...\"",
+			"string": "\"-等等...\"",
 			"key": "neetEnd4",
 			"side": "right"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"You were really holding out on us this long, hmm? We've been trying to get you to join us for ages!\"",
+			"string": "\"你真的坚持了我们这么久，嗯？这么久了，我们一直在努力让你加入我们！\"",
 			"key": "neetEnd5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "hrk",
-			"string": "\"How long have you guys been here?!\"",
+			"string": "\"你们在这里多久了？！\"",
 			"key": "neetEnd6",
 			"side": "right"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"Hahaha! We've been here for a while. I can't believe you were so into it that you didn't notice.\"",
+			"string": "\"哈哈哈！我们在这里已经有一段时间了，我真不敢相信你这么投入竟然没有注意到\"",
 			"key": "neetEnd7",
 			"side": "left"
 		},
@@ -68,7 +68,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "hrk",
-			"string": "\"hrk-!\"",
+			"string": "\"啊-!\"",
 			"key": "neetEnd8",
 			"side": "right"
 		},
@@ -76,7 +76,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Your singing voice is just as naturally confident as your poem reading voice.\"",
+			"string": "\"你唱歌的声音和你读诗的声音一样自然自信\"",
 			"key": "neetEnd9",
 			"side": "left"
 		},
@@ -96,7 +96,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "neutral",
-			"string": "(Translation) What did I tell you, broski?",
+			"string": "（翻译）哥们，我刚刚跟你说了什么？",
 			"key": "neetEnd11",
 			"side": "right"
 		},
@@ -104,7 +104,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "(There's no way that actually worked, right..?)",
+			"string": "（这根本不可能奏效，对吧…？）",
 			"key": "neetEnd12",
 			"side": "left"
 		},

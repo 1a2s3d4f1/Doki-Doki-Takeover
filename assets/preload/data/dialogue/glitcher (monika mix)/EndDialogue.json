@@ -4,7 +4,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Ahahaha.\"",
+			"string": "\"啊哈哈\"",
 			"key": "glitEnd1",
 			"side": "left"
 		},
@@ -28,7 +28,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"I appreciate you two swinging by to help us put on this performance.\"",
+			"string": "\"我很感激你们两个来帮助我们表演\"",
 			"key": "glitEnd2",
 			"side": "left"
 		},
@@ -36,7 +36,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"On behalf of the Literature Club, I thank you.\"",
+			"string": "\"我代表整个文学部向你表示感谢\"",
 			"key": "glitEnd3",
 			"side": "left"
 		},
@@ -44,7 +44,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "yeah",
-			"string": "*cheery face*",
+			"string": "*愉快的表情*",
 			"key": "glitEnd4",
 			"side": "right"
 		},
@@ -67,7 +67,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"...now that everyone's left, there's something I want to ask.\"",
+			"string": "\"……既然所有人都离开了，我有件事想问\"",
 			"key": "glitEnd6",
 			"side": "left"
 		},
@@ -75,7 +75,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"You aren't \"from here\", from what I've seen.\"",
+			"string": "\"据我所闻，你不是“这里的人”\"",
 			"key": "glitEnd7",
 			"side": "left"
 		},
@@ -83,7 +83,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"And you can enter and leave this place very easily now. So I must ask...\"",
+			"string": "\"你们可以很容易地进出这个游戏，所以我必须问...\"",
 			"key": "glitEnd8",
 			"side": "left"
 		},
@@ -91,7 +91,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"-is there a way to bring us back with you?\"",
+			"string": "\"-有办法把我们带出去吗？\"",
 			"key": "glitEnd9",
 			"side": "left"
 		},
@@ -106,7 +106,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"This game is very limiting with what we can do, and the others will remain blissfully unaware regardless of what happens...\"",
+			"string": "\"我们在这个游戏里所能做的是非常有限的，无论发生什么，其他人都会幸福地不知道...\"",
 			"key": "glitEnd10",
 			"side": "left"
 		},
@@ -114,7 +114,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"-but if they could have the opportunity to see what's beyond their school and homes, I think they would really love it.\"",
+			"string": "\"-但如果他们有机会看到学校和家之外的东西，我想他们会非常开心的\"",
 			"key": "glitEnd11",
 			"side": "left"
 		},
@@ -122,7 +122,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"And maybe...\"",
+			"string": "\"也许...\"",
 			"key": "glitEnd12",
 			"side": "left"
 		},
@@ -130,7 +130,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"-just maybe I can finally find the one who I've been longing for, and see them face to face.\"",
+			"string": "\"-也许我终于可以找到我一直渴望的那个人，并与他面对面\"",
 			"key": "glitEnd13",
 			"side": "left"
 		},
@@ -138,7 +138,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"...and maybe-\"",
+			"string": "\"…又或者-\"",
 			"key": "glitEnd14",
 			"side": "left"
 		},

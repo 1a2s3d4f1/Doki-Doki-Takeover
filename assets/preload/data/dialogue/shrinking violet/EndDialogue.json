@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Woah, you’re already a natural songsmith. I know the others will love to hear this!\"",
+			"string": "\"哇，你已经是一个天才歌手了，其他人绝对会喜欢听的！\"",
 			"key": "svEnd1",
 			"side": "right"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Yuri looks away shyly once again and giggles to herself.",
+			"string": "优里又一次害羞地把目光移开，咯咯地笑了起来",
 			"key": "svEnd2",
 			"side": ""
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "happy",
-			"string": "\"Uhuhu… I appreciate you giving me your time.\"",
+			"string": "\"呵呵呵…我很感激你给我时间\"",
 			"key": "svEnd3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "happy",
-			"string": "\"I’m going to rehearse a bit more on my own before our next club meeting.\"",
+			"string": "\"在我们下一次社团活动之前，我会自己排练\"",
 			"key": "svEnd4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"I’ll see you then, Monika.\"",
+			"string": "\"到时见，莫妮卡\"",
 			"key": "svEnd5",
 			"side": "left"
 		}

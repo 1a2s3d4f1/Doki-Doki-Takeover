@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "what",
-			"string": "\"...bleh. I think I’m done for now. I feel really dizzy after that one.\"",
+			"string": "\"…糟糕，我想我要完了，刚才那结束之后我真的感到头晕\"",
 			"key": "dbIntro1",
 			"side": "right"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"That’s ok! Go rest your vocal chords.\"",
+			"string": "\"没关系的！让你的声带休息去\"",
 			"key": "dbIntro2",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "ehh",
-			"string": "*confused glances*",
+			"string": "*困惑的目光*",
 			"key": "dbIntro3",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"eheheh... Well, looks like you’re the only one left, Yuri!\"",
+			"string": "\"呵呵...看来就剩下你了，优里！\"",
 			"key": "dbIntro5",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "blush",
-			"string": "\"...mmh-\"",
+			"string": "\"...嗯-\"",
 			"key": "dbIntro6",
 			"side": "left"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ooh",
-			"string": "\"Hey, I know you can do it, Yuri. I bet you have one of the nicest singing voices ever!\"",
+			"string": "\"嘿，我知道你能行，优里，我敢打赌你的声音一定是最美妙的！\"",
 			"key": "dbIntro7",
 			"side": "right"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"...first having to read my poems aloud to the club... now singing too?\"",
+			"string": "\"…先是要我向所有人大声朗读我的诗，现在居然还要我唱歌？\"",
 			"key": "dbIntro8",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"This club continues to ask so much out of me.\"",
+			"string": "\"这个社团对我的要求真高\"",
 			"key": "dbIntro9",
 			"side": "left"
 		}

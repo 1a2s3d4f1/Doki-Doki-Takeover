@@ -1,38 +1,38 @@
 flag	content
-rcIntro1	<Q>It appears that we have visitors.<Q>
-rcIntro2	<Q>Seriously, Sayori? You brought a boy to the club?<Q>
-rcIntro3	<Q>Hey- I wasn’t expecting anyone new. We haven’t even put out fliers for the club yet!<Q>
-rcIntro4	<Q>But look, Natsuki! We have another girl too!<Q>
-rcIntro5	*empty thoughts*
-rcIntro6	<Q>Ehehe, if I knew we were expecting more members- I would've asked Natsuki to bake some welcome cupcakes!<Q>
-rcIntro7	<Q>Oh! And maybe I could've asked Yuri to make tea as well!<Q>
-rcIntro8	<Q>I need to write this down for later: 'Plan Tea Party for Club Soon'<Q>
-rcIntro9	<Q>Sounds like you’re already very excited about our new guests. You haven’t even asked for their names yet-<Q>
-rcIntro10	<Q>Ah, right! Eheh, silly me. What’re your names, new literature club attendees?<Q>
+rcIntro1	<Q>看来我们有客人了<Q>
+rcIntro2	<Q>真的吗，纱世里？你带了一个男生来？<Q>
+rcIntro3	<Q>嘿，我没想到会有新人，我们甚至还没有为社团发布招新传单！<Q>
+rcIntro4	<Q>但是，夏树！还有一个女孩！<Q>
+rcIntro5	*空空的样子*
+rcIntro6	<Q>嗯，如果我知道我们会有更多的社员，我会请夏树烤一些用来欢迎的纸杯蛋糕的！<Q>
+rcIntro7	<Q>哦！也许我也可以请优里泡茶！<Q>
+rcIntro8	<Q>我需要写下这句话以便日后使用：“计划为社团策划茶话会”<Q>
+rcIntro9	<Q>听起来你已经对我们的新人感到非常兴奋了，你甚至还没问过他们的名字-<Q>
+rcIntro10	<Q>啊，对！呃，我真傻，新社员，你们叫什么名字？<Q>
 rcIntro11	<Q>Beep skee!<Q>
-rcIntro12	*happy gesture*
-rcIntro13	<Q>You two are Boyfriend and Girlfriend? Aww, you look so cute together!!!<Q>
-rcIntro14	<Q>...that’s cute and all, but like, what are your names?<Q>
+rcIntro12	*愉快的动作*
+rcIntro13	<Q>你们两个是男朋友和女朋友？哇，你们在一起看起来真可爱！！！<Q>
+rcIntro14	<Q>…这很可爱，但你们叫什么名字？<Q>
 rcIntro15	<Q>Beep skee!<Q>
-rcIntro16	*another happy gesture*
-rcIntro17	<Q>Yes, we know that you guys are dating! We wanna know your NAMES!<Q>
+rcIntro16	*愉快的动作2*
+rcIntro17	<Q>是的，我们知道你们在约会！但我们想知道你的名字！<Q>
 rcIntro18	<Q>Bee dee skee dep!<Q>
-rcIntro19	<Q>...I don’t like them already.<Q>
-rcIntro20	<Q>They’re already messing with me!<Q>
-rcIntro21	<Q>Natsuki! Not so harsh...<Q>
-rcIntro22	<Q>Hmph.<Q>
-rcIntro23	<Q>Eheheh... I’m sorry about that. If you don’t want to tell us your names, that’s ok!<Q>
-rcIntro24	<Q>I’m Sayori!<Q>
-rcIntro25	<Q>That lovely lavender lady over there is Yuri, and Natsuki is the one who’s real sassy today.<Q>
-rcIntro26	<Q>With introductions aside... may we ask what these microphones are for?<Q>
-rcIntro27	<Q>I was just about to ask that.<Q>
-rcIntro28	<Q>I hope you didn’t confuse this place with the music club-<Q>
+rcIntro19	<Q>…我已经开始不喜欢他们了<Q>
+rcIntro20	<Q>他们已经在惹我了！<Q>
+rcIntro21	<Q>夏树！不要那么苛刻...<Q>
+rcIntro22	<Q>哼<Q>
+rcIntro23	<Q>呃...我对此感到抱歉，如果你不想告诉我们你们的名字，那没关系！<Q>
+rcIntro24	<Q>我是纱世里！<Q>
+rcIntro25	<Q>那边那位可爱的薰衣草女士是优里，而夏树是那个有点粗鲁的<Q>
+rcIntro26	<Q>抛开介绍不谈...我们可以问一下这些麦克风是干什么用的吗？<Q>
+rcIntro27	<Q>我正要问这个<Q>
+rcIntro28	<Q>我希望你没有把这里和音乐部混为一谈-<Q>
 rcIntro29	<Q>Boop dee!<Q>
-rcIntro30	<Q>...you really want to sing with us?<Q>
-rcIntro31	<Q>I’m... not sure how comfortable I’d feel doing that-<Q>
+rcIntro30	<Q>…你真的想和我们一起唱歌吗？<Q>
+rcIntro31	<Q>我...不确定我这样做会怎么样-<Q>
 rcIntro32	<Q>Skee dep doop!<Q>
-rcIntro33	<Q>Wh-what do you mean I have to?!<Q>
-rcIntro34	<Q>You know, we’ve been working so hard on writing and poems lately. I think having a fun singing session with everyone is the perfect break we all need!<Q>
-rcIntro35	<Q>When you think about it, songs are just poems with music behind them, aren’t they?<Q>
-rcIntro36	<Q>I bet we’d all be great at this!<Q>
-rcIntro37	<Q>Here, I’ll go first!<Q>
+rcIntro33	<Q>我必须？你什么意思！<Q>
+rcIntro34	<Q>你知道，我们最近一直在努力写诗，我认为与每个人一起唱次歌会是我们都需要的小小放松活动！<Q>
+rcIntro35	<Q>仔细想想，歌曲只是有音乐的诗，不是吗？<Q>
+rcIntro36	<Q>我打赌我们在这方面都会很棒！<Q>
+rcIntro37	<Q>我先来！<Q>

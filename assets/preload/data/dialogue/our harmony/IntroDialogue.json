@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "As the last notes of Monika and Sayori’s song fade, Yuri and Natsuki walk back into the music room, both with bashful smiles on their faces.",
+			"string": "随着莫妮卡和纱世里歌曲的最后音符逐渐消失，优里和夏树走回音乐室，脸上都带着羞涩的微笑",
 			"key": "ohIntro1",
 			"side": ""
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Ah, did we miss a special performance?\"",
+			"string": "\"啊，我们错过了一场特别演出吗？\"",
 			"key": "ohIntro2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Ehehehe, we were just celebrating with a song. With how great things have been, how can we not?\"",
+			"string": "\"呵呵，我们只是在用一首歌庆祝，有这么多伟大的事情，我们怎么能说不呢？\"",
 			"key": "ohIntro3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "happy",
-			"string": "\"Unfortunately we have to cut the celebration short, heh heh.\"",
+			"string": "\"不幸的是，我们不得不缩短庆祝活动，呵呵\"",
 			"key": "ohIntro4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "happy",
-			"string": "\"Yuri and I were approached by the Music Club President, and they’re gonna need their room back real soon.\"",
+			"string": "\"音乐部部长找到了优里和我，她们很快就要来这了\"",
 			"key": "ohIntro5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"That must mean it’s almost time for our own club meeting.\"",
+			"string": "\"这意味着差不多也到了我们社团活动的时候了\"",
 			"key": "ohIntro6",
 			"side": "right"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"I do feel bad that we keep using their space, but the acoustics in here are amazing. Perfect for singing or just thinking out loud.\"",
+			"string": "\"我们一直在使用她们的空间，我确实感到很难过，但这里的声学效果令人惊叹，非常适合唱歌或大声思考\"",
 			"key": "ohIntro7",
 			"side": "right"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"We got a little extra time before our club meet starts, so I have an idea!\"",
+			"string": "\"在社团活动开始之前，我们还有一点额外的时间，所以我有个主意！\"",
 			"key": "ohIntro8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"Let’s all sing together! Duets are nice, but imagine how we’d all sound harmonizing at once!\"",
+			"string": "\"让我们一起唱歌！二重奏也许很好，但想象一下我们听起来会多么和谐！\"",
 			"key": "ohIntro9",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"Count me in. I’m more excited to do this than ever.\"",
+			"string": "\"把我算在内，我比以往任何时候都更兴奋能做这件事\"",
 			"key": "ohIntro10",
 			"side": "left"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Uhu, I’d love to join in as well.\"",
+			"string": "\"嗯，我也很想加入\"",
 			"key": "ohIntro11",
 			"side": "left"
 		},
@@ -95,7 +95,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ooh",
-			"string": "\"What say you, club president?\"",
+			"string": "\"你说呢，部长小姐？\"",
 			"key": "ohIntro12",
 			"side": "left"
 		},
@@ -103,7 +103,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Ahaha, of course I'm in!\"",
+			"string": "\"哈哈，我当然在！\"",
 			"key": "ohIntro13",
 			"side": "right"
 		},
@@ -111,7 +111,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Okay, everyone! Let’s begin!\"",
+			"string": "\"好的，各位！让我们开始吧！\"",
 			"key": "ohIntro14",
 			"side": "right"
 		}

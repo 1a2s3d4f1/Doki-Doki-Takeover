@@ -1,49 +1,49 @@
 flag	content
-nameKeyBindings	Key Bindings
-nameDownscroll	Downscroll
-nameUpscroll	Upscroll
-nameGhostTap	Ghost Tapping
-nameNoGhostTap	No Ghost Tapping
-namePosition	Song Position
-nameReset	Reset Button
-nameFlashing	Flashing Lights
-nameJudgement	Judgement Timings
-nameFPSCount	FPS & Memory Counter
-nameFPSCap	FPS Cap
-nameScroll	Scroll Speed
-nameScrollDefault	Song Default
-nameNPS	NPS Display
-nameCustomize	Customize Gameplay HUD
-nameGFCountdown	Girlfriend Countdown
-nameMiddleScrollOn	Middlescroll
-nameMiddleScrollOff	Sidescroll
-nameLaneUnderwayOn	Lane Underlay
-nameLaneUnderwayOff	No Lane Underlay
-nameScoreReset	Reset Score Data
-nameScoreResetConfirm	Confirm Reset Score Data
-nameStoryReset	Reset Story Data
-nameStoryResetConfirm	Confirm Reset Story Data
-nameSaveReset	Delete Save Data
-nameSaveResetConfirm	Confirm Save Data Deletion
-nameSelfAware	Self Awareness
+nameKeyBindings	修改键位
+nameDownscroll	下落式
+nameUpscroll	上升式
+nameGhostTap	误触保护
+nameNoGhostTap	无误触保护
+namePosition	歌曲进度条
+nameReset	自杀按钮
+nameFlashing	闪光灯
+nameJudgement	修改判定
+nameFPSCount	FPS与内存显示
+nameFPSCap	帧数设置
+nameScroll	滚动速度
+nameScrollDefault	歌曲默认值
+nameNPS	NPS显示
+nameCustomize	自定义游戏界面
+nameGFCountdown	GF倒数
+nameMiddleScrollOn	中滚式
+nameMiddleScrollOff	边滚式
+nameLaneUnderwayOn	辅助线
+nameLaneUnderwayOff	辅助线关闭
+nameScoreReset	重置分数数据
+nameScoreResetConfirm	确认重置分数数据？
+nameStoryReset	重置故事模式数据
+nameStoryResetConfirm	确认重置故事模式数据？
+nameSaveReset	重置存档
+nameSaveResetConfirm	确认重置存档数据？
+nameSelfAware	自我意识
 nameGameJolt	Game Jolt Integration
-nameHitSound	Hit Sounds
-nameHitSoundJudge	Judgement Hit Sounds
-nameNoteSplash	Note Splashes
-nameEarlyLate	Early/Late Indicator
-nameAutoPause	Auto Pause
-nameJudgeCount	Judgement Counter
+nameHitSound	点击音效
+nameHitSoundJudge	音符点击音效
+nameNoteSplash	音符命中特效
+nameEarlyLate	早/晚 击中提示
+nameAutoPause	自动暂停
+nameJudgeCount	评分计数器
 nameVideoDub	Video Dub
-nameShowRating	Show Ratings
-nameHideRating	Hide Ratings
-nameAntialiasing	Anti-aliasing
-nameGPUTextures	GPU Textures
-nameCacheSong	Song Caching
-nameCache	Cache Assets
-namePreload	Preload Assets
-nameShaders	Shaders
-nameLowEnd	Low End
-nameCursor	Custom Cursor
-nameMirror	Mirror Mode
-nameSudden	Sudden Death
-nameRandom	Randomized Notes
+nameShowRating	显示评分
+nameHideRating	隐藏评分
+nameAntialiasing	抗锯齿
+nameGPUTextures	显卡纹理
+nameCacheSong	歌曲缓存
+nameCache	缓存资源
+namePreload	预加载资源
+nameShaders	着色器
+nameLowEnd	低占用
+nameCursor	特色鼠标
+nameMirror	镜像模式
+nameSudden	死亡判定
+nameRandom	随机箭头

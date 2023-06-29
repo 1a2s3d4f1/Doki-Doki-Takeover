@@ -14,7 +14,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "happy",
-			"string": "You kept up really well with my song!",
+			"string": "你唱的真不错!",
 			"key": "hscEnd2",
 			"side": "left"
 		},
@@ -22,7 +22,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "Ah, I haven't felt this happy in a while!",
+			"string": "啊，我很久没这么开心过了!",
 			"key": "hscEnd3",
 			"side": "left"
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "Could we sing again?",
+			"string": "想再唱一次吗?",
 			"key": "hscEnd4",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "happy",
-			"string": "Alright! Here we go-",
+			"string": "好的! 让我们-",
 			"key": "hscEnd6",
 			"side": "left"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "whodis",
-			"string": "Who the hell are you?!",
+			"string": "你是谁?!",
 			"key": "hscEnd7",
 			"side": "right"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "-huh?",
+			"string": "-啊?",
 			"key": "hscEnd8",
 			"side": "left"
 		}

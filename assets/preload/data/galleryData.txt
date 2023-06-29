@@ -1,81 +1,81 @@
-menuBG::The original Monika Full Week's menu background.\nby TokyoGalaxy::https://twitter.com/TokyoGalaxyOG
-Monipai::Initial pixel Monika sketch.\nby DusterBuster::https://twitter.com/SirDusterBuster
-DokiFNF::Initial sketches of the cast.\nby DusterBuster::https://twitter.com/SirDusterBuster
-cut2::Obsession Cutscene rough sketch\nby DusterBuster::https://twitter.com/SirDusterBuster
-Mockup1::Rough drafts of Takeover's intro cutscene.\nby DusterBuster::https://twitter.com/SirDusterBuster
-Mockup4::Rough drafts of Takeover's intro cutscene.\nby DusterBuster::https://twitter.com/SirDusterBuster
-episketch::Initial Epiphany Monika sketch\nby DusterBuster::https://twitter.com/SirDusterBuster
-senpai::Non-pixel Senpai sketch.\nby DusterBuster::https://twitter.com/SirDusterBuster
-logos::The mod's various logos.\nby DusterBuster::https://twitter.com/SirDusterBuster
-oldbg::The old Clubroom background.\nby ItoSaihara and DusterBuster::https://twitter.com/ItoSaihara_
-newbg::The new Clubroom background. So much cleaner and vibrant!\nby ItoSaihara and DusterBuster::https://twitter.com/ItoSaihara_
-musicbg::The Music Room background.\nby Sayphonic::https://twitter.com/sayphonic
-ynmbg::The Outside BG\nby Lezanikat::https://twitter.com/lezanikat
-epibg::The Act 3 BG\nby DusterBuster::https://twitter.com/SirDusterBuster
-pkpromo::The promo art for DDTO Plus!\nby Pikons::https://twitter.com/vivalapk
-MoniBoxArt::Monika Full Week's Spotify Album Art\nby MetalSucc::https://twitter.com/MetalSucc
-plusalbum::Doki Doki Takeover Plus' Spotify Album Art\nby Miss Beepy and Crim::https://twitter.com/scrimblocrimbo
-mantella::Monika Full Week/Doki Doki Takeover's Mantella Mixtape Cassette Art\nby Juno Songs::https://twitter.com/JunoSongsYT
-MonikaFriends::Art celebrating the release of Monika Full Week. Recognize them all?\nby DusterBuster::https://twitter.com/SirDusterBuster
-MoniFF::Rebooted! Funky Friday Art\nby DusterBuster::https://twitter.com/SirDusterBuster
-MoniFF2::Takeover! Funky Friday Art\nby DusterBuster::https://twitter.com/SirDusterBuster
-DDTOCutscene::Obsession Cutscene Art 1\nby DusterBuster::https://twitter.com/SirDusterBuster
-DDTOCutscene2::Obsession Cutscene Art 2\nby DusterBuster::https://twitter.com/SirDusterBuster
-ourharmony1::Our Harmony Cutscene Art 1\nby Juno Songs::https://twitter.com/JunoSongsYT
-ourharmony2::Our Harmony Cutscene Art 2\nby Juno Songs::https://twitter.com/JunoSongsYT
-youandme::You and Me Cutscene Art 1\nby Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
-youandme2::You and Me Cutscene Art 2\nby Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
-youandme3::You and Me Cutscene Art 3\nby Juno Songs::https://twitter.com/JunoSongsYT
-youandme4::You and Me Cutscene Art 4\nby Lezanikat::https://twitter.com/lezanikat
-youandme5::You and Me Cutscene Art 5\nby Lezanikat::https://twitter.com/lezanikat
-lovenfunkin::Love n' Funkin' Cutscene Art\nby Lezanikat::https://twitter.com/lezanikat
-wilted1::Wilted Cutscene Art 1\nby DusterBuster::https://twitter.com/SirDusterBuster
-wilted3::Wilted Cutscene Art 2\nby DusterBuster::https://twitter.com/SirDusterBuster
-rerelease::Art celebrating Monika Full Week Rebooted's release!\nby emeruga::https://twitter.com/emeruga/status/1410266880179425285?s=20
-emceleb::Emeruga strikes again to celebrate Takeover's release too!\nby emeruga::https://twitter.com/emeruga/status/1453436298266439684?s=20
-emcelebfinal::One last celebration for one last update!\nby emeruga::https://twitter.com/emeruga
-monikajuno::After a year's worth of work, DDTO+ has released!\nby Juno Songs::https://twitter.com/JunoSongsYT
-hairbrushnat::"I sometimes sing in front of the mirror into my hairbrush."\nby Skellybreak::https://twitter.com/skellybreak/status/1456628128009261056
-club::The Takeover Begins.\nby Coco Puffs::https://twitter.com/file_corruption/status/1626064213876658176?s=20
-oddballmoni::"Just the two of us."\nby Oddball::https://twitter.com/AnOddArtist/status/1455302772413321219
-sannat::Ready to subvert your expectations.\nby Santandraws::https://twitter.com/Santandraws/status/1455597668747538438
-saydoki::The whole gang together again!\nby Sayphonic::https://twitter.com/sayphonic/status/1457503952526794752
-shouko::Ready to write!\nby Shouko-Kun::https://twitter.com/animeeigo10/status/1625966928572432384?s=20
-memoddto::Okay, everyone!\nby MEMOSAN::https://twitter.com/jSY9emonizou/status/1490143424540192768?s=20&t=1VrqOX7uUnG9LwbW-uEvng
-baka::Baka!\nby sisima_::https://twitter.com/sisima_/status/1488494742774054913?s=20&t=ZcGQdjsSU0KQ7bU2G26Ijw
-stariidoki::Come and sing with the Literature Club!\nby StariiFish::https://twitter.com/StariiFish/status/1489825949084307456?s=20&t=v2uYYw1y1csBrHuRyRFwOA
-leza::The Showstopping Club President!\nby Lezanikat::https://twitter.com/lezanikat
-groupshot::Let the world feel our harmony!\nby ChicaBonBon2::https://twitter.com/ChicaBonBon2/status/1625921285846102016?s=20
-groupphoto::"Group photo, everyone!"\nby MrCloaks::https://twitter.com/Cloaks_Artguy/status/1628261632999579648?t=t1XzHsAqCtiOo0GJHD11oA&s=19
-silly::"-and one more!"\nby MrCloaks::https://twitter.com/vivwikls/status/1630030455486533632?s=20
-allofthem::All together now!\nby GMZ::https://twitter.com/GMZ98422340
-tallbf::BF's new Literature Club fit.\nby M4rc3llyLoka::https://twitter.com/M4rc3llyLoka/status/1453491850761932801?s=20
-monisen::The first time two characters fought each other, but as one opponent, in an FNF mod!\nby 3Monika4::https://twitter.com/3Monika4/status/1403274659458535428
-drip::Dripped out.\nby Zee::https://twitter.com/z_zmag8
-ayamoni::Swingin' and Singin'!\nby Ayacchi::https://twitter.com/ayacchi_corner/status/1627910993245351937?s=20
-balloon::Skies full of Hot Air Balloons.\nby Lame::https://twitter.com/justbeinglame/status/1513367920444784640?s=20&t=w27SZCpLfSdFhkBlyJOQrw
-ynm::You and Me!\nby kkflick::https://twitter.com/kkflick/status/1632388367622246401?s=20
-gf::Sing with your special someone!\nby Phillia Esaya::https://twitter.com/PhilliaEsaya
-minusmoni::With many icons comes many Minus forms.\nby LiquidMercury::https://twitter.com/_liquidmercury/status/1454545267995389960?s=20
-minuska::Minus Pixel Monika original sketch.\nby DusterBuster::https://twitter.com/SirDusterBuster
-cheermoni::The original pixel Minus Monika.\nby ShayReyez::https://twitter.com/ShayReyez/status/1454598355678638089?s=20
-minusfriends::Minus friends!\nby Coco Puffs::https://twitter.com/file_corruption/status/1481491451028680704?s=20&t=v2uYYw1y1csBrHuRyRFwOA
-minusgoobers::More friends join the mix!\nby Tapor::https://twitter.com/tapergamine/status/1527993344328364033?s=20&t=KP_G6PBFA7x0uxhIGBEPgQ
-shurisayo::The Literature Club welcomes everyone!\nby Juno Songs::https://twitter.com/JunoSongsYT/status/1453949201126072320?s=20
-antipathy::Well that's a little rude-\nby STS-Puelle::https://twitter.com/STS_PiaEsaya/status/1462690517762732034?s=20
-antipathysaga::The saga continues.\nby FoxinOrbit, onlyoneindigo, & STS-Puelle::https://twitter.com/FoxinOrbit/status/1462849051632754689?s=20
-madcom::Of Madness and Markov.\nby PhilliaEsaya::https://twitter.com/PhilliaEsaya/status/1465492692763250692?s=20
-smiler::A "friend" from the Hotline Tournament.\nby DusterBuster::https://twitter.com/SirDusterBuster/status/1451042942395760643?s=20&t=v2uYYw1y1csBrHuRyRFwOA
-sayozipper::Sayori's been making a lot of weird friends.\nby MaxOKE::https://twitter.com/MaxOKE_
-sayozipper2::He looks friendly though!\nby MaxOKE::https://twitter.com/MaxOKE_
-dokifriends::A world of strange new friends awaits the Literature Club.\nby shiroeyoru::https://twitter.com/shiroeyoru/status/1465821401923784705?s=20
-beepymoment::Sweet girls with shared VAs!\nby Miss Beepy::https://twitter.com/MissBeepy
-carimellemoment::Speaking of same VAs-\nby GumiYumi::https://twitter.com/Yumi61937282
-tioder::Teaching the Rhythm Robo some piano!\nby Zonian::https://twitter.com/MrZonian
-kapsuki::Kapi cosplay!\nby MephrilGG::https://twitter.com/MephrilGG/status/1476608460926169092?s=20&t=c73KF7IfGcuFbpIImC5Lgw
-soft::Soft swap!\nby sakaruchibi12::https://twitter.com/SoftModFNF/status/1581107153066418177?s=20&t=tvahIyq1EYDr8QFlfockow
-cosplay::Festival Fashion!\nby Shouko-Kun::https://twitter.com/animeeigo10/status/1626617481455448070?s=20
-zee::Dressed for the occasion!\nby Zee::https://twitter.com/z_zmag8/status/1632226259186110464?s=20
-calli::...That's not Monika-\nby DusterBuster::https://twitter.com/SirDusterBuster/status/1493706048502484993?s=20&t=xlgoJvsXl25ojVnHbTb4XA
-haachama::"Haachama eats spiders. That's why I'm not friends with her."\nby Zarkion::https://twitter.com/Zarky_Zarky/status/1633972367557795840?s=20
-holopiece::Can we get much higher?\nby TexusA::https://twitter.com/TexusA1/status/1577676443991306240?s=20&t=5j4VCrqxa3DyNaA2oev3-w
+menuBG::最初的Monika Full Week模组菜单背景\nby TokyoGalaxy::https://twitter.com/TokyoGalaxyOG
+Monipai::初始像素莫妮卡草图\nby DusterBuster::https://twitter.com/SirDusterBuster
+DokiFNF::角色的初步草图\nby DusterBuster::https://twitter.com/SirDusterBuster
+cut2::痴迷曲目CG画面1的草图\nby DusterBuster::https://twitter.com/SirDusterBuster
+Mockup1::Takeover开场动画的粗略草稿\nby DusterBuster::https://twitter.com/SirDusterBuster
+Mockup4::Takeover开场动画的粗略草稿\nby DusterBuster::https://twitter.com/SirDusterBuster
+episketch::最初的“顿悟”莫妮卡素描\nby DusterBuster::https://twitter.com/SirDusterBuster
+senpai::高清先辈素描\nby DusterBuster::https://twitter.com/SirDusterBuster
+logos::这个模组的各种图标\nby DusterBuster::https://twitter.com/SirDusterBuster
+oldbg::旧版文学部室的背景\nby ItoSaihara and DusterBuster::https://twitter.com/ItoSaihara_
+newbg::新版文学部室的背景，如此干净和充满活力！\nby ItoSaihara and DusterBuster::https://twitter.com/ItoSaihara_
+musicbg::音乐室背景\nby Sayphonic::https://twitter.com/sayphonic
+ynmbg::室外背景\nby Lezanikat::https://twitter.com/lezanikat
+epibg::太空教室背景\nby DusterBuster::https://twitter.com/SirDusterBuster
+pkpromo::DDTO Plus的宣传画！\nby Pikons::https://twitter.com/vivalapk
+MoniBoxArt::Monika Full Week模组的歌曲封面\nby MetalSucc::https://twitter.com/MetalSucc
+plusalbum::Doki Doki Takeover Plus模组的歌曲封面\nby Miss Beepy and Crim::https://twitter.com/scrimblocrimbo
+mantella::Monika Full Week和Doki Doki Takeover的盒式录音带画\nby Juno Songs::https://twitter.com/JunoSongsYT
+MonikaFriends::庆祝Monika Full Week模组发布的宣传画，你能全部认出他们吗？\nby DusterBuster::https://twitter.com/SirDusterBuster
+MoniFF::Rebooted! Funky Friday画作\nby DusterBuster::https://twitter.com/SirDusterBuster
+MoniFF2::Takeover! Funky Friday画作\nby DusterBuster::https://twitter.com/SirDusterBuster
+DDTOCutscene::痴迷曲目CG画面1\nby DusterBuster::https://twitter.com/SirDusterBuster
+DDTOCutscene2::痴迷曲目CG画面2\nby DusterBuster::https://twitter.com/SirDusterBuster
+ourharmony1::我们的谐律曲目CG画面1\nby Juno Songs::https://twitter.com/JunoSongsYT
+ourharmony2::我们的谐律曲目CG画面2\nby Juno Songs::https://twitter.com/JunoSongsYT
+youandme::你和我曲目CG画面1\nby Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
+youandme2::你和我曲目CG画面2\nby Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
+youandme3::你和我曲目CG画面3\nby Juno Songs::https://twitter.com/JunoSongsYT
+youandme4::你和我曲目CG画面4\nby Lezanikat::https://twitter.com/lezanikat
+youandme5::你和我曲目CG画面5\nby Lezanikat::https://twitter.com/lezanikat
+lovenfunkin::爱与放克曲目CG画面\nby Lezanikat::https://twitter.com/lezanikat
+wilted1::凋零曲目CG画面1\nby DusterBuster::https://twitter.com/SirDusterBuster
+wilted3::凋零曲目CG画面2\nby DusterBuster::https://twitter.com/SirDusterBuster
+rerelease::庆祝Monika Full Week（重置版）的发布！\nby emeruga::https://twitter.com/emeruga/status/1410266880179425285?s=20
+emceleb::Emeruga再次庆祝DDTO的发布！\nby emeruga::https://twitter.com/emeruga/status/1453436298266439684?s=20
+emcelebfinal::最后一次更新与最后一次庆祝！\nby emeruga::https://twitter.com/emeruga
+monikajuno::经过一年的努力，DDTO+发布了！\nby Juno Songs::https://twitter.com/JunoSongsYT
+hairbrushnat::"我有时会对着镜子拿着发刷唱歌"\nby Skellybreak::https://twitter.com/skellybreak/status/1456628128009261056
+club::Takeover的开幕\nby Coco Puffs::https://twitter.com/file_corruption/status/1626064213876658176?s=20
+oddballmoni::"只有我们两个"\nby Oddball::https://twitter.com/AnOddArtist/status/1455302772413321219
+sannat::准备好颠覆你的期望\nby Santandraws::https://twitter.com/Santandraws/status/1455597668747538438
+saydoki::整个文学部又聚在一起了！\nby Sayphonic::https://twitter.com/sayphonic/status/1457503952526794752
+shouko::准备好写诗了！\nby Shouko-Kun::https://twitter.com/animeeigo10/status/1625966928572432384?s=20
+memoddto::好了，各位！\nby MEMOSAN::https://twitter.com/jSY9emonizou/status/1490143424540192768?s=20&t=1VrqOX7uUnG9LwbW-uEvng
+baka::笨蛋！\nby sisima_::https://twitter.com/sisima_/status/1488494742774054913?s=20&t=ZcGQdjsSU0KQ7bU2G26Ijw
+stariidoki::来一起在文学部唱歌吧！\nby StariiFish::https://twitter.com/StariiFish/status/1489825949084307456?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+leza::部长的表演！\nby Lezanikat::https://twitter.com/lezanikat
+groupshot::让世界感受到我们的谐律！\nby ChicaBonBon2::https://twitter.com/ChicaBonBon2/status/1625921285846102016?s=20
+groupphoto::"大家合影！"\nby MrCloaks::https://twitter.com/Cloaks_Artguy/status/1628261632999579648?t=t1XzHsAqCtiOo0GJHD11oA&s=19
+silly::"-还有一个！"\nby MrCloaks::https://twitter.com/vivwikls/status/1630030455486533632?s=20
+allofthem::齐聚一堂！\nby GMZ::https://twitter.com/GMZ98422340
+tallbf::BF合身的文学部服装\nby M4rc3llyLoka::https://twitter.com/M4rc3llyLoka/status/1453491850761932801?s=20
+monisen::第一次两个角色作为一个对手在FNF模组里互相战斗！\nby 3Monika4::https://twitter.com/3Monika4/status/1403274659458535428
+drip::潮流的\nby Zee::https://twitter.com/z_zmag8
+ayamoni::摇摆和歌唱！\nby Ayacchi::https://twitter.com/ayacchi_corner/status/1627910993245351937?s=20
+balloon::天空充满了热气球\nby Lame::https://twitter.com/justbeinglame/status/1513367920444784640?s=20&t=w27SZCpLfSdFhkBlyJOQrw
+ynm::你和我！\nby kkflick::https://twitter.com/kkflick/status/1632388367622246401?s=20
+gf::和你的特别的那个人一起唱歌！\nby Phillia Esaya::https://twitter.com/PhilliaEsaya
+minusmoni::伴随着许多小图标而来的是许多Minus的出现\nby LiquidMercury::https://twitter.com/_liquidmercury/status/1454545267995389960?s=20
+minuska::Minus像素莫妮卡原始草图\nby DusterBuster::https://twitter.com/SirDusterBuster
+cheermoni::原来的Minus像素莫妮卡\nby ShayReyez::https://twitter.com/ShayReyez/status/1454598355678638089?s=20
+minusfriends::Minus的朋友！\nby Coco Puffs::https://twitter.com/file_corruption/status/1481491451028680704?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+minusgoobers::更多Minus的朋友的加入！\nby Tapor::https://twitter.com/tapergamine/status/1527993344328364033?s=20&t=KP_G6PBFA7x0uxhIGBEPgQ
+shurisayo::文学部欢迎大家！\nby Juno Songs::https://twitter.com/JunoSongsYT/status/1453949201126072320?s=20
+antipathy::这有点粗鲁-\nby STS-Puelle::https://twitter.com/STS_PiaEsaya/status/1462690517762732034?s=20
+antipathysaga::传奇故事还在继续\nby FoxinOrbit, onlyoneindigo, & STS-Puelle::https://twitter.com/FoxinOrbit/status/1462849051632754689?s=20
+madcom::关于暴力迪吧和马卡洛夫\nby PhilliaEsaya::https://twitter.com/PhilliaEsaya/status/1465492692763250692?s=20
+smiler::一个来自热线锦标赛的“朋友”\nby DusterBuster::https://twitter.com/SirDusterBuster/status/1451042942395760643?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+sayozipper::纱世里交了很多奇怪的朋友\nby MaxOKE::https://twitter.com/MaxOKE_
+sayozipper2::不过他看起来很友好！\nby MaxOKE::https://twitter.com/MaxOKE_
+dokifriends::一个陌生世界的新朋友们等待着文学部\nby shiroeyoru::https://twitter.com/shiroeyoru/status/1465821401923784705?s=20
+beepymoment::甜蜜的女孩与共享的VA！\nby Miss Beepy::https://twitter.com/MissBeepy
+carimellemoment::谈到相同的VA-\nby GumiYumi::https://twitter.com/Yumi61937282
+tioder::教节奏机器人弹钢琴！\nby Zonian::https://twitter.com/MrZonian
+kapsuki::Kapi的Cosplay！\nby MephrilGG::https://twitter.com/MephrilGG/status/1476608460926169092?s=20&t=c73KF7IfGcuFbpIImC5Lgw
+soft::交换衣服！\nby sakaruchibi12::https://twitter.com/SoftModFNF/status/1581107153066418177?s=20&t=tvahIyq1EYDr8QFlfockow
+cosplay::学园祭的时尚！\nby Shouko-Kun::https://twitter.com/animeeigo10/status/1626617481455448070?s=20
+zee::得体的穿着！\nby Zee::https://twitter.com/z_zmag8/status/1632226259186110464?s=20
+calli::...这不是莫妮卡-\nby DusterBuster::https://twitter.com/SirDusterBuster/status/1493706048502484993?s=20&t=xlgoJvsXl25ojVnHbTb4XA
+haachama::"Haachama吃蜘蛛，这就是为什么我和她不是朋友"\nby Zarkion::https://twitter.com/Zarky_Zarky/status/1633972367557795840?s=20
+holopiece::我们能飞得更高吗？\nby TexusA::https://twitter.com/TexusA1/status/1577676443991306240?s=20&t=5j4VCrqxa3DyNaA2oev3-w

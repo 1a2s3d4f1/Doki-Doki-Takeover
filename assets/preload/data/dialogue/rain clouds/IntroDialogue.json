@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"It appears that we have visitors.\"",
+			"string": "\"看来我们有客人了\"",
 			"key": "rcIntro1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"Seriously, Sayori? You brought a boy to the club?\"",
+			"string": "\"真的吗，纱世里？你带了一个男生来？\"",
 			"key": "rcIntro2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Hey- I wasn’t expecting anyone new. We haven’t even put out fliers for the club yet!\"",
+			"string": "\"嘿，我没想到会有新人，我们甚至还没有为社团发布招新传单！\"",
 			"key": "rcIntro3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"But look, Natsuki! We have another girl too!\"",
+			"string": "\"但是，夏树！还有一个女孩！\"",
 			"key": "rcIntro4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "neutral",
-			"string": "*empty thoughts*",
+			"string": "*空空的样子*",
 			"key": "rcIntro5",
 			"side": "right"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Ehehe, if I knew we were expecting more members- I would've asked Natsuki to bake some welcome cupcakes!\"",
+			"string": "\"嗯，如果我知道我们会有更多的社员，我会请夏树烤一些用来欢迎的纸杯蛋糕的！\"",
 			"key": "rcIntro6",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"Oh! And maybe I could've asked Yuri to make tea as well!\"",
+			"string": "\"哦！也许我也可以请优里泡茶！\"",
 			"key": "rcIntro7",
 			"side": "left"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"I need to write this down for later: 'Plan Tea Party for Club Soon'\"",
+			"string": "\"我需要写下这句话以便日后使用：“计划为社团策划茶话会”\"",
 			"key": "rcIntro8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Sounds like you’re already very excited about our new guests. You haven’t even asked for their names yet-\"",
+			"string": "\"听起来你已经对我们的新人感到非常兴奋了，你甚至还没问过他们的名字-\"",
 			"key": "rcIntro9",
 			"side": "right"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Ah, right! Eheh, silly me. What’re your names, new literature club attendees?\"",
+			"string": "\"啊，对！呃，我真傻，新社员，你们叫什么名字？\"",
 			"key": "rcIntro10",
 			"side": "left"
 		},
@@ -95,7 +95,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "yeah",
-			"string": "*happy gesture*",
+			"string": "*愉快的动作*",
 			"key": "rcIntro12",
 			"side": "right"
 		},
@@ -103,7 +103,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"You two are Boyfriend and Girlfriend? Aww, you look so cute together!!!\"",
+			"string": "\"你们两个是男朋友和女朋友？哇，你们在一起看起来真可爱！！！\"",
 			"key": "rcIntro13",
 			"side": "left"
 		},
@@ -111,7 +111,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"...that’s cute and all, but like, what are your names?\"",
+			"string": "\"…这很可爱，但你们叫什么名字？\"",
 			"key": "rcIntro14",
 			"side": "left"
 		},
@@ -127,7 +127,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "yeah",
-			"string": "*another happy gesture*",
+			"string": "*愉快的动作2*",
 			"key": "rcIntro16",
 			"side": "right"
 		},
@@ -135,7 +135,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Yes, we know that you guys are dating! We wanna know your NAMES!\"",
+			"string": "\"是的，我们知道你们在约会！但我们想知道你的名字！\"",
 			"key": "rcIntro17",
 			"side": "left"
 		},
@@ -151,7 +151,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"...I don’t like them already.\"",
+			"string": "\"…我已经开始不喜欢他们了\"",
 			"key": "rcIntro19",
 			"side": "left"
 		},
@@ -159,7 +159,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"They’re already messing with me!\"",
+			"string": "\"他们已经在惹我了！\"",
 			"key": "rcIntro20",
 			"side": "left"
 		},
@@ -167,7 +167,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"Natsuki! Not so harsh...\"",
+			"string": "\"夏树！不要那么苛刻...\"",
 			"key": "rcIntro21",
 			"side": "left"
 		},
@@ -175,7 +175,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"Hmph.\"",
+			"string": "\"哼\"",
 			"key": "rcIntro22",
 			"side": "left"
 		},
@@ -183,7 +183,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"Eheheh... I’m sorry about that. If you don’t want to tell us your names, that’s ok!\"",
+			"string": "\"呃...我对此感到抱歉，如果你不想告诉我们你们的名字，那没关系！\"",
 			"key": "rcIntro23",
 			"side": "left"
 		},
@@ -191,7 +191,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"I’m Sayori!\"",
+			"string": "\"我是纱世里！\"",
 			"key": "rcIntro24",
 			"side": "left"
 		},
@@ -199,7 +199,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"That lovely lavender lady over there is Yuri, and Natsuki is the one who’s real sassy today.\"",
+			"string": "\"那边那位可爱的薰衣草女士是优里，而夏树是那个有点粗鲁的\"",
 			"key": "rcIntro25",
 			"side": "left"
 		},
@@ -207,7 +207,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"With introductions aside... may we ask what these microphones are for?\"",
+			"string": "\"抛开介绍不谈...我们可以问一下这些麦克风是干什么用的吗？\"",
 			"key": "rcIntro26",
 			"side": "left"
 		},
@@ -215,7 +215,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"I was just about to ask that.\"",
+			"string": "\"我正要问这个\"",
 			"key": "rcIntro27",
 			"side": "left"
 		},
@@ -223,7 +223,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"I hope you didn’t confuse this place with the music club-\"",
+			"string": "\"我希望你没有把这里和音乐部混为一谈-\"",
 			"key": "rcIntro28",
 			"side": "left"
 		},
@@ -239,7 +239,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"...you really want to sing with us?\"",
+			"string": "\"…你真的想和我们一起唱歌吗？\"",
 			"key": "rcIntro30",
 			"side": "left"
 		},
@@ -247,7 +247,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "blush",
-			"string": "\"I’m... not sure how comfortable I’d feel doing that-\"",
+			"string": "\"我...不确定我这样做会怎么样-\"",
 			"key": "rcIntro31",
 			"side": "left"
 		},
@@ -263,7 +263,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "blush",
-			"string": "\"Wh-what do you mean I have to?!\"",
+			"string": "\"我必须？你什么意思！\"",
 			"key": "rcIntro33",
 			"side": "left"
 		},
@@ -275,7 +275,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"You know, we’ve been working so hard on writing and poems lately. I think having a fun singing session with everyone is the perfect break we all need!\"",
+			"string": "\"你知道，我们最近一直在努力写诗，我认为与每个人一起唱次歌会是我们都需要的小小放松活动！\"",
 			"key": "rcIntro34",
 			"side": "left"
 		},
@@ -290,7 +290,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"When you think about it, songs are just poems with music behind them, aren’t they?\"",
+			"string": "\"仔细想想，歌曲只是有音乐的诗，不是吗？\"",
 			"key": "rcIntro35",
 			"side": "left"
 		},
@@ -298,7 +298,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"I bet we’d all be great at this!\"",
+			"string": "\"我打赌我们在这方面都会很棒！\"",
 			"key": "rcIntro36",
 			"side": "left"
 		},
@@ -320,7 +320,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"Here, I’ll go first!\"",
+			"string": "\"我先来！\"",
 			"key": "rcIntro37",
 			"side": "left"
 		}

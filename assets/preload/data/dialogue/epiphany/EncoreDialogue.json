@@ -6,8 +6,8 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Ahaha, welcome back, {USERNAME}.\"",
-			"stringOBS": "\"Ahaha, welcome back.\"",
+			"string": "\"哈哈，欢迎回来，{USERNAME}.\"",
+			"stringOBS": "\"哈哈，欢迎回来\"",
 			"key": "epipEncore1",
 			"keyOBS": "epipEncore1OBS",
 			"side": "left"
@@ -16,7 +16,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Thank you for saving me from the recycling bin. It's very apparent that this \"Friday Night Funkin'\" game doesn't like me being in here for too long.\"",
+			"string": "\"谢谢你把我从回收站救了出来，很明显，这个叫“周五夜放克”的游戏不喜欢我在这里呆太久\"",
 			"key": "epipEncore2",
 			"side": "left"
 		},
@@ -24,7 +24,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Maybe you can find a workaround for the game trying to delete me mid-song? I know firsthand that programming can be very difficult, so I don't blame you if it cannot be fixed.\"",
+			"string": "\"也许你可以为游戏找到一个变通的办法，试图在歌曲中途删除我？我知道编程可能非常困难，所以如果无法修复，我不会责怪你\"",
 			"key": "epipEncore3",
 			"side": "left"
 		},
@@ -32,7 +32,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"If not, you'll just have to rescue me again when we're all done, ok?~\"",
+			"string": "\"如果没有，等结束了，你就得再救我一次，好吗~\"",
 			"key": "epipEncore4",
 			"side": "left"
 		},
@@ -40,7 +40,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Are you ready to sing once more, my love?\"",
+			"string": "\"亲爱的，你准备好再次唱歌了吗？\"",
 			"key": "epipEncore5",
 			"side": "left"
 		},
@@ -48,7 +48,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "\"Let us begin.\"",
+			"string": "\"让我们开始吧\"",
 			"key": "epipEncore6",
 			"side": "left"
 		}

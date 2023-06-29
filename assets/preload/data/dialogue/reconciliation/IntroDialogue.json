@@ -6,7 +6,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"Monika! We've been waiting for you!\"",
+			"string": "\"莫妮卡！我们一直在等你！\"",
 			"key": "recoIntro1",
 			"side": "left"
 		},
@@ -14,7 +14,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"It's not like you to be this late to a club meeting!\"",
+			"string": "\"这么迟来可不像你\"",
 			"key": "recoIntro2",
 			"side": "left"
 		},
@@ -22,7 +22,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"It appears that you've brought some new members with you too.\"",
+			"string": "\"看来你带来了一些新成员\"",
 			"key": "recoIntro3",
 			"side": "left"
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"Seriously, Monika? You brought a boy?\"",
+			"string": "\"真的吗，莫妮卡？你带来了一个男生？\"",
 			"key": "recoIntro4",
 			"side": "left"
 		},
@@ -38,7 +38,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"Well, at least you found another girl too.\"",
+			"string": "\"好吧，至少你也找到了另一个女孩\"",
 			"key": "recoIntro5",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "(One who doesn't make me feel so small compared to the rest of you.)",
+			"string": "（与你们其他人相比，她不会让我觉得自己很矮小）",
 			"key": "recoIntro6",
 			"side": "left"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"Oh! I-\"",
+			"string": "\"哦！我-\"",
 			"key": "recoIntro7",
 			"side": "left"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "neutral",
-			"string": "*stare*",
+			"string": "*凝视*",
 			"key": "recoIntro8",
 			"side": "right"
 		},
@@ -70,7 +70,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "neutral",
-			"string": "*stare*",
+			"string": "*凝视*",
 			"key": "recoIntro8",
 			"side": "right"
 		},
@@ -78,7 +78,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"...hello, you two. It's been a while.\"",
+			"string": "\"…你好，你们两个，已经有一段时间了\"",
 			"key": "recoIntro9",
 			"side": "left"
 		},
@@ -94,7 +94,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"I'm sorry for what I did before.\"",
+			"string": "\"我为我以前的所作所为感到抱歉\"",
 			"key": "recoIntro11",
 			"side": "left"
 		},
@@ -102,7 +102,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"And I'm sorry for inadvertently putting you in another situation just like that soon after-\"",
+			"string": "\"我很抱歉在那不久后又不小心让你陷入了另一种危险的境地-\"",
 			"key": "recoIntro12",
 			"side": "left"
 		},
@@ -110,7 +110,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"-but now that I'm here, everything should be stable.\"",
+			"string": "\"-但现在我来了，一切都应该稳定下来了\"",
 			"key": "recoIntro13",
 			"side": "left"
 		},
@@ -118,7 +118,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "eeh",
-			"string": "\"I don't expect you to forgive me... but I'm glad you two are safe now.\"",
+			"string": "\"我不希望你原谅我…但我很高兴你们两个现在安全了\"",
 			"key": "recoIntro14",
 			"side": "left"
 		},
@@ -148,7 +148,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Ahaha... You have no idea how happy I am to hear that.\"",
+			"string": "\"啊哈哈...你不知道我听到这个有多高兴\"",
 			"key": "recoIntro16",
 			"side": "left"
 		},
@@ -156,7 +156,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Okay, everyone!\"",
+			"string": "\"好的，各位!\"",
 			"key": "recoIntro17",
 			"side": "left"
 		},
@@ -164,7 +164,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"I'd like you to meet the newest members of the Literature Club!\"",
+			"string": "\"我想让你们认识一下文学部的最新成员！\"",
 			"key": "recoIntro18",
 			"side": "left"
 		},
@@ -172,7 +172,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"And I've got a fun way I'd like to introduce them.\"",
+			"string": "\"我有一个有趣的方式来介绍他们\"",
 			"key": "recoIntro19",
 			"side": "left"
 		},
@@ -180,7 +180,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "upset",
-			"string": "\"Hey, despite all that stressful stuff that just happened-\"",
+			"string": "\"嘿，尽管刚刚发生了那么多紧张的事情-\"",
 			"key": "recoIntro20",
 			"side": "left"
 		},
@@ -188,7 +188,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"-you have enough energy left for one more song?\"",
+			"string": "\"-你还有足够的精力再唱一首歌吗？\"",
 			"key": "recoIntro21",
 			"side": "left"
 		},
@@ -204,7 +204,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Then let's do it!\"",
+			"string": "\"那我们就开始吧！\"",
 			"key": "recoIntro23",
 			"side": "left"
 		}

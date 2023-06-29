@@ -1,51 +1,51 @@
 flag	content
-descKeyBindings	Change the key bindings of each note.
-descDownscroll	Change the direction of incoming notes.
-descGhostTap	Determines whether or not tapping outside of incoming notes will reduce your health.
-descJudgement	Customize the game's judgement timings.
-descFPSCap	Set the game's FPS cap. (Left or Right, Shift to go faster)
-descCurFPSCap	Current FPS Cap
-descScroll	Change your note scroll speed. Mid-song speed changes won't apply. (Left or Right, Shift to go faster)
-descCurScroll	Current Scroll Speed
-descReset	Toggle pressing R to game over.
-descCustomize	Customize parts of the gameplay HUD to your heart's content.
-descCustomizeState	Drag around the score to customize its position. R to reset. Q/E to zoom. Space to pause zooming. C to generate combo.
-descAccuracy	Display accuracy information underneath the health bar.
-descNPS	Shows your current notes per second.
-descPosition	Shows how much time is left in the current song.
-descFPSCount	Display the current framerate and memory usage.
-descFlashing	Toggle flashing lights that may cause epileptic seizures and/or eye strain.
-descBotplay	Have a bot automatically play for you. (Scores will not be saved)
-descGFCountdown	Have Girlfriend count down before the song starts.
-descMiddleScroll	Put your notes in the center or to the right of the screen.
-descLaneUnderway	Toggles an underlay for the notes. (0% is transparent, 100% is opaque)
-descLaneUnderwayControl	Current Lane Underlay transparency
-descScoreReset	Reset your score save data to its defaults. This will also affect certain unlocks. (CANNOT BE REVERSED)
-descStoryReset	Reset your story save data to its defaults. This will also affect certain unlocks. (CANNOT BE REVERSED)
-descSaveReset	Deletes your save file entirely. (CANNOT BE REVERSED)
+descKeyBindings	更改音符按键的键位
+descDownscroll	更改音符传来的方向
+descGhostTap	关闭后，在平常的时候点击按键不会算作失误而减少血量
+descJudgement	自定义游戏的判定时间
+descFPSCap	设置游戏的FPS上限（按左右键设置，按住Shift以加快速度）
+descCurFPSCap	当前FPS上限
+descScroll	更改音符滚动速度，歌曲中间发生的速度变化不适用（按左右键设置，按住Shift以加快速度）
+descCurScroll	当前音符滚动速度
+descReset	开启后，在游戏中可按下键盘上的R键自杀
+descCustomize	根据您的喜好自定义游戏画面的部分内容
+descCustomizeState	拖动以自定义其位置，点击R键重置，Q/E键缩放，点击空格锁定缩放的空间，点击C键生成连击效果
+descAccuracy	在血量条下方显示准确的信息
+descNPS	时刻显示屏幕上出现的音符准确数
+descPosition	显示歌曲的时间条
+descFPSCount	显示当前帧率和内存使用情况
+descFlashing	关闭或打开可能导致癫痫发作或视觉疲劳的闪光灯
+descBotplay	让一个机器人自动帮你玩（不会保存分数数据）
+descGFCountdown	在歌曲开始前GF会做出倒计时的动作
+descMiddleScroll	将音符显示在屏幕中央或右侧
+descLaneUnderway	打开谱面辅助线（0%为透明，100%为不透明）
+descLaneUnderwayControl	当前辅助线透明度
+descScoreReset	将歌曲分数数据重置，这也会影响某些解锁的东西（不可逆）
+descStoryReset	将故事模式进度重置，这也会影响某些解锁的东西（不可逆）
+descSaveReset	删除游戏存档（不可逆）
 descGameJolt	Log into your Game Jolt account to earn trophies!
-descHitSound	Play a sound whenever you press a note key.
-descHitSoundControl	Current Hit Sound volume
-descHitSoundJudge	Chooses whether or not hit sounds change depending on the note judgement that you get.
-descNoteSplash	Adds a splash to any sick notes you hit!
-descEarlyLate	Shows an indicator for whenever you hit the note early or late.
-descAutoPause	Toggle the game pausing in menus when it's unfocused.
-descJudgeCount	Shows a count of every judgement that you get during a song.
-descLanguage	Change the language of the game.
-descVideoDub	View the official video dub of Doki Doki Takeover!
-descBadEnd	Experience what goes wrong in an alternate ending. (Goes to GameBanana)
-descRatingToggle	Choose whether or not ratings are shown during gameplay.
-descAntialiasing	Make visuals smoother at the cost of performance.
-descMiddleOpponent	Show opponent notes
-descGPUTextures	Load textures through your GPU instead, reducing memory usage.
-descCacheSong	Reduce load times by caching every song on boot. (HEAVY MEMORY USAGE)
-descCache	Reduce further load times in this session by caching what was enabled above.
-descPreload	Preload assets when going into a song to reduce stutters and freezes at the cost of load times.
-descRandom	Randomize the notes of you and your opponent! (Scores will not be saved)
-descNoM	Notes of Markov
-descShaders	Allow the game to make use of shaders! Disable if you experience crashes or performance issues.
-descCursor	Shows a customized cursor instead of your computer's cursor.
-descLowEnd	Disables effects in favor of improving performance.
-descKeyBindControls	Escape to save, Backspace to reset. Enter to change a keybind.
-descKeyBindBlacklist	<X> is blacklisted!
-descJudgementControls	Press Left to decrease by 1, or Right to increase by 1.<N>Shift will go faster, Control will go by 0.1, Alt will go by 0.01.<N>Press R to reset the selected judgement. Holding Shift will reset all judgements.
+descHitSound	当按下按键时播放音效
+descHitSoundControl	当前点击音效大小
+descHitSoundJudge	根据你点击的音符判断来选择敲击音效是否变化
+descNoteSplash	打开后当你以Sick评价击中音符时会出现飞溅效果！
+descEarlyLate	无论何时，提前或后按音符时会显示一个提示
+descAutoPause	在游戏倒计时结束前自动暂停
+descJudgeCount	显示你在一首歌中得到的每一个判定的计数
+descLanguage	更改游戏语言
+descVideoDub	查看Doki Doki Takeover的官方配音视频！
+descBadEnd	体验另一个坏结局（打开GameBanana网站）
+descRatingToggle	是否在游戏过程中显示评分
+descAntialiasing	以牺牲性能为代价使视觉效果更加流畅
+descMiddleOpponent	显示对手的音符
+descGPUTextures	通过显卡加载纹理以减少内存占用
+descCacheSong	通过在启动时缓存每首歌曲来减少加载时间（占用大量内存）
+descCache	通过缓存上面启用的内容进一步减少加载时间
+descPreload	在进入歌曲时预加载档案以减少断断续续的效果和以更多加载时间为代价的停滞
+descRandom	将你和你的对手的音符随机化！（不会保存分数数据）
+descNoM	马卡洛夫音符
+descShaders	允许游戏使用着色器！如果遇到崩溃或性能问题请关闭
+descCursor	显示特色鼠标
+descLowEnd	禁用一切减少性能的效果
+descKeyBindControls	按Esc键保存，按Backspace键重置，按Enter可更改键位
+descKeyBindBlacklist	<X> 被列入黑名单！
+descJudgementControls	按左键减少1点，按右键增加1点，<N>按住Shift会更快，按Control增加0.1，按Alt会增加0.01。<N>点击R可重置所选判定，同时按住Shift键将重置所有判定

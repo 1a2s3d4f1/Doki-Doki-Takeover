@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Not too long after Natsuki took her leave, another familiar face entered the music room. A certain ‘lovely lavender lady’, to be exact.",
+			"string": "夏树离开后不久，另一张熟悉的面孔走进了音乐室，确切地说，是一位“可爱的薰衣草女士”",
 			"key": "svIntro1",
 			"side": ""
 		},
@@ -21,7 +21,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"Ah, hopefully I’m not interrupting anything-\"",
+			"string": "\"啊，希望我没有打断任何事情-\"",
 			"key": "svIntro2",
 			"side": "left"
 		},
@@ -29,7 +29,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Yuri! No worries, I’ve just been pacing around, passing time until our next club meeting.\"",
+			"string": "\"优里！不用担心，我只是四处走走，打发时间，直到我们的下一次社团活动\"",
 			"key": "svIntro3",
 			"side": "right"
 		},
@@ -37,7 +37,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"Mhhm. This may be a little odd for me to say out of nowhere, but…\"",
+			"string": "\"嗯...这对我来说可能有点奇怪，但…\"",
 			"key": "svIntro4",
 			"side": "left"
 		},
@@ -45,7 +45,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"-thank you.\"",
+			"string": "\"-谢谢\"",
 			"key": "svIntro5",
 			"side": "left"
 		},
@@ -53,7 +53,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Oh? What for?\"",
+			"string": "\"哦？为何？\"",
 			"key": "svIntro6",
 			"side": "right"
 		},
@@ -61,7 +61,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"With all we’ve been doing in the club, that discomfort I feel… trying to commit to presenting what I do in front of others.\"",
+			"string": "\"由于我们在文学部所做的一切，我感到不舒服……因为我试图在别人面前展示我所做的\"",
 			"key": "svIntro7",
 			"side": "left"
 		},
@@ -69,7 +69,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"It’s gradually subsiding the more we do things together as a club.\"",
+			"string": "\"作为一个文学部，我们一起做的事情越多，这种情况就越逐渐平息\"",
 			"key": "svIntro8",
 			"side": "left"
 		},
@@ -77,7 +77,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"The writing, singing, and just… talking. It's all given me a much better alternative to… releasing my emotions.\"",
+			"string": "\"写作，唱歌，和只是…说话，这一切给了我一个更好的选择…释放我的情绪\"",
 			"key": "svIntro9",
 			"side": "left"
 		},
@@ -85,7 +85,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"I’m so happy to hear that, Yuri! I’ve noticed you stepping out of your comfort zone a lot more as of late, and your confident singing voice is always pleasant to hear.\"",
+			"string": "\"听到这个我很高兴，优里！我注意到你最近更多地走出了自己的舒适区，你自信的歌声总是令人愉快\"",
 			"key": "svIntro10",
 			"side": "right"
 		},
@@ -93,7 +93,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Knowing that this club has been such a good place of self-improvement for you, I couldn't be happier to hear that.\"",
+			"string": "\"知道这个文学部对你来说是一个自我提升的好地方，我听到这个消息非常高兴\"",
 			"key": "svIntro11",
 			"side": "right"
 		},
@@ -101,7 +101,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Yuri breaks eye contact and looks away for just a second; A shy smile cropping up on her face.",
+			"string": "优里中断了眼神交流，目光移开了一秒钟；她脸上露出腼腆的微笑",
 			"key": "svIntro12",
 			"side": ""
 		},
@@ -109,7 +109,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"I wanted to celebrate this personal milestone with something special.\"",
+			"string": "\"我想用一些特别的东西来庆祝这个个人里程碑\"",
 			"key": "svIntro13",
 			"side": "left"
 		},
@@ -117,7 +117,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"I… wrote my own song. This is new territory for my writing prowess, so I wanted to ask if you’d like to perform it with me here.\"",
+			"string": "\"我…写了一支我自己的歌，这是我写作能力的新领域，所以我想问你是否愿意在这里和我一起唱\"",
 			"key": "svIntro14",
 			"side": "left"
 		},
@@ -125,7 +125,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"Just a little bit of peer review before I show the others.\"",
+			"string": "\"在我给其他人看之前，我想做一点同行评审\"",
 			"key": "svIntro15",
 			"side": "left"
 		},
@@ -133,7 +133,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"I’d be honored!\"",
+			"string": "\"奉陪到底！\"",
 			"key": "svIntro16",
 			"side": "right"
 		},
@@ -141,7 +141,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Shall we begin? My vocal chords are already warmed up!\"",
+			"string": "\"我们可以开始了吗？我的声带已经热起来了！\"",
 			"key": "svIntro17",
 			"side": "right"
 		}

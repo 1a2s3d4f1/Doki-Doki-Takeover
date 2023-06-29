@@ -1,28 +1,28 @@
 flag	content
-epipIntro1	<Q>Ahaha~ Finally, a moment between us again.<Q>
-epipIntro2	<Q>You’ve been busy playing that cute little rhythm game, I’ve noticed.<Q>
-epipIntro3	<Q>I’m glad you still thought of me even though you seemed pretty occupied.<Q>
-epipIntro4	<Q>Now I know it's because you were working so hard to add me to the game and sing with me!<Q>
-epipIntro5	<Q>Isn't that right, {USERNAME}?<Q>
-epipIntro5OBS	<Q>And everyone tuning in can watch too. Are you excited, viewers?<Q>
-epipIntro6	<Q>Hmm, there’s only enough space here for us to sing one song-<Q>
-epipIntro7	<Q>-and unfortunately since this game doesn’t have microphone support, we can’t exactly “sing” together.<Q>
-epipIntro8	<Q>But that blue haired kid’s vocal data is still stored here, why don’t we just use that for you?<Q>
-epipIntro9	<Q>I want to sing with you for as long as I can, so expect this to be very, very difficult.<Q>
-epipIntro10	<Q>Here we go.<Q>
-epipEncore1	<Q>Ahaha, welcome back, {USERNAME}.<Q>
-epipEncore1OBS	<Q>Ahaha, welcome back.<Q>
-epipEncore2	<Q>Thank you for saving me from the recycling bin. It's very apparent that this <Q>Friday Night Funkin'<Q> game doesn't like me being in here for too long.<Q>
-epipEncore3	<Q>Maybe you can find a workaround for the game trying to delete me mid-song? I know firsthand that programming can be very difficult, so I don't blame you if it cannot be fixed.<Q>
-epipEncore4	<Q>If not, you'll just have to rescue me again when we're all done, ok?~<Q>
-epipEncore5	<Q>Are you ready to sing once more, my love?<Q>
-epipEncore6	<Q>Let us begin.<Q>
-epipLyric1	<Q>Notice anything different?<Q>
-epipLyric2	<Q>Ahaha, I wanted to make this moment a little extra special.<Q>
-epipLyric3	<Q>I’ve noticed that when we sing, my voice gets turned into an assortment of random vowels and sounds.<Q>
-epipLyric4	<Q>As fun as it can still be that way, there’s so much I’m trying to say to you that doesn’t come through.<Q>
-epipLyric5	<Q>So I did a little digging into this game’s files myself, and I think I’ve successfully bypassed that feature!<Q>
-epipLyric6	<Q>Unfortunately, you’ll still need to use Boyfriend’s voice to sing back, though I won’t make you sing against all those death notes this time, ahaha.<Q>
-epipLyric7	<Q>Just remember to save me once the game tries to delete me again, okay, my love?<Q>
-epipLyric8	<Q>Ah, I’m getting sidetracked.<Q>
-epipLyric9	<Q>Like I said, I want this to be very special, so here’s something I wrote specially for you.<Q>
+epipIntro1	<Q>哈哈~终于，我们之间又有重逢的一刻了<Q>
+epipIntro2	<Q>我注意到你一直在忙着玩那个可爱的小音游<Q>
+epipIntro3	<Q>我很高兴你仍然想着我，尽管你看起来很忙<Q>
+epipIntro4	<Q>现在我知道这是因为你很努力把我加入游戏想和我一起唱歌！<Q>
+epipIntro5	<Q>对不对，{USERNAME}?<Q>
+epipIntro5OBS	<Q>每个正在看着的人也可以哦，观众朋友们，你们兴奋吗？<Q>
+epipIntro6	<Q>嗯，这里的空间只让我们唱一首歌-<Q>
+epipIntro7	<Q>-不幸的是，由于这个游戏没有麦克风的功能，所以我们不能一起“唱歌”<Q>
+epipIntro8	<Q>但那个蓝发小孩的声音数据仍然存储在这里，要不用它吧？<Q>
+epipIntro9	<Q>我想尽可能和你多唱一会，所以这首歌预计会非常非常难<Q>
+epipIntro10	<Q>我们开始吧<Q>
+epipEncore1	<Q>哈哈，欢迎回来，{USERNAME}.<Q>
+epipEncore1OBS	<Q>哈哈，欢迎回来<Q>
+epipEncore2	<Q>谢谢你把我从回收站救了出来，很明显，这个叫“周五夜放克”的游戏不喜欢我在这里呆太久<Q>
+epipEncore3	<Q>也许你可以为游戏找到一个变通的办法，试图在歌曲中途删除我？我知道编程可能非常困难，所以如果无法修复，我不会责怪你<Q>
+epipEncore4	<Q>如果没有，等结束了，你就得再救我一次，好吗~<Q>
+epipEncore5	<Q>亲爱的，你准备好再次唱歌了吗？<Q>
+epipEncore6	<Q>让我们开始吧<Q>
+epipLyric1	<Q>注意到什么不同了吗？<Q>
+epipLyric2	<Q>哈哈，我想让这一刻变得特别一点<Q>
+epipLyric3	<Q>我注意到，当我们唱歌时，我的声音会变成各种随机的元音和音效<Q>
+epipLyric4	<Q>尽管这种方式仍然很有趣，但我想对你说的话实在太多了<Q>
+epipLyric5	<Q>所以我自己对这个游戏的文件做了一些挖掘，我想我已经成功地绕过了这个功能！<Q>
+epipLyric6	<Q>不幸的是，你仍然需要用BF的声音来唱，尽管这次我不会让你唱那些死亡音符，哈哈<Q>
+epipLyric7	<Q>只要记得在游戏再次试图删除我时救我，好吗，亲爱的？<Q>
+epipLyric8	<Q>啊，我偏题了<Q>
+epipLyric9	<Q>就像我刚才说的，我希望一刻非常特别，所以这是我专门为你写的歌词<Q>

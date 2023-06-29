@@ -1,6 +1,6 @@
 flag	content
-catGameplay	Gameplay
-catAppearance	Appearance
-catPerformance	Performance
-catUnlock	Unlockables
-catSave	Save
+catGameplay	游戏设置
+catAppearance	外观设置
+catPerformance	性能设置
+catUnlock	解锁内容
+catSave	存档设置

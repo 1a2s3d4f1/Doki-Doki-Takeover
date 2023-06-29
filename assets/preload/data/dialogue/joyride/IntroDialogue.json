@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Hmm, Natsuki and Yuri both stopped by already, so I wonder-\"",
+			"string": "\"嗯，夏树和优里都来过了，所以我想-\"",
 			"key": "joyIntro1",
 			"side": "right"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Monika’s words were quickly cut off by the sound of the music room door swinging wide open.",
+			"string": "音乐室的门打开的声音很快打断了莫妮卡的话",
 			"key": "joyIntro2",
 			"side": ""
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Quickly running in was the Literature Club’s last major member, with a pep in her step.",
+			"string": "很快，文学部的最后一位主要成员加入了进来，她的步伐充满了活力",
 			"key": "joyIntro3",
 			"side": ""
 		},
@@ -37,7 +37,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Ahaha, just as I thought! I’m happy you came to visit me too, Sayori.\"",
+			"string": "\"哈哈，正如我想的那样！我很高兴你也来看望我，纱世里\"",
 			"key": "joyIntro4",
 			"side": "right"
 		},
@@ -45,7 +45,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"Ah, were Natsuki and Yuri here already??? Did I miss them??? Aww noooo, I had exciting news to share!\"",
+			"string": "\"啊，夏树和优里已经来了吗？？？我错过她们了吗？？？哇，我有一个激动人心的消息要分享！\"",
 			"key": "joyIntro5",
 			"side": "left"
 		},
@@ -53,7 +53,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Both of them did show up earlier to talk one on one with me.\"",
+			"string": "\"她们两个早些时候确实出现了，与我进行了一对一的交谈\"",
 			"key": "joyIntro6",
 			"side": "right"
 		},
@@ -61,7 +61,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Though what's got you in super high spirits right now? Your smile is the biggest I’ve ever seen!\"",
+			"string": "\"是什么让你现在情绪这么激动？你的笑容是我见过的最灿烂的笑容！\"",
 			"key": "joyIntro7",
 			"side": "right"
 		},
@@ -69,7 +69,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"Ehehe, I can’t help it! Everything we’ve been doing recently has been amazing!\"",
+			"string": "\"呵呵，我没办法！我们最近所做的一切都令人惊叹！\"",
 			"key": "joyIntro8",
 			"side": "left"
 		},
@@ -77,7 +77,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"The festival went perfectly, and now we have seven amazing club members all making each other happy and positive!\"",
+			"string": "\"学园祭进行得很完美，现在我们有七位了不起的部员，她们都让彼此感到快乐和积极！\"",
 			"key": "joyIntro9",
 			"side": "left"
 		},
@@ -85,7 +85,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"It's everything I could ever want: Everyone being happy and supporting each other.\"",
+			"string": "\"这是我想要的一切：每个人都快乐，互相支持\"",
 			"key": "joyIntro10",
 			"side": "left"
 		},
@@ -100,7 +100,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Sayori’s excited demeanor cools down, becoming more solemn but still with a genuine smile on her face.",
+			"string": "纱世里激动的举止冷静下来，变得更加庄重，但脸上仍然挂着真诚的微笑",
 			"key": "joyIntro11",
 			"side": ""
 		},
@@ -108,7 +108,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "wah",
-			"string": "\"Seeing how much good we’ve been doing… It helps give me a reason to get out of bed every morning, knowing that we were able to accomplish this.\"",
+			"string": "\"看到我们做了这么多好事……这让我有理由每天早上起床，因为我知道我们能够做到这一点\"",
 			"key": "joyIntro12",
 			"side": "left"
 		},
@@ -116,7 +116,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "wah",
-			"string": "\"It’s still hard for me to always keep those happy thoughts in mind, but it's getting better, bit by bit each day.\"",
+			"string": "\"我仍然很难一直把这些快乐的想法记在心里，但它正在一点一点地好转\"",
 			"key": "joyIntro13",
 			"side": "left"
 		},
@@ -124,7 +124,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "wah",
-			"string": "\"It makes me more grateful each day that we were able to start this club.\"",
+			"string": "\"这让我每天都更加感激我们能够经营这家文学部\"",
 			"key": "joyIntro14",
 			"side": "left"
 		},
@@ -139,7 +139,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "All the positive news and happiness from her friends had filled Monika with an overwhelming state of emotion.",
+			"string": "朋友们传来的所有积极的消息和幸福也让莫妮卡激动不已",
 			"key": "joyIntro15",
 			"side": ""
 		},
@@ -147,7 +147,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Tears welled up in Monika’s eyes while she listened to Sayori’s words.",
+			"string": "当莫妮卡听着纱世里的话时，泪水夺眶而出",
 			"key": "joyIntro16",
 			"side": ""
 		},
@@ -155,7 +155,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "In a burst of melancholic happiness, Monika walks over and hugs Sayori.",
+			"string": "在一阵忧郁的幸福中，莫妮卡走过来拥抱纱世里",
 			"key": "joyIntro17",
 			"side": ""
 		},
@@ -163,7 +163,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "cry",
-			"string": "\"I’m… I’m so proud of you, Sayori. It means so much that you’re here with us to make this club the place it is.\"",
+			"string": "\"我…纱世里...我为你感到骄傲，你和我们在一起，让这个俱乐部成为现在的样子，意义重大\"",
 			"key": "joyIntro18",
 			"side": "right"
 		},
@@ -171,7 +171,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "cry",
-			"string": "\"It’s helped so many people… especially me. Thank you…\"",
+			"string": "\"它帮助了很多人…尤其是我，谢谢你…\"",
 			"key": "joyIntro19",
 			"side": "right"
 		},
@@ -179,7 +179,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "wah",
-			"string": "\"Ehehe… thank you too, Monika.\"",
+			"string": "\"嗯……也谢谢你，莫妮卡\"",
 			"key": "joyIntro20",
 			"side": "left"
 		},
@@ -187,7 +187,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "After a few moments pass, the girls break off their hug. Monika wipes her tears and takes a deep breath.",
+			"string": "过了一会儿，女孩们放下了拥抱，莫妮卡擦了擦眼泪，深吸了一口气",
 			"key": "joyIntro21",
 			"side": ""
 		},
@@ -195,7 +195,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Aha- this is going to be a big shift in tone, but when the others came by earlier, they each sang a song with me.\"",
+			"string": "\"啊哈-这将一个很大的音调转变，但当其他人早些时候来的时候，她们每个人都和我一起唱了一首歌\"",
 			"key": "joyIntro22",
 			"side": "right"
 		},
@@ -203,7 +203,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"It would make me so happy to be able to do the same with you too.\"",
+			"string": "\"如果能和你一起做同样的事情，我会很高兴\"",
 			"key": "joyIntro23",
 			"side": "right"
 		},
@@ -211,7 +211,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "yeah",
-			"string": "\"You don’t need to tell me twice! Let’s sing!\"",
+			"string": "\"你不需要告诉我两次！让我们唱起来！\"",
 			"key": "joyIntro24",
 			"side": "left"
 		}

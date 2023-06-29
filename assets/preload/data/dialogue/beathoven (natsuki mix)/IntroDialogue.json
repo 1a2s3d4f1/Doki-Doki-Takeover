@@ -4,7 +4,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"I'm going to be honest.\"",
+			"string": "\"老实说\"",
 			"key": "beatIntro1",
 			"side": "left"
 		},
@@ -12,7 +12,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"There were way too many songs in that list you gave us, and I didn't want to sift through every single one.\"",
+			"string": "\"你给我们的歌单里有太多歌曲了，我不想仔细筛选每一首\"",
 			"key": "beatIntro2",
 			"side": "left"
 		},
@@ -20,7 +20,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"This song had a picture of a cute cat as the album art though, so naturally I went with that one.\"",
+			"string": "\"这首歌有一张可爱的猫的照片作为专辑的封面，所以我很自然地选择了那首\"",
 			"key": "beatIntro3",
 			"side": "left"
 		},
@@ -28,7 +28,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Cue the music!\"",
+			"string": "\"放音乐！\"",
 			"key": "beatIntro4",
 			"side": "left"
 		}

@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "On one seemingly normal day in the Literature Club… Natsuki demonstrates her fast singing skills to fellow club member Yuri.",
+			"string": "在文学部的一个看似正常的日子里…夏树向优里展示了她的快速歌唱技巧",
 			"key": "catIntro1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"Hah, this 'rapping' stuff that Boyfriend loves so much ain't hard at all! All that time singing in the mirror really did pay off.\"",
+			"string": "\"哈，这个BF非常喜欢的“说唱”东西一点也不难！一直对着镜子唱歌确实得到了回报\"",
 			"key": "catIntro2",
 			"side": "right"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"So fast, yet still so clear and rhythmic. I haven't seen anyone here be able to pull that off the way you do. I… I'd definitely get too overwhelmed and botch my words.\"",
+			"string": "\"速度如此之快，但仍然如此清晰和有节奏，我没见过这里有人能像你那样做到这一点，如果是我……我肯定会不知所措，把我的话搞砸的\"",
 			"key": "catIntro3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"Hey, you're the one with the actually good singing voice, though. Faster doesn't always mean better sounding, y'know.\"",
+			"string": "\"嘿，不过你的歌声真的很好，更快并不总是意味着听起来更好\"",
 			"key": "catIntro4",
 			"side": "right"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "blush",
-			"string": "\"-but the conviction required to pull off such intense lyrical feats! I'm not nearly at that level yet! I'm confined to the slower, more standard melodies.\"",
+			"string": "\"-但完成如此激烈的抒情壮举所需要更多的信心！我还没有达到那个水平！我被限制在更慢、更标准的旋律上\"",
 			"key": "catIntro5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"And what's wrong with that? You make them sound perfect! I'll sound bad if I even try to sing in your deeper tones!\"",
+			"string": "\"那怎么了？你让它们听起来很完美！如果我试着用你更深的音调唱歌，我的声音会很糟糕！\"",
 			"key": "catIntro6",
 			"side": "right"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ahh",
-			"string": "\"Th-that's not true! You'd be able to get it down so easy! You at least have the confidence to try!\"",
+			"string": "\"那不是真的！你会很容易就搞定的！你至少有信心去尝试！\"",
 			"key": "catIntro7",
 			"side": "left"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "sick",
-			"string": "\"Geez, Yuri, just take the compliment already!\"",
+			"string": "\"天啊，优里，你已经接受了赞美！\"",
 			"key": "catIntro8",
 			"side": "right"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "ehh",
-			"string": "\"Putting yourself down is not a compliment-!\"",
+			"string": "\"贬低自己并不是一种赞美-！\"",
 			"key": "catIntro9",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"You're literally doing the same thing!!! Rrragh-! Fine! I'll prove you wrong right now!\"",
+			"string": "\"你真的在做同样的事情！！！啊啊啊-！好的，我现在就要证明你简直大错特错！\"",
 			"key": "catIntro10",
 			"side": "right"
 		}

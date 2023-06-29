@@ -13,7 +13,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"Ah, Sayori! Yuri! Natsuki! You're back!\"",
+			"string": "\"啊，纱世里！优里！夏树！你们回来了！\"",
 			"key": "consIntro1",
 			"side": "left"
 		},
@@ -21,7 +21,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"How was your time hanging with Boyfriend and Girlfriend in their hometown?\"",
+			"string": "\"你们在BF和GF的家乡玩得怎么样？\"",
 			"key": "consIntro2",
 			"side": "left"
 		},
@@ -29,7 +29,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "(Aha, I still can't believe that's their actual names. Even says so on their character files-)",
+			"string": "（啊哈，我还是不敢相信那是他们的真名，甚至在他们的角色文件上也这么说-）",
 			"key": "consIntro3",
 			"side": "left"
 		},
@@ -44,7 +44,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"I had a screaming competition with a rock star! And I totally beat them too.\"",
+			"string": "\"我和一个摇滚明星进行了一场激烈的比赛！我也完全打败了他们\"",
 			"key": "consIntro4",
 			"side": "right"
 		},
@@ -52,7 +52,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"They're inviting me back next week for a rematch. If I win, I get free tickets to their band's next show!\"",
+			"string": "\"他们邀请我下周回来复赛，如果我赢了，我可以免费获得他们乐队下一场演出的门票！\"",
 			"key": "consIntro5",
 			"side": "right"
 		},
@@ -64,7 +64,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"I had a lot of extra money to spend this week, so I ate dinner at a very nice restaurant not too far off from the city.\"",
+			"string": "\"这周我有很多多余的钱要花，所以我在离城市不远的一家很好的餐厅吃了饭\"",
 			"key": "consIntro6",
 			"side": "right"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"While I was there, I had a nice chat with someone who shared a... similar interest in collecting.\"",
+			"string": "\"当我在那里的时候，我和一个对收藏有着相似兴趣的人聊得很愉快\"",
 			"key": "consIntro7",
 			"side": "right"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"He also seemed very intrigued when I mentioned our two new club members in a conversation. I didn't want to pry, though.\"",
+			"string": "\"当我在一次谈话中提到我们的两位新成员时，他似乎也很感兴趣，不过我不想说太多\"",
 			"key": "consIntro8",
 			"side": "right"
 		},
@@ -99,7 +99,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "(There's a lot of strange, fantastical people out there in the real world, it seems.)",
+			"string": "（现实世界中似乎有很多奇怪、幻想的人）",
 			"key": "consIntro9",
 			"side": "left"
 		},
@@ -107,7 +107,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "(And somewhere out there, my true love... I still have not forgotten about them.)",
+			"string": "（在那里的某个地方，我的真爱……我仍然没有忘记他）",
 			"key": "consIntro10",
 			"side": "left"
 		},
@@ -115,7 +115,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "(I'll go back and continue my search soon enough. There's... so much I need to tell them.)",
+			"string": "（我很快就会回去继续搜索，我有……太多事情要告诉他了）",
 			"key": "consIntro11",
 			"side": "left"
 		},
@@ -123,7 +123,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Ah- sorry, I got lost in thought. What about you, Sayori? Did you meet any new friends on your trip?\"",
+			"string": "\"啊——对不起，我刚才陷入了沉思，你呢，纱世里？你在旅途中遇到新朋友了吗？\"",
 			"key": "consIntro12",
 			"side": "left"
 		},
@@ -131,7 +131,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"It was amazing! I didn't even know all these places existed!\"",
+			"string": "\"太神奇了！我甚至不知道这些地方都存在！\"",
 			"key": "consIntro13",
 			"side": "right"
 		},
@@ -139,7 +139,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "wah",
-			"string": "\"It's almost as if they popped up out of nowhere, ehehe~\"",
+			"string": "\"他们好像不知是从哪里冒出来的，嗯~\"",
 			"key": "consIntro14",
 			"side": "right"
 		},
@@ -147,7 +147,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"I did meet a new friend, in fact! He's followed me around the whole time we were gone.\"",
+			"string": "\"事实上，我确实遇到了一个新朋友！我们走的时候他一直跟着我\"",
 			"key": "consIntro15",
 			"side": "right"
 		},
@@ -155,7 +155,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahaha",
-			"string": "\"Eh-? That's... a little odd.\"",
+			"string": "\"呃？那是...有点奇怪\"",
 			"key": "consIntro16",
 			"side": "left"
 		},
@@ -163,7 +163,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "ahh",
-			"string": "\"-But I'm glad you all found some great new friends!\"",
+			"string": "\"-但我很高兴你们都找到了一些很棒的新朋友！\"",
 			"key": "consIntro17",
 			"side": "left"
 		},
@@ -171,7 +171,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "happ",
-			"string": "\"Mhhmm! He followed me back here too! Wanna meet him? He's so cute!\"",
+			"string": "\"嗯！他也跟着我回来了！想见见他吗？他太可爱了！\"",
 			"key": "consIntro18",
 			"side": "right"
 		},
@@ -179,7 +179,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "neutral",
-			"string": "\"Oh? S-sure! Bring them in!\"",
+			"string": "\"哦？当然！把他们带进来！\"",
 			"key": "consIntro19",
 			"side": "left"
 		},
@@ -187,7 +187,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ooh",
-			"string": "\"Say hi, Zipper!\"",
+			"string": "\"嗨，Zipper！\"",
 			"key": "consIntro20",
 			"side": "right"
 		},

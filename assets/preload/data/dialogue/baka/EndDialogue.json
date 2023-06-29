@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Those girls have been giving me dirty looks ever since I got here. Did I do something wrong?",
+			"string": "自从我来到这里，那些女孩就一直对我冷嘲热讽。我做错什么了吗？",
 			"key": "bakaEnd1",
 			"side": "right"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "Ah, I see you've noticed my darling fellow schoolmates.",
+			"string": "啊，我想你注意到我亲爱的同学们了",
 			"key": "bakaEnd2",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "I've gotten quite the flock of dedicated fans here.",
+			"string": "我在这里有很多忠实的粉丝",
 			"key": "bakaEnd3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "It's only natural when you're the most popular individual in your school.",
+			"string": "当你是学校里最受欢迎的人时，这就见怪不怪了",
 			"key": "bakaEnd4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "Looks like they're all jealous of you, being able to pique my interest so quickly.",
+			"string": "看来她们都嫉妒你能这么快就能引起我的兴趣",
 			"key": "bakaEnd5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "They'd kill to just spend one fleeting moment with me. Unfortunately, they're just not worth my time. Ahahah~",
+			"string": "她们会为了和我共度一个短暂的时刻而杀人，不幸的是，她们不值得我花时间，啊哈哈~",
 			"key": "bakaEnd6",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "That's... hmm...",
+			"string": "那是... 嗯...",
 			"key": "bakaEnd7",
 			"side": "right"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "You must have your own little fanbase where you come from, no? ",
+			"string": "你原来的地方一定有你自己的小粉丝群吧",
 			"key": "bakaEnd8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Some people say I do, but personally it feels like everything I did back at my school went completely under the radar.",
+			"string": "有人说我会有，但就我个人而言，我在学校所做的一切都完全被忽视了",
 			"key": "bakaEnd9",
 			"side": "right"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "I never set out to be popular, though. I just wanted to share my passions with anyone who wanted to listen.",
+			"string": "不过，我从来没有打算成为受欢迎的人，我只是想和任何想听的人分享我的激情",
 			"key": "bakaEnd10",
 			"side": "right"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "And thanks to that, I met my amazing group of friends...",
+			"string": "正因为如此，我遇到了一群了不起的朋友...",
 			"key": "bakaEnd11",
 			"side": "right"
 		},
@@ -129,7 +129,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "-agh!",
+			"string": "-啊！",
 			"key": "bakaEnd12",
 			"side": "right"
 		},
@@ -137,7 +137,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "(Did I just see-)",
+			"string": "（我刚刚是不是看到了-）",
 			"key": "bakaEnd13",
 			"side": "right"
 		},
@@ -145,7 +145,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "(But why..?)",
+			"string": "（但是为什么...）",
 			"key": "bakaEnd14",
 			"side": "right"
 		},
@@ -153,7 +153,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "You're doing that thing again, Monika. You know you can always tell me whatever's the matter.",
+			"string": "你又怎么了，莫妮卡，你知道无论发生什么事你都可以告诉我吧",
 			"key": "bakaEnd15",
 			"side": "left"
 		},
@@ -161,7 +161,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "I-I'm ok... I'm ok!",
+			"string": "我很好…我很好！",
 			"key": "bakaEnd16",
 			"side": "right"
 		},
@@ -169,7 +169,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "There's no need to worry about me, ahaha-",
+			"string": "没必要担心我，哈哈-",
 			"key": "bakaEnd17",
 			"side": "right"
 		},
@@ -177,7 +177,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "Ah, if you insist.",
+			"string": "好吧，如果你坚持的话",
 			"key": "bakaEnd18",
 			"side": "left"
 		},
@@ -185,7 +185,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "neutral",
-			"string": "In that case, I'd like to know more about where you're from. You continue to intrigue me with each conversation.",
+			"string": "既然如此，我想知道更多关于你来自哪里的信息，你可以继续用每一次的谈话来吸引我",
 			"key": "bakaEnd19",
 			"side": "left"
 		},
@@ -193,7 +193,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "I can try my best to do that, yeah.",
+			"string": "好吧，我可以尽力做到",
 			"key": "bakaEnd20",
 			"side": "right"
 		},
@@ -201,7 +201,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "(Is something happening that's causing these effects?)",
+			"string": "（是不是有些东西导致了这些的发生？）",
 			"key": "bakaEnd21",
 			"side": "right"
 		},
@@ -209,7 +209,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "(The game barely kept itself together when everyone wasn't there.)",
+			"string": "（如果不是所有人都在的话那个游戏根本运行不了）",
 			"key": "bakaEnd22",
 			"side": "right"
 		},
@@ -217,7 +217,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "(If something goes wrong-)",
+			"string": "（如果出现问题-）",
 			"key": "bakaEnd23",
 			"side": "right"
 		}

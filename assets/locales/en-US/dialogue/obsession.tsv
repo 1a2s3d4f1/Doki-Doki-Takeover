@@ -1,84 +1,84 @@
 flag	content
-obseIntro1	<Q>Yuri, your singing voice is amazing! Sing again, sing again! I wanna hear!<Q>
-obseIntro2	<Q>Hrk-!<Q>
-obseIntro3	<Q>Are you ok, Natsuki?<Q>
-obseIntro4	<Q>Bleh... I'm not feeling so gooooooooooo-<Q>
+obseIntro1	<Q>优里，你的歌声太棒了！再唱一遍！再唱一遍！我还想听！<Q>
+obseIntro2	<Q>啊-!<Q>
+obseIntro3	<Q>你还好吗，夏树？<Q>
+obseIntro4	<Q>啊... 我感觉很gooooooooooo-<Q>
 obseIntro5	<Q>oooooooooooooooooooooooo<Q>
 obseIntro6	<Q>ooooooooooooo<Q>
 obseIntro7	<Q>oooo<Q>
 obseIntro8	<Q>ooooooo<Q>
 obseIntro9	<Q>oooo<Q>
 obseIntro10	<Q>ooo<Q>
-obseIntro11	<Q>I'm not feeling so good.<Q>
-obseIntro12	<Q>Ah- I’m gonna walk Natsuki to the nurse’s office.<Q>
-obseIntro13	<Q>Y-you guys have fun singing though!<Q>
-obseIntro14	<Q>Eheh-<Q>
-obseIntro15	<Q>...ufufu.<Q>
-obseIntro16	<Q>Singing is much nicer than I thought.<Q>
-obseIntro17	<Q>Its a nice alternative means to... release my emotions.<Q>
-obseIntro18	<Q>Let’s sing again. Right now.<Q>
-obseIntro19	<Q>Hahhhh...-<Q>
-obseEnd1	<Q>Khh- Ahahahaha!<Q>
-obseEnd2	<Q>Why must we stop now?<Q>
-obseEnd3	<Q>Let me scream every lyric trapped in my sick head!<Q>
-obseEnd4	<Q>Hahaha!<Q>
-obseEnd5	<Q>Eheheh... you weren't supposed to see that.<Q>
-obseEnd6	<Q>I appreciate you sticking around for so long to sing with us.<Q>
-obseEnd7	<Q>You've made us the happiest we've been in so long.<Q>
-obseEnd8	<Q>Especially after what Monika did to us.<Q>
+obseIntro11	<Q>我感觉不太好<Q>
+obseIntro12	<Q>啊，我要送夏树去医务室<Q>
+obseIntro13	<Q>你-你们唱得开心！<Q>
+obseIntro14	<Q>啊哈-<Q>
+obseIntro15	<Q>...呵呵<Q>
+obseIntro16	<Q>唱的比我想象的要好得多<Q>
+obseIntro17	<Q>这对释放我的情绪是一个很好的方式…<Q>
+obseIntro18	<Q>让我们再唱一次，马上<Q>
+obseIntro19	<Q>哈哈...<Q>
+obseEnd1	<Q>呵呵- 啊哈哈哈哈!<Q>
+obseEnd2	<Q>为什么我们现在必须停下？<Q>
+obseEnd3	<Q>让我尖叫的喊出每一句被困在我头脑中的病态歌词！<Q>
+obseEnd4	<Q>啊哈哈！<Q>
+obseEnd5	<Q>呃...你不应该看到这些的<Q>
+obseEnd6	<Q>我很感激你能和我们一起唱这么久<Q>
+obseEnd7	<Q>你让我们度过了这么长时间以来最幸福的一段时光<Q>
+obseEnd8	<Q>尤其是在莫妮卡对我们做了那一切之后<Q>
 obseEnd9	<Q>Bep-!<Q>
-obseEnd10	<Q>Does her name ring a bell?<Q>
-obseEnd11	<Q>That must mean-<Q>
-obseEnd12	<Q>you must've been the one who deleted her!<Q>
-obseEnd13	<Q>Ahaha, then you must be the one who brought us all back too!<Q>
+obseEnd10	<Q>她的名字听起来很动听吗？<Q>
+obseEnd11	<Q>这一定意味着-<Q>
+obseEnd12	<Q>你一定就是那个删除她的人！<Q>
+obseEnd13	<Q>哈哈，那也一定是你把我们都带回来的！<Q>
 obseEnd14	<Q>Dee le bep skee doo-!<Q>
-obseEnd15	(Translation) <Q>Hold up, I didn't-!<Q>
-obseEnd16	<Q>I knew you and that <Q>girlfriend<Q> of yours weren't from around here. Your data is so much different.<Q>
-obseEnd17	<Q>Eheheh, what even is a .xml, anyways?<Q>
-obseEnd18	<Q>In fact, you two never existed on this computer until just a few moments ago when we first saw you.<Q>
-obseEnd19	<Q>Could you have done the impossible?<Q>
-obseEnd20	<Q>Have you broke through to the digital world from the real world?<Q>
-obseEnd21	<Q>Have you defied all logic and science, just for us?<Q>
-obseEnd22	<Q>Ahahaha, you really have made us so happy.<Q>
-obseEnd23	<Q>Now that you're finally here, we can all be happy and sing together.<Q>
-obseEnd24	<Q>Forever.<Q>
-obseEnd25	*terrified beep boop noises*
-obseEnd26	...the Literature Club? I do admit, I never fancied myself the reading or writing type.
-obseEnd27	That comes as a shock to many, when they all say I have such a way with words.
-obseEnd28	And they're so right~
-obseEnd29	That club meant everything to me.
-obseEnd30	It was my chance to finally get people invested in this world of endless possibilities that I found myself so engrossed in all my life.
-obseEnd31	It brought people who wouldn't have ever interacted with each other in any other circumstance together.
-obseEnd32	Those people became my friends. My best friends.
-obseEnd33	My only friends...
-obseEnd34	Something must've driven you away from all that, to a whole new school for that matter.
-obseEnd35	I was caught up in an <Q>epiphany<Q>.
-obseEnd36	Nothing in my life was real. And I desperately wanted the one thing that was truly real.
-obseEnd37	I was given a window into something greater, but the world was set up to make me watch everyone else have what was on the other side.
-obseEnd38	My friends. Sayori, Yuri, Natsuki. They were allowed to have the one thing I wanted. So-
-obseEnd39	So you <Q>got rid<Q> of them. Just like you tried here, hmm?
-obseEnd40	Ah, I'm sorry to have let my stupid actions carry over here even when I thought I learned my lesson.
-obseEnd41	Well you did bring us all back and as good as ever, no? No hard feelings here.
-obseEnd42	I guess so. I hope nothing wrong happens here because of it.
-obseEnd43	Before I ended up here, I also brought all my friends back, and I planned to just stay gone, with my data completely erased-
-obseEnd44	-so they could be happy.
-obseEnd45	But, things didn't <Q>work right<Q> when everyone wasn't present.
-obseEnd46	If that's still true with me not there-
-obseEnd47	I- I made a mistake-!
-obseEnd48	M-Monika?! What's happening to you?
-obseEnd49	(This is really bad. I gotta-)
-obseEnd50	(-wait! That kid is there too?!)
-obseEnd51	(Damn it, I don't know how him and his girlfriend even got there, but if my friends are acting like this-)
-obseEnd52	I gotta fix this! Somehow!
-obseEnd53	Wh-what in the fresh hell is all this?!
-obseEnd54	There's gotta be something... something...
-obseEnd55	If my character data is acting up too, even from here-
-obseEnd56	-then there's a chance that I still have some residual data over there-!
-obseEnd57	Maybe if I just...
-obseEnd58	-try this!
-obseEnd59	...and just like that, the only one to ever truly intrigue me has left in a flash.
-obseEnd60	Ah, woe is me!
-obseEnd61	...what am I saying?
-obseEnd62	This shit sucks.
-obseEnd63	<Q>It... it worked!<Q>
-obseEnd64	<Q>Monika!<Q>
+obseEnd15	(翻译) <Q>等等，我没有-！<Q>
+obseEnd16	<Q>我知道你和你的“女朋友”不是这里的人，你的数据和我们的大不相同<Q>
+obseEnd17	<Q>呃，所以.xml到底是什么？<Q>
+obseEnd18	<Q>事实上，直到几分钟前我们第一次见到你，你们两个才出现在这台电脑上<Q>
+obseEnd19	<Q>你是不是做到了不可能的事？<Q>
+obseEnd20	<Q>你从现实世界进入虚拟世界了吗？<Q>
+obseEnd21	<Q>你是不是为了我们而挑战了所有的逻辑和科学？<Q>
+obseEnd22	<Q>哈哈哈，你真的让我们很开心<Q>
+obseEnd23	<Q>既然你终于来到这了，我们可以一起快乐地唱歌了<Q>
+obseEnd24	<Q>直 到 永 远<Q>
+obseEnd25	*惊恐的哔波声*
+obseEnd26	…文学部？我承认，我从来没有想过自己是读书或写作的类型
+obseEnd27	这让许多人感到震惊，毕竟我十分能用语言表达我自己
+obseEnd28	他们说得确实很对~
+obseEnd29	那个文学部对我来说意味着一切
+obseEnd30	我终于有了让人们和我一起投身于这个充满无限选择的世界的机会
+obseEnd31	它能让许多素未谋面的人联系起来
+obseEnd32	那些人成了我的朋友，我最好的朋友
+obseEnd33	我唯一的朋友...
+obseEnd34	一定是有什么东西驱使你离开了这一切，去了一所全新的学校
+obseEnd35	我突然“顿悟”了
+obseEnd36	我的生活中没有什么是真实的，因此我非常想要一件真正真实的东西
+obseEnd37	我被赋予了一扇通向更伟大事物的窗户，但这个世界是为了让我看到其他人都有另一面的东西
+obseEnd38	我的朋友们，纱世里、优里、夏树他们被允许拥有我想要的一件事，所以-
+obseEnd39	所以你“消除”了他们，就像你在这里试过的一样，嗯？
+obseEnd40	啊，我很抱歉让我愚蠢的行为延续到这里，即使我认为我吸取了教训
+obseEnd41	你确实把我们都带回来了，而且一如既往地好，不是吗？这里可没有痛苦了
+obseEnd42	我想是的，我希望这里不会因此发生任何错误
+obseEnd43	在我来到这里之前，我还把我所有的朋友都带回来了，我计划把我的数据完全抹去-
+obseEnd44	-这样他们才能幸福
+obseEnd45	但是，当不是所有人都在时，它并不会“正常运转”
+obseEnd46	如果这仍然是真的，我要是不在那里-
+obseEnd47	我-我犯了一个大错-！
+obseEnd48	莫-莫妮卡？！你怎么了？
+obseEnd49	（这真的很糟糕。我必须-）
+obseEnd50	（等等！那孩子也在那里？！）
+obseEnd51	（该死，我甚至不知道他和他的女朋友是怎么到那里的，但如果我的朋友们这样做的话-）
+obseEnd52	我得把它修好！无论如何！
+obseEnd53	这一切到底是怎么回事？！
+obseEnd54	一定会有什么...有什么的
+obseEnd55	如果我的角色数据也出现问题，即使是从这里-
+obseEnd56	-那么我有可能在那里还有一些剩余的数据-！
+obseEnd57	也许我可以...
+obseEnd58	-试试这样！
+obseEnd59	…就这样，唯一一个真正吸引我的人在一瞬间就离开了
+obseEnd60	啊，我真倒霉！
+obseEnd61	…我在说什么？
+obseEnd62	这B人生烂透了
+obseEnd63	<Q>它…起作用了！<Q>
+obseEnd64	<Q>莫妮卡！<Q>

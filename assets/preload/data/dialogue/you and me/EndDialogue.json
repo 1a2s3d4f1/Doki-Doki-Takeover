@@ -8,7 +8,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "The positivity that club gave everyone involved continued to nurture a stunning flower of friendship amongst the club members.",
+			"string": "文学部给予每个人的积极态度继续在部员之间培育出令人叹为观止的友谊之花",
 			"key": "yamEnd1",
 			"side": ""
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Even outside the clubroom, the group was almost never seen apart from each other.",
+			"string": "即使在部室外，人们也几乎从未见过这群人分开",
 			"key": "yamEnd2",
 			"side": ""
 		},
@@ -38,7 +38,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "It was only a matter of time to see what would bloom next for the Literature Club.",
+			"string": "看看文学部接下来会绽放什么的只是时间问题",
 			"key": "yamEnd3",
 			"side": ""
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "But for now, days of pleasant normalcy awaited them.",
+			"string": "但就目前而言，等待他们的是愉快的正常日子",
 			"key": "yamEnd4",
 			"side": ""
 		},
@@ -86,7 +86,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "-Or so they thought.",
+			"string": "-或者他们是这么想的",
 			"key": "yamEnd5",
 			"side": ""
 		},
@@ -115,7 +115,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Boyfriend and Girlfriend, seemingly appearing out of thin air, reached out to the group, wanting them to follow.",
+			"string": "BF和GF似乎是凭空出现的，他们向这群人伸出手，希望他们跟着",
 			"key": "yamEnd7",
 			"side": ""
 		},
@@ -128,7 +128,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "One by one, the group followed the two into the white light, and what they would see next...",
+			"string": "一个接一个，他们跟随两人进入白光中，接下来他们会看到什么...",
 			"key": "yamEnd8",
 			"side": ""
 		},
@@ -152,7 +152,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "gone",
-			"string": "\"Where… are we?\"",
+			"string": "\"我们…在哪？\"",
 			"key": "yamEnd9",
 			"side": ""
 		},
@@ -160,7 +160,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "gone",
-			"string": "\"Woah! I’ve never visited the city before!\"",
+			"string": "\"哇！我以前从未来过这座城市！\"",
 			"key": "yamEnd10",
 			"side": ""
 		},
@@ -168,7 +168,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "gone",
-			"string": "\"Oh my, what a lovely display of lights.\"",
+			"string": "\"哦，天哪，多么美丽的灯光秀啊\"",
 			"key": "yamEnd11",
 			"side": ""
 		},
@@ -176,7 +176,7 @@
 			"isCommand": false,
 			"name": "protag",
 			"expression": "gone",
-			"string": "\"What the- how did we get here so fast? And wasn’t it still daylight a minute ago?\"",
+			"string": "\"时间怎么这么快就到了？一分钟前还不是白天吗？\"",
 			"key": "yamEnd12",
 			"side": ""
 		},
@@ -184,7 +184,7 @@
 			"isCommand": false,
 			"name": "protag",
 			"expression": "gone",
-			"string": "\"I also could've sworn we were all in uniform before too-\"",
+			"string": "\"我也可以发誓我们刚才也都穿的是制服-\"",
 			"key": "yamEnd13",
 			"side": ""
 		},
@@ -192,7 +192,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "gone",
-			"string": "*excited cheering*",
+			"string": "*激动的欢呼*",
 			"key": "yamEnd14",
 			"side": ""
 		},
@@ -200,7 +200,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Boyfriend and Girlfriend quickly turn to Monika with very excited grins on their faces.",
+			"string": "BF和GF迅速转向莫妮卡，脸上露出非常兴奋的笑容",
 			"key": "yamEnd15",
 			"side": ""
 		},
@@ -216,7 +216,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Wait...\"",
+			"string": "\"等等...\"",
 			"key": "yamEnd17",
 			"side": ""
 		},
@@ -224,7 +224,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Is this... are we...\"",
+			"string": "\"这是...我们...\"",
 			"key": "yamEnd18",
 			"side": ""
 		},
@@ -232,7 +232,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "They actually did it. They made it out of the game.",
+			"string": "他们真的做到了，他们成功离开了游戏",
 			"key": "yamEnd19",
 			"side": ""
 		},
@@ -240,7 +240,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Boyfriend gestured over to the nearby computer, and in his somehow comprehensible language of beeps and boops, told Monika that this was their gate in and out of their home world.",
+			"string": "BF指着附近的一台电脑，用他能理解的哔哔声和嘘声告诉莫妮卡，这是他们进出的大门",
 			"key": "yamEnd20",
 			"side": ""
 		},
@@ -248,7 +248,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Whenever her and the others wanted to visit, this was their ticket.",
+			"string": "每当她和其他人想参观时，这就是他们的门票",
 			"key": "yamEnd21",
 			"side": ""
 		},
@@ -260,7 +260,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "Monika quickly became choked up with emotion. Words quickly failed her as she could not describe how overwhelmingly happy she was.",
+			"string": "莫妮卡很快就激动得哽咽起来，她很快就说不出话来了，此时她无法用任何言语来形容自己此刻幸福的心情",
 			"key": "yamEnd22",
 			"side": ""
 		},
@@ -281,7 +281,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"I… I don’t know what to say-\"",
+			"string": "\"我…我不知道该说什么-\"",
 			"key": "yamEnd23",
 			"side": ""
 		},
@@ -289,7 +289,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Thank you… Thank you so so much… For everything.\"",
+			"string": "\"谢谢你…非常感谢你…感谢你所做的一切\"",
 			"key": "yamEnd24",
 			"side": ""
 		},
@@ -297,7 +297,7 @@
 			"isCommand": false,
 			"name": "no_one",
 			"expression": "gone",
-			"string": "A new world was out there for the Literature Club to explore. One of crazy possibilities. And somewhere out there is someone very important to Monika.",
+			"string": "一个新的世界出现了，供文学部探索，一种疯狂的可能性，在某个地方有一个对莫妮卡非常重要的人",
 			"key": "yamEnd25",
 			"side": ""
 		},
@@ -310,7 +310,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"I know you’re out there. There’s so much I need to tell you… So much I need to apologize for… and… and-\"",
+			"string": "\"我知道你在那，我有很多事情要告诉你……我有很多事要道歉……还有-\"",
 			"key": "yamEnd26",
 			"side": ""
 		},
@@ -318,7 +318,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"Now that I have this chance… maybe you’ll give me a chance-\"",
+			"string": "\"既然我有这个机会…也许你会给我一个机会去-\"",
 			"key": "yamEnd27",
 			"side": ""
 		},
@@ -326,7 +326,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gone",
-			"string": "\"-to learn to love in your reality.\"",
+			"string": "\"-去学会在你的现实中爱着你\"",
 			"key": "yamEnd28",
 			"side": ""
 		},

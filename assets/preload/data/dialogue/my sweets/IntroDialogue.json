@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"...okay, you’ve convinced me.\"",
+			"string": "\"…好吧，我想你说服了我\"",
 			"key": "sweeIntro1",
 			"side": "left"
 		},
@@ -15,7 +15,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "neutral",
-			"string": "\"Oh?\"",
+			"string": "\"哦?\"",
 			"key": "sweeIntro2",
 			"side": "right"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"You better not tell this to ANYONE, but I sometimes sing in front of the mirror into my hairbrush.\"",
+			"string": "\"你最好不要告诉任何人，但我有时会对着镜子拿着发刷唱歌\"",
 			"key": "sweeIntro3",
 			"side": "left"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"Only when my dad isn’t home though.\"",
+			"string": "\"当我爸爸不在家的时候\"",
 			"key": "sweeIntro4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"...uhuhu.\"",
+			"string": "\"...呵呵\"",
 			"key": "sweeIntro5",
 			"side": "right"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Hey! I heard that, you know!\"",
+			"string": "\"喂！你知道我能听到你在笑，对吧？\"",
 			"key": "sweeIntro6",
 			"side": "left"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "yuri",
 			"expression": "smile",
-			"string": "\"Its just... picturing you doing that, its quite an adorable mental image.\"",
+			"string": "\"只是...我在想象你这样做，这是个非常可爱的心理形象\"",
 			"key": "sweeIntro7",
 			"side": "right"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"S-shut it! And stop calling me cute! I-I’m not cute.\"",
+			"string": "\"闭嘴！别再说我可爱了！我才不可爱\"",
 			"key": "sweeIntro8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"Ugh, I shouldn’t have said anything.\"",
+			"string": "\"啊，我什么都不该说的\"",
 			"key": "sweeIntro9",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"Let’s just get this started.\"",
+			"string": "\"让我们开始吧\"",
 			"key": "sweeIntro10",
 			"side": "left"
 		}

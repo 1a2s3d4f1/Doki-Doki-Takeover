@@ -1,36 +1,36 @@
 flag	content
-lnfIntro1	As fun as singing was, the Literature Club had soon gone back to their regular club activity of writing and poems when Boyfriend and Girlfriend departed.
-lnfIntro2	Though every so often, the two would make their visit, and the pleasant bouts of song would return to the clubroom.
-lnfIntro3	Today, however, was quite the unusual lineup of club attendees.
-lnfIntro4	The two boys were absent, leaving today's meeting consisting of the original four girls...
-lnfIntro5	and Girlfriend!
-lnfIntro6	<Q>This is the first time I've ever seen you apart from your boyfriend.<Q>
-lnfIntro7	*blank expression*
-lnfIntro8	<Q>I was told that Boyfriend is acting as a vocal coach for a certain someone now. They must be occupied with that.<Q>
-lnfIntro9	<Q>D-don't tell him I told you that though-!<Q>
-lnfIntro10	<Q>Looks like it's just us today then!<Q>
-lnfIntro11	<Q>Come to think of it, I honestly can't remember the last time we've had an all girls meeting.<Q>
-lnfIntro12	<Q>Oooh, yeah! Actually, I've been wondering about this for a while, but hey Girlfriend!<Q>
-lnfIntro13	*surprised look*
-lnfIntro14	<Q>I don't think I've seen you participate in any of our club activities before. We'd love to have you get more involved!<Q>
-lnfIntro15	<Q>You've been the quiet type, I've noticed. But I'm sure deep down there's so much you wanna say.<Q>
-lnfIntro16	<Q>And this is the perfect place to write the way into your heart! Have you ever written a poem before?<Q>
-lnfIntro17	*confused gaze*
-lnfIntro18	<Q>If you haven't, we can teach you! We're basically poetry experts by now.<Q>
-lnfIntro19	<Q>I wouldn't mind helping you to find your writing style. Writing your feelings down can help you express deep down what you may have trouble expressing vocally.<Q>
-lnfIntro20	<Q>You've heard your boyfriend rap so much. Some of his rhymes had to have rubbed off on you.<Q>
-lnfIntro21	<Q>Heck, I'm surprised I haven't heard you sing either considering how music centric he is.<Q>
-lnfIntro22	<Q>That gives me another idea. Why not write a love song for Boyfriend? That way we can help you with writing and singing too!<Q>
-lnfIntro23	<Q>Yeah, yeah! And what better way to help you write a song than to teach you with a song! Does that sound good?<Q>
-lnfIntro24	*cheering*
-lnfIntro25	<Q>Okay, everyone! It's time for a lesson I'll call...<Q>
-lnfIntro26	<Q>Love n' Funkin'!<Q>
-lnfEnd1	And through the power of song, Girlfriend was able to write down the lyrics to her very own love song for her darling Boyfriend.
-lnfEnd2	The girls excitedly ask to see what Girlfriend had come up with, so she handed them the paper with all the lyrics written on it.
-lnfEnd3	With much anticipation, the girls began to read, and-
-lnfEnd4	-their expressions slowly morphed into ones of shock and confusion.
-lnfEnd5	<Q>...I wasn't expecting you to write something so... explicit-<Q>
-lnfEnd6	<Q>Eugh, eww!!! Why did you write that?! I don't need to know what you and your boyfriend do at night!<Q>
-lnfEnd7	<Q>I'm... curious as to what inspired you to write down several verses about 'The blood of your enemies'-<Q>
-lnfEnd8	<Q>Eheheh... ehhhhh... maybe next time, try to keep things school appropriate-<Q>
-lnfEnd9	*blep*
+lnfIntro1	尽管唱歌很有趣，但当BF和GF离开时，文学部很快又恢复了他们的日常社团活动——写作和诗歌
+lnfIntro2	尽管偶尔，两人会来拜访，愉快的歌声会回到部室
+lnfIntro3	然而，今天来参加的人却是不同寻常的
+lnfIntro4	两个男孩缺席了，今天的会议由原来的四个女孩组成
+lnfIntro5	以及GF组成！
+lnfIntro6	<Q>这是我第一次看到你和你男朋友分开<Q>
+lnfIntro7	*茫然的表情*
+lnfIntro8	<Q>有人告诉我，BF现在正在为某个人担任声乐教练，他们一定很忙<Q>
+lnfIntro9	<Q>别告诉他是我告诉过你的-！<Q>
+lnfIntro10	<Q>看来今天只有我们了！<Q>
+lnfIntro11	<Q>回想起来，我真的不记得我们上一次举行全女生社团活动是什么时候了<Q>
+lnfIntro12	<Q>哦，是的！事实上，我已经想了一段时间了，但是嘿，GF！<Q>
+lnfIntro13	*惊讶的表情*
+lnfIntro14	<Q>我想我以前从未见过你参加我们文学部的任何活动，我们希望你能更多地参与进来！<Q>
+lnfIntro15	<Q>我注意到你一直是那种安静的人，但我敢肯定，在内心深处，你想说很的多<Q>
+lnfIntro16	<Q>A这是一个完美的地方，可以把路写进你的心里！你以前写过诗吗？<Q>
+lnfIntro17	*困惑的凝视*
+lnfIntro18	<Q>如果你没有，我们可以教你！我们现在基本上都是诗歌专家了<Q>
+lnfIntro19	<Q>我不介意帮你找到你的写作风格。把你的感受写下来可以帮助你在内心深处表达你可能难以用语言表达的东西<Q>
+lnfIntro20	<Q>你听你男朋友唱了很多歌，他的一些押韵词一定是对你产生过影响的<Q>
+lnfIntro21	<Q>见鬼，考虑到他是多么以音乐为中心，我很惊讶我也没听你唱歌<Q>
+lnfIntro22	<Q>这给了我另一个想法，为什么不给男朋友写一首情歌呢？这样我们也可以帮助你写作和唱歌！<Q>
+lnfIntro23	<Q>是的，是的！还有什么比用一首歌教你更好的方法来帮助你写歌呢！<Q>
+lnfIntro24	*欢呼*
+lnfIntro25	<Q>大家好！是时候上课了，我把这首歌叫作...<Q>
+lnfIntro26	<Q>爱与放克！<Q>
+lnfEnd1	通过歌曲的力量，GF能够为她亲爱的男朋友写下她自己的情歌的歌词
+lnfEnd2	女孩们兴奋地想看看GF想出了什么，于是她把写满歌词的纸递给了她们
+lnfEnd3	带着极大的期待，女孩们开始阅读-
+lnfEnd4	-他们的表情慢慢变成了震惊和困惑
+lnfEnd5	<Q>…我没想到你会写这么…露骨的东西-<Q>
+lnfEnd6	<Q>啊，啊！！！你为什么写这个？！我不需要知道你和你男朋友在床上做什么！<Q>
+lnfEnd7	<Q>我是好奇是什么激发了你写下几首关于“敌人的鲜血”的诗-<Q>
+lnfEnd8	<Q>呃...啊...也许下次，试着保持学校的适当风格-<Q>
+lnfEnd9	*吐舌*

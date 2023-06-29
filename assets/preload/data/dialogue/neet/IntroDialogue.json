@@ -6,7 +6,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "chill",
-			"string": "\"Ah, good thing I caught you guys at a good time. I heard from the others that you'll be leaving the club for a while after today.\"",
+			"string": "\"啊，还好我在一个好时机抓住了你们，我从其他人那里听说，今天之后你将离开文学部一段时间\"",
 			"key": "neetIntro1",
 			"side": "left"
 		},
@@ -14,7 +14,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "chill",
-			"string": "\"We didn't exactly see each other much aside from the festival, so I wanted to say goodbye just in case.\"",
+			"string": "\"除了在学园祭，我们没怎么见面，所以以防万一，我想说个再见\"",
 			"key": "neetIntro2",
 			"side": "left"
 		},
@@ -22,7 +22,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "camera",
-			"string": "\"I've also been meaning to ask you something too. Some advice, to be specific.\"",
+			"string": "\"我也一直想问你一些事情，具体地说，一些建议\"",
 			"key": "neetIntro3",
 			"side": "left"
 		},
@@ -38,7 +38,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "happy",
-			"string": "\"I didn't expect to enjoy my time here in the club so much. Writing poems and helping set up these special events and just getting to know all the other club members is definitely something I needed.\"",
+			"string": "\"我没想到会在文学部度过如此愉快的时光，写诗，帮助举办这些特别活动，了解所有其他文学部成员，这绝对是我所需要的\"",
 			"key": "neetIntro5",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"Otherwise, I would've been stuck in my room for the rest of my life being a 'NEET', as Sayori would say.\"",
+			"string": "\"否则，正如纱世里所说，我的余生都会被困在房间里，成为一名“家里蹲”\"",
 			"key": "neetIntro6",
 			"side": "left"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "chill",
-			"string": "\"Joining the Literature Club did come with a pretty nice extra benefit too.\"",
+			"string": "\"加入文学部也带来了不错的东西\"",
 			"key": "neetIntro7",
 			"side": "left"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "chill",
-			"string": "\"I'm sure you've already noticed, but this club-\"",
+			"string": "\"我相信你已经注意到了，但是这个文学部-\"",
 			"key": "neetIntro8",
 			"side": "left"
 		},
@@ -70,7 +70,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "happy",
-			"string": "\"-is full of incredibly cute girls.\"",
+			"string": "\"-全是超级可爱的女孩子\"",
 			"key": "neetIntro9",
 			"side": "left"
 		},
@@ -78,7 +78,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "happy",
-			"string": "\"You already got yourself a girlfriend, so I wanted to ask if you, by chance, have any advice for someone like me who may pursue romance?\"",
+			"string": "\"你已经给自己找了一个女朋友，所以我想要问一下，你是否有什么建议可以给像我这样追求浪漫的人？\"",
 			"key": "neetIntro10",
 			"side": "left"
 		},
@@ -94,7 +94,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"...sing? That seems like your response to every life problem.\"",
+			"string": "\"...唱？这似乎是你对每一个生活问题的回应\"",
 			"key": "neetIntro12",
 			"side": "left"
 		},
@@ -102,7 +102,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "camera",
-			"string": "\"Girls aren't that simple, y'know. Plus, I've told you before, I'm not gonna embarrass myself trying to sing in front of them.\"",
+			"string": "\"女孩子并不是那么简单，另外，我之前已经告诉过你，我不会让自己在她们面前唱歌时感到尴尬\"",
 			"key": "neetIntro13",
 			"side": "left"
 		},
@@ -110,7 +110,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "neutral",
-			"string": "*stare*",
+			"string": "*凝视*",
 			"key": "neetIntro14",
 			"side": "right"
 		},
@@ -125,7 +125,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"No.\"",
+			"string": "\"不要\"",
 			"key": "neetIntro15",
 			"side": "left"
 		},
@@ -133,7 +133,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "neutral",
-			"string": "*stare*",
+			"string": "*凝视*",
 			"key": "neetIntro14",
 			"side": "right"
 		},
@@ -141,7 +141,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"Stop that.\"",
+			"string": "\"停下\"",
 			"key": "neetIntro16",
 			"side": "left"
 		},
@@ -149,7 +149,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "neutral",
-			"string": "*intense unbreaking eye contact*",
+			"string": "*强烈而牢不可破的眼神交流*",
 			"key": "neetIntro17",
 			"side": "right"
 		},
@@ -169,7 +169,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "hrk",
-			"string": "\"...ghh-!\"",
+			"string": "\"...啊啊啊-!\"",
 			"key": "neetIntro18",
 			"side": "left"
 		},
@@ -177,7 +177,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"F-fine! I'll give singing a shot.\"",
+			"string": "\"很-很好！我要试试唱歌\"",
 			"key": "neetIntro19",
 			"side": "left"
 		},
@@ -185,7 +185,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "(I can't believe staredowns are all it takes to get me to do things-)",
+			"string": "（我不敢相信我竟然是如此的饥不择食-）",
 			"key": "neetIntro20",
 			"side": "left"
 		},
@@ -193,7 +193,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "(Though if this ends up like how me joining the club turned out, this could end up working out in the end.)",
+			"string": "（尽管如果这最终像我加入文学部的结果一样，这最后可能会有用）",
 			"key": "neetIntro21",
 			"side": "left"
 		},
@@ -201,7 +201,7 @@
 			"isCommand": false,
 			"name": "mc",
 			"expression": "sigh",
-			"string": "\"Can you give me some pointers at least?\"",
+			"string": "\"你至少能给我一些建议吗？\"",
 			"key": "neetIntro22",
 			"side": "left"
 		},
@@ -209,7 +209,7 @@
 			"isCommand": false,
 			"name": "gf",
 			"expression": "yeah",
-			"string": "*cheer*",
+			"string": "*欢呼*",
 			"key": "neetIntro23",
 			"side": "right"
 		},

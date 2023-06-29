@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "what",
-			"string": "\"PUT THAT THING BACK WHERE IT CAME FROM OR SO HELP ME-!\"",
+			"string": "\"把那东西送回原来的地方或者来帮帮我-！\"",
 			"key": "consEnd1",
 			"side": "right"
 		},

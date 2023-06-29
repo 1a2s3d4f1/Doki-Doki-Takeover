@@ -14,7 +14,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "Ahaha, I should know better-",
+			"string": "啊哈哈，为什么我又这么做了-",
 			"key": "ydEnd1",
 			"side": "left"
 		},
@@ -22,7 +22,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "Trying to interfere with people's love lives again.",
+			"string": "又尝试插手别人的恋爱",
 			"key": "ydEnd2",
 			"side": "left"
 		},
@@ -30,7 +30,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "hmm",
-			"string": "I'll leave you be.",
+			"string": "我将离你而去",
 			"key": "ydEnd3",
 			"side": "left"
 		},
@@ -76,7 +76,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "So, you weren't the one who stole my mic?",
+			"string": "所以，你没偷我的麦克风？",
 			"key": "ydEnd4",
 			"side": "left"
 		},
@@ -84,7 +84,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "That blue-haired kid gave it to me when I showed up.",
+			"string": "是那个蓝发小孩给我的",
 			"key": "ydEnd5",
 			"side": "right"
 		},
@@ -92,7 +92,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "I don't know where he got it.",
+			"string": "我不知道他是怎么拿到的",
 			"key": "ydEnd6",
 			"side": "right"
 		},
@@ -100,7 +100,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "I don't even know how I got here, for that matter.",
+			"string": "而我甚至也不知道我怎么来到这的",
 			"key": "ydEnd7",
 			"side": "right"
 		},
@@ -108,7 +108,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "Hmm-",
+			"string": "嗯-",
 			"key": "ydEnd8",
 			"side": "left"
 		},
@@ -116,7 +116,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "And what exactly happened after our... unintentional duet?",
+			"string": "那在我们无意间的二重奏之后...又发生了什么？",
 			"key": "ydEnd9",
 			"side": "left"
 		},
@@ -124,7 +124,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "I... got rid of everyone.",
+			"string": "我...删除了所有人",
 			"key": "ydEnd10",
 			"side": "right"
 		},
@@ -132,7 +132,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "Temporarily. It's something I can do, but that's a long story.",
+			"string": "暂时的，这是我的某种能力，但解释起来非常麻烦，这是一段很长的故事",
 			"key": "ydEnd11",
 			"side": "right"
 		},
@@ -140,7 +140,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "-and that included that kid's girlfriend.",
+			"string": "-那孩子的女朋友也包括在内",
 			"key": "ydEnd12",
 			"side": "right"
 		},
@@ -148,7 +148,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "Ahaha, old habits die hard, as they say.",
+			"string": "啊哈哈，这可能就是所谓的恶习难改吧",
 			"key": "ydEnd13",
 			"side": "right"
 		},
@@ -156,7 +156,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "hmm",
-			"string": "You got his girl too?",
+			"string": "你连他的女朋友也搞定了？",
 			"key": "ydEnd14",
 			"side": "left"
 		},
@@ -171,7 +171,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "",
-			"string": "Hah! I bet you really pissed that worm off!",
+			"string": "哈哈！你肯定把那只虫子惹毛了",
 			"key": "ydEnd15",
 			"side": "left"
 		},
@@ -179,7 +179,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "",
-			"string": "I wish I was there to see the look on his hideous baby face.",
+			"string": "我真希望我能在当时亲眼目睹他的表情！",
 			"key": "ydEnd16",
 			"side": "left"
 		},
@@ -187,7 +187,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "sad",
-			"string": "He was mad...",
+			"string": "他当时快气疯了...",
 			"key": "ydEnd17",
 			"side": "right"
 		},
@@ -209,7 +209,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "",
-			"string": "Hey.",
+			"string": "嘿",
 			"key": "ydEnd18",
 			"side": "left"
 		},
@@ -217,7 +217,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "...hm?",
+			"string": "...嗯?",
 			"key": "ydEnd19",
 			"side": "right"
 		},
@@ -225,7 +225,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "",
-			"string": "Your performance wasn't half bad earlier.",
+			"string": "你刚才的表现真不赖",
 			"key": "ydEnd20",
 			"side": "left"
 		},
@@ -233,7 +233,7 @@
 			"isCommand": false,
 			"name": "senpai",
 			"expression": "",
-			"string": "Care for another song?",
+			"string": "想再来一首歌吗？",
 			"key": "ydEnd21",
 			"side": "left"
 		},

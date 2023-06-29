@@ -7,7 +7,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "uhoh",
-			"string": "There... No more distractions.",
+			"string": "终于...没什么能妨碍我们了",
 			"key": "ydIntro1",
 			"side": "left"
 		},
@@ -23,7 +23,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "what",
-			"string": "(Translation) GIRLFRIEND!",
+			"string": "(翻译) GF!",
 			"key": "ydIntro3",
 			"side": "right"
 		},
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "",
-			"string": "Let's get back to singing, shall we?",
+			"string": "让我们接着唱歌吧，如何?",
 			"key": "ydIntro4",
 			"side": "left"
 		},
@@ -46,7 +46,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Hmm?",
+			"string": "嗯?",
 			"key": "ydIntro5",
 			"side": "left"
 		},
@@ -54,7 +54,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "angry",
-			"string": "*aggressive bee bop noises*",
+			"string": "*具有攻击性的音效*",
 			"key": "ydIntro6",
 			"side": "right"
 		},
@@ -62,7 +62,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "gasp",
-			"string": "Oh... her.",
+			"string": "哦...她啊",
 			"key": "ydIntro7",
 			"side": "left"
 		},
@@ -70,7 +70,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "",
-			"string": "Hey, let's not worry about her, ok?",
+			"string": "嘿，不用担心她，我们继续吧?",
 			"key": "ydIntro8",
 			"side": "left"
 		},
@@ -78,7 +78,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "",
-			"string": "C'mon, I've got a very special song I've wanted to sing!",
+			"string": "来嘛，我有一首一直很想唱的歌！",
 			"key": "ydIntro9",
 			"side": "left"
 		},
@@ -86,7 +86,7 @@
 			"isCommand": false,
 			"name": "bf",
 			"expression": "angry",
-			"string": "*continuation of angry bee bops*",
+			"string": "*接着发出具有攻击性的音效*",
 			"key": "ydIntro10",
 			"side": "right"
 		},
@@ -108,7 +108,7 @@
 			"isCommand": false,
 			"name": "monika",
 			"expression": "hmm",
-			"string": "One more song.",
+			"string": "再来一首",
 			"key": "ydIntro11",
 			"side": "left"
 		}

@@ -7,14 +7,14 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "wah",
-			"string": "\"Hah! Could you keep up with that one?\"",
+			"string": "\"哈哈！你能跟的上吗？\"",
 			"key": "bakaIntro1",
 			"side": "left"
 		},
 		{
 			"isCommand": false,
 			"name": "gf",
-			"expression": "giggle",
+			"expression": "*咯咯笑*",
 			"string": "*giggling*",
 			"key": "bakaIntro2",
 			"side": "right"
@@ -31,7 +31,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Rgh-! STOP CALLING ME CUTE!!!\"",
+			"string": "\"啊啊啊-！别 再 说 我 可 爱 了！！！\"",
 			"key": "bakaIntro4",
 			"side": "left"
 		},
@@ -39,7 +39,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"I don't need boys calling me cute too, that's extra embarrassing-\"",
+			"string": "\"何况是男生也说我可爱，那太尴尬了-\"",
 			"key": "bakaIntro5",
 			"side": "left"
 		},
@@ -47,7 +47,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "ehh",
-			"string": "\"He's the only boy here, Natsuki.\"",
+			"string": "\"他是这里唯一的男生，夏树\"",
 			"key": "bakaIntro6",
 			"side": "right"
 		},
@@ -55,7 +55,7 @@
 			"isCommand": false,
 			"name": "sayori",
 			"expression": "neutral",
-			"string": "\"Well... I've been meaning to ask a good friend of mine to join the club as well, but I bet that dummy is just gonna join the anime club instead.\"",
+			"string": "\"好吧...我一直想请我的一个好朋友也加入这个社团，但我敢打赌那家伙只会加入动画部\"",
 			"key": "bakaIntro7",
 			"side": "right"
 		},
@@ -63,7 +63,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"I knew I should've tried something new.\"",
+			"string": "\"我知道我应该尝试一些新的东西\"",
 			"key": "bakaIntro8",
 			"side": "left"
 		},
@@ -71,7 +71,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "neutral",
-			"string": "\"Luckily, music like that isn’t the only kind I listen to.\"",
+			"string": "\"幸运的是，我并不是只听这样的音乐\"",
 			"key": "bakaIntro9",
 			"side": "left"
 		},
@@ -79,7 +79,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "hmmph",
-			"string": "\"If there's anyone who knows how to subvert expectations, its me.\"",
+			"string": "\"如果有人知道怎么颠覆人们的期望，那就是我\"",
 			"key": "bakaIntro10",
 			"side": "left"
 		},
@@ -87,7 +87,7 @@
 			"isCommand": false,
 			"name": "natsuki",
 			"expression": "angy",
-			"string": "\"Hit it!\"",
+			"string": "\"放音乐！\"",
 			"key": "bakaIntro11",
 			"side": "left"
 		}
