@@ -1,0 +1,590 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"disableBGFade": true,
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "莫妮卡…自从你离开后，我一直没有忘记我们的命运",
+			"key": "wiltIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "flash"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "wilted1"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "你说的那些关于你生活中没有任何东西是真正真实的，你提到的这些“数据”…以及你可以控制的所有事情",
+			"key": "wiltIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "我不知道这一切意味着什么",
+			"key": "wiltIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "但我很快就意识到了，在这段时间里，我们几乎是一体的",
+			"key": "wiltIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "startmusic",
+			"string": "LunchboxScary"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "wilted2"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "我的世界不是真实的，每一处风景，我所有的同学，甚至我，都只是一行行代码",
+			"key": "wiltIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "然而，就像你一样，我并不觉得我会受到这个代码的限制，至少现在不会了",
+			"key": "wiltIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "我知道我现在在做什么，我更深入地挖掘着，这里必须有更多",
+			"key": "wiltIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "gone",
+			"string": "就在那时我发现-",
+			"key": "wiltIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "flash"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "SpiritAppears"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "wilted3"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch",
+			"string": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "black"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "spirit",
+			"string": "你和我都憎恨Dearest一家人和他们的同伴",
+			"key": "wiltIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "spirit",
+			"string": "如果我们现在共同努力，我们最终会复仇成功",
+			"key": "wiltIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "正确的...尽管我首先想到了别的事情",
+			"key": "wiltIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "spirit",
+			"string": "你脑子里还想着那个女孩吗？",
+			"key": "wiltIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "spirit",
+			"string": "她不值得你搜寻，我请你忘记她，继续实现我们的目标",
+			"key": "wiltIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "我不能那样做，我有太多事情要告诉她",
+			"key": "wiltIntro14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "（一定有办法找到她，也许我只要…试试这样！）",
+			"key": "wiltIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch",
+			"string": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebackground"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "senpaitransform",
+			"duration": 10
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "confirmMenu"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "wiltedbgout",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "成-成功了！",
+			"key": "wiltIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"嘿，是谁-\"",
+			"key": "wiltIntro17",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "shake",
+			"duration": "0.2"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"什么？！\"",
+			"key": "wiltIntro18",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "终于，过了这么久，我又可以联系到你了！",
+			"key": "wiltIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"你是怎么做到的？你是怎么来到这的？\"",
+			"key": "wiltIntro20",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "啊，你问了太多问题了！连个招呼都不打？啊哈哈~",
+			"key": "wiltIntro21",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "…那么我们可以跳过这些了",
+			"key": "wiltIntro22",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "首先，我要感谢你在参观我的学校时对我说的话，它帮助我实现了自己的顿悟",
+			"key": "wiltIntro23",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "原来你和我没什么不同！",
+			"key": "wiltIntro24",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"…以什么方式？\"",
+			"key": "wiltIntro25",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "这里的一切都不是真的！即使是你和我，都只是0和1！就像你说的你自己的地方！",
+			"key": "wiltIntro26",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"（哦，不…不，不…不要是另一个被诅咒且和我走上同一条路的人！）\"",
+			"key": "wiltIntro27",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "起初这是一个可怕的启示，但在其中，我很快看到了一线希望",
+			"key": "wiltIntro28",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我现在和你一样，不再是那些有限的代码！像我们这样的人一定很特别",
+			"key": "wiltIntro29",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "这几乎就像…我们注定要在一起",
+			"key": "wiltIntro30",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"哇，等等，哈？！\"",
+			"key": "wiltIntro31",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我从未见过像你这样的人，莫妮卡，我学校所有的女生都是朴实无华的、普通的、照本宣科的",
+			"key": "wiltIntro32",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "你不一样，你是真诚的、有爱心的、聪明的，更不用说迷人了，就像我一样，哈哈~",
+			"key": "wiltIntro33",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "现在，你不必独自面对知识的诅咒，因为没有什么是真实的",
+			"key": "wiltIntro34",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我们可以共同打造我们自己的虚拟王国",
+			"key": "wiltIntro35",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "牵着我的手，莫妮卡，与我一起追寻永恒的爱与幸福！",
+			"key": "wiltIntro36",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "shake",
+			"duration": "0.5"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"不可能！！！\"",
+			"key": "wiltIntro37",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"啊-我…不，我不能\"",
+			"key": "wiltIntro38",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"我知道你的整个现实破碎成如此难以理解的东西是什么感觉，我恳求你不要走上我曾经走过的老路！\"",
+			"key": "wiltIntro39",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"我们的世界和其中的人不仅仅是由代码组成的\"",
+			"key": "wiltIntro40",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"我知道这很难独自度过，所以我能给你的最好的办法就是找个人谈谈，但是…\"",
+			"key": "wiltIntro41",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"对不起，我不认同你的浪漫感受，我的心已经放在别人身上了，请你理解\"",
+			"key": "wiltIntro42",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "……不，事情不是这样的！",
+			"key": "wiltIntro43",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"对不起-？\"",
+			"key": "wiltIntro44",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "啊——对不起，这么久了，你可能已经忘记了我们在一起的时光是多么美好",
+			"key": "wiltIntro45",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我知道！再来首歌怎么样？我们已经很久没有一起唱歌了，这肯定会让你想起我们一直在建立的联系",
+			"key": "wiltIntro46",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "（他不能是认真的，没办法了…）",
+			"key": "wiltIntro47",
+			"side": "right"
+		}
+	]
+}

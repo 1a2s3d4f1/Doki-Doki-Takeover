@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "你和我",
+        "artist": "作曲：HighPoweredKeyz & GGalactigal",
+        "icon": "pen",
+        "pause": "protag",
+        "allowCountDown": false,
+        "endDialogue": "EndDialogue"
+    }
+}

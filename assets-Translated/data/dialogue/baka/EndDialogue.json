@@ -1,0 +1,225 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "自从我来到这里，那些女孩就一直对我冷嘲热讽，我做错什么了吗？",
+			"key": "bakaEnd1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "啊，我想你注意到我亲爱的同学们了",
+			"key": "bakaEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我在这里有很多忠实的粉丝",
+			"key": "bakaEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "当你是学校里最受欢迎的人时这就见怪不怪了",
+			"key": "bakaEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "看来她们都在嫉妒你能这么快就引起了我的兴趣",
+			"key": "bakaEnd5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "她们会为了和我共度一个短暂的时刻而去犯下命案，不幸的是，她们不值得我花上一点时间，啊哈哈~",
+			"key": "bakaEnd6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "那是... 嗯...",
+			"key": "bakaEnd7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "你原来的地方一定有你自己的小粉丝群吧",
+			"key": "bakaEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "有人说我会有，但就我个人而言，我在学校所做的一切都完全被忽视了",
+			"key": "bakaEnd9",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "不过，我从来没有打算成为受欢迎的人，我只是想和任何与我一样的人分享彼此的激情",
+			"key": "bakaEnd10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "正因如此，我才遇到了一群了不起的朋友...",
+			"key": "bakaEnd11",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "flashback1"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending2"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-啊！",
+			"key": "bakaEnd12",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "（我刚刚是不是看到了-）",
+			"key": "bakaEnd13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "（但是为什么...）",
+			"key": "bakaEnd14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "你又怎么了，莫妮卡，你知道无论发生什么事你都可以告诉我吧",
+			"key": "bakaEnd15",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我很好…我很好！",
+			"key": "bakaEnd16",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "没必要担心我，哈哈-",
+			"key": "bakaEnd17",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "好吧，如果你坚持的话",
+			"key": "bakaEnd18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "既然如此，我想了解更多关于你原来在哪里的信息，你可以继续用更多的话题来吸引我",
+			"key": "bakaEnd19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "好吧，我可以尽力做到",
+			"key": "bakaEnd20",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "（是不是有些故障导致了这些的发生？）",
+			"key": "bakaEnd21",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "（如果不是所有人都在的话那个游戏根本运行不了）",
+			"key": "bakaEnd22",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（如果出现问题-）",
+			"key": "bakaEnd23",
+			"side": "right"
+		}
+	]
+}

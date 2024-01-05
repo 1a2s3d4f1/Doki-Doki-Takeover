@@ -1,0 +1,87 @@
+{
+	"startingMusic": "yuric",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "在文学部的一个看似正常的日子里…夏树向优里展示了她的快速歌唱技巧",
+			"key": "catIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"哈，那个BF非常喜欢的“说唱”一点也不难！我一直对着镜子唱歌的练习确实得到了回报\"",
+			"key": "catIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"速度如此之快，但仍然如此清晰和有节奏，我没见过这里有人能像你那样做到这一点，如果是我……我肯定会不知所措，把我的歌给搞砸的\"",
+			"key": "catIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"嘿，不过你的歌声真的很好听，你知道的，更快并不总是意味着听起来感觉更好\"",
+			"key": "catIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "blush",
+			"string": "\"-但学到如此强大的技巧需要更多的信心！我还没有达到那个水平！我被限制在更慢、更标准的旋律上\"",
+			"key": "catIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"那又怎么？你让你的歌听起来很美！但如果我试着用你那种更深沉的音调唱歌，我的声音会变得很糟糕！\"",
+			"key": "catIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ahh",
+			"string": "\"那不是真的！你很容易就可以掌握的！你至少得有信心去尝试！\"",
+			"key": "catIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"天啊，优里，你只要接受赞美就好了！\"",
+			"key": "catIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"贬低你自己可并不是一种赞美-！\"",
+			"key": "catIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"你真的在做同样的事情！！！啊啊啊-！好的，我现在就要证明你简直大错特错！\"",
+			"key": "catIntro10",
+			"side": "right"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="difficulties.png">
+<SubTexture name="diff_alt" x="0" y="0" width="473" height="113" frameX="0" frameY="0" frameWidth="433" frameHeight="100" />
+<SubTexture name="diff_reg" x="0" y="113" width="473" height="113" frameX="0" frameY="0" frameWidth="433" frameHeight="100" />
+<SubTexture name="diff_lyrics" x="0" y="226" width="473" height="113" frameX="0" frameY="0" frameWidth="433" frameHeight="100" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "这很难说(纱世里混音版)",
+        "artist": "作曲：Stardust Tunes / StarrieBlu",
+        "icon": "pen",
+        "pause": "sayori",
+        "introDialogue": "IntroDialogue",
+        "playManually": true
+    }
+}

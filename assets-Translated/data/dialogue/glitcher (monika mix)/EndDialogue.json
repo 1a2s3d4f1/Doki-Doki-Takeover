@@ -1,0 +1,152 @@
+{
+	"dialogue": [
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"啊哈哈\"",
+			"key": "glitEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "fadeout",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "festivalend"
+		},
+		{
+			"isCommand": true,
+			"name": "fadein",
+			"string": "hidedialogue",
+			"duration": 2
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"我很感激你们两个来帮助我们的活动\"",
+			"key": "glitEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我代表整个文学部向你表示感谢\"",
+			"key": "glitEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "yeah",
+			"string": "*愉快的表情*",
+			"key": "glitEnd4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "yeah",
+			"string": "\"Skee yeah!\"",
+			"key": "glitEnd5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"……既然所有人都离开了，我现在有件事想问\"",
+			"key": "glitEnd6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"据我所闻，你不是“这里的人”\"",
+			"key": "glitEnd7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"你们可以很容易地进出这个游戏，所以我必须要问...\"",
+			"key": "glitEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"-有办法把能我们带出这个游戏吗？\"",
+			"key": "glitEnd9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "think",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"我们在这个游戏里所能做的是很有限的，无论发生什么，其他人都会在幸福中无视掉这些...\"",
+			"key": "glitEnd10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"-但如果他们有机会看到学校和家之外的地方，我想他们会非常开心\"",
+			"key": "glitEnd11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"也许...\"",
+			"key": "glitEnd12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"-也许我也终于可以找到我一直渴望见到的那个人，并与他面对面\"",
+			"key": "glitEnd13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"…又或者-\"",
+			"key": "glitEnd14",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "fadetoblack",
+			"duration": 0
+		}
+	]
+}

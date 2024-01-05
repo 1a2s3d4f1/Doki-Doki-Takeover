@@ -1,0 +1,118 @@
+{
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"哇，比我想象的有趣多了，我想我没有搞砸\"",
+			"key": "neetEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"你唱的太棒了！\"",
+			"key": "neetEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"嘿，谢谢你纱世-\"",
+			"key": "neetEnd3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"-等等...\"",
+			"key": "neetEnd4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"没想到你真的坚持了这么久，嗯？这么长时间以来我们一直在努力让你加入我们！\"",
+			"key": "neetEnd5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "hrk",
+			"string": "\"你们在这里多久了？！\"",
+			"key": "neetEnd6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"哈哈哈！我们在这里已经有一会了，我真不敢相信你这么投入竟然没有注意到\"",
+			"key": "neetEnd7",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "shake",
+			"duration": "0.2"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "hrk",
+			"string": "\"啊-!\"",
+			"key": "neetEnd8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"你唱歌的声音和你读诗的声音一样自信\"",
+			"key": "neetEnd9",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Skep de bop, bedeep?~\"",
+			"key": "neetEnd10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "（翻译）哥们，我刚刚跟你说了什么？",
+			"key": "neetEnd11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "（这根本不可能有用，对吧…？）",
+			"key": "neetEnd12",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "fadetoblack",
+			"duration": 2
+		}
+	]
+}

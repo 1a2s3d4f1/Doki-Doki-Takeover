@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "Takeover混成曲",
+        "artist": "作曲：HighPoweredKeyz, Stardust Tunes, Kairii\nMiss Beepy, GGalactigal, DatDavi",
+        "icon": "pen",
+        "pause": "monika",
+        "allowCountDown": false,
+        "playManually": true
+    }
+}

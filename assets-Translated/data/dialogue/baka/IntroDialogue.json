@@ -1,0 +1,95 @@
+{
+	"startingMusic": "natsc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"哈哈！你能跟的上我吗？\"",
+			"key": "bakaIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "giggle",
+			"string": "*咯咯笑*",
+			"key": "bakaIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Dee boo skeet~\"",
+			"key": "bakaIntro3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"啊啊啊-！别再说我可爱了！！！\"",
+			"key": "bakaIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"何况是一个男生说我可爱，那也太尴尬了-\"",
+			"key": "bakaIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"他是这里唯一的男生，夏树\"",
+			"key": "bakaIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"好吧...我一直想请我的一个好朋友也加入这个社团，但我敢打赌那家伙只会加入动漫部\"",
+			"key": "bakaIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"我知道我应该尝试一些新的东西\"",
+			"key": "bakaIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"幸运的是，我并不只听这种风格的音乐\"",
+			"key": "bakaIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"如果有谁要颠覆人们的期望，那么那个人就是我\"",
+			"key": "bakaIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"开始吧！\"",
+			"key": "bakaIntro11",
+			"side": "left"
+		}
+	]
+}

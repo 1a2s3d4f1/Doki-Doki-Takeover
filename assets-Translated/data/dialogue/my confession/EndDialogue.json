@@ -1,0 +1,181 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "那是一场多么美妙的演出啊！我就知道你能力非凡",
+			"key": "confEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "今天是我第一次在陌生人面前唱歌",
+			"key": "confEnd2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "我很高兴所有的练习都得到了回报",
+			"key": "confEnd3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我也很喜欢这首歌，它是从哪里来的？",
+			"key": "confEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "哦！我…是我写了那首歌",
+			"key": "confEnd5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "这是我花了很多精力的结果，它是为一个对我有重大意义的人准备的",
+			"key": "confEnd6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "但可惜，发生了很多不幸的事，我失去了给她们唱这首歌的机会... ",
+			"key": "confEnd7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我仍然不知道我现在在哪里，所以我不知道我是否还能和她们分享... ",
+			"key": "confEnd8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-尽管我也不知道她们是否想听",
+			"key": "confEnd9",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "啊，你发现自己陷入了这样一个悲惨的境地中",
+			"key": "confEnd10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "neutral",
+			"string": "我可以保证，这个地方不会发生这样的悲剧",
+			"key": "confEnd11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "happy",
+			"string": "每当你心里有一首歌需要唱的时候，我都会在你身边！",
+			"key": "confEnd12",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "（这家伙怎么突然变得那么轻浮——尤其是在他早些时候对我和那个孩子大发雷霆之后……）",
+			"key": "confEnd13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（好吧，如果我没有来到这里，那我会去到的地方应该是回收站才对…）",
+			"key": "confEnd14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（我希望其他人都没事）",
+			"key": "confEnd15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（夏树、优里、纱世里…）",
+			"key": "confEnd16",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（那些事情发生后，我认为恢复她们的角色文件并彻底离开对文学部以及我爱的人来说是最好的结局…）",
+			"key": "confEnd17",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-!",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "你怎么了？有什么事吗？",
+			"key": "confEnd18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "啊——我很好！我不知道那是什么-",
+			"key": "confEnd19",
+			"side": "right"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "这杯我请",
+        "artist": "作曲：DPZ",
+        "icon": "shaker",
+        "pause": "jill",
+        "allowCountDown": false,
+        "playManually": true
+    }
+}

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"我突然看到那张歌单上有一首歌\"",
+			"key": "compIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"这首歌既欢快又乐观-\"",
+			"key": "compIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"...然而也有点悲伤\"",
+			"key": "compIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"这种既悲伤又快乐的东西真的很能打动我\"",
+			"key": "compIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"呵呵，我不知道该怎么解释...\"",
+			"key": "compIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"这很难说\"",
+			"key": "compIntro6",
+			"side": "left"
+		}
+	]
+}

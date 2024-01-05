@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "我们的谐律",
+        "artist": "作曲：DatDavi ft. Carimelle",
+        "icon": "pen",
+        "pause": "monika",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

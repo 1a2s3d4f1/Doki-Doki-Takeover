@@ -1,0 +1,9 @@
+{
+    "song": {
+        "name": "兜风",
+        "artist": "作曲：DatDavi",
+        "icon": "pen",
+        "pause": "sayori",
+        "introDialogue": "IntroDialogue"
+    }
+}

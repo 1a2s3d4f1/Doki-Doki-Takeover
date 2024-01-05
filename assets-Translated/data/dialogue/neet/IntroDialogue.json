@@ -1,0 +1,225 @@
+{
+	"startingMusic": "protagc",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"啊，还好我在一个好时机找到了你们，我从其他人那里听说，今后你们将离开文学部一段时间\"",
+			"key": "neetIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"在学园祭过后我们没怎么见面，以防万一，我想说个再见\"",
+			"key": "neetIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "camera",
+			"string": "\"我也一直想问你一些事情，具体地说，一些建议\"",
+			"key": "neetIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Bee boop?\"",
+			"key": "neetIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"我没想到我会在文学部度过这么多愉快的时光，写诗，帮助举办活动，了解所有文学部成员，这绝对是我所需要的\"",
+			"key": "neetIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"否则，正如纱世里所说，我的余生都会被困在一个小小的房间里，成为一名“尼特族”\"",
+			"key": "neetIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"加入文学部也带来了很多不错的东西\"",
+			"key": "neetIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"我相信你已经注意到了，这个文学部-\"",
+			"key": "neetIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"-全都是令人难以置信的可爱女孩\"",
+			"key": "neetIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"你已经给自己找了一个女朋友，所以我想要问一下，你是否有什么建议可以给像我这样追求浪漫的人？\"",
+			"key": "neetIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"De skeet.\"",
+			"key": "neetIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"...唱？这似乎是你对每一个生活问题的回应\"",
+			"key": "neetIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "camera",
+			"string": "\"女孩子并不是那么简单，另外，我之前已经告诉过你，我不会让自己在她们面前让自己社死\"",
+			"key": "neetIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "*凝视*",
+			"key": "neetIntro14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "chill",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"不要\"",
+			"key": "neetIntro15",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "neutral",
+			"string": "*凝视*",
+			"key": "neetIntro14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"停下\"",
+			"key": "neetIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "*强烈而牢不可破的眼神交流*",
+			"key": "neetIntro17",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "shake",
+			"duration": "0.2"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "hrk",
+			"string": "\"...啊啊啊-!\"",
+			"key": "neetIntro18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"好-好吧！我要试试唱歌\"",
+			"key": "neetIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "（我不敢相信我竟然是如此的饥不择食-）",
+			"key": "neetIntro20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "（尽管如果这像我最终加入了文学部的结果一样，这可能会有用吧）",
+			"key": "neetIntro21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"你至少能给我一些建议吗？\"",
+			"key": "neetIntro22",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "yeah",
+			"string": "*欢呼*",
+			"key": "neetIntro23",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "yeah",
+			"string": "\"Skee yeah!\"",
+			"key": "neetIntro24",
+			"side": "right"
+		}
+	]
+}

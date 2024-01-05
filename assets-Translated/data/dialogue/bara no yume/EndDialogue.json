@@ -1,0 +1,84 @@
+{
+	"canSkip": false,
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "先是你偷了我的麦克风，然后你竟然还敢这样做？",
+			"key": "bnyEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "你算哪根葱啊？",
+			"key": "bnyEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "现在，滚一边去",
+			"key": "bnyEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "...啊哈哈",
+			"key": "bnyEnd4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "我不认为我会",
+			"key": "bnyEnd5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "反倒是你-",
+			"key": "bnyEnd6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "你说什-",
+			"key": "bnyEnd7",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "fakeout",
+			"duration": 100000
+		}
+	]
+}

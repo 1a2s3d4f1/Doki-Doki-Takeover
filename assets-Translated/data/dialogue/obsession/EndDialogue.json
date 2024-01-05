@@ -1,0 +1,924 @@
+{
+	"canSkip": false,
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "crazy",
+			"string": "\"呵呵- 啊哈哈哈哈!\"",
+			"key": "obseEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "crazy",
+			"string": "\"为什么我们现在必须停下？\"",
+			"key": "obseEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "crazy",
+			"string": "\"让我歇斯底里的喊出每一句被困在我脑子里的病态歌词！\"",
+			"key": "obseEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "crazy",
+			"string": "\"啊哈哈！\"",
+			"key": "obseEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "spook",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "glitch1"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"#($**&#&#@)*&#&$^$^&@*(($(#\""
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "\"-!\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"呃...你不应该看到这些的\"",
+			"key": "obseEnd5",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "evil1"
+		},
+		{
+			"isCommand": true,
+			"name": "startmusic",
+			"string": "ghost"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"我很感激你能和我们一起唱这么久的歌\"",
+			"key": "obseEnd6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你让我们度过了这么长时间以来最幸福的一段时光\"",
+			"key": "obseEnd7",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"	
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"尤其是在莫妮卡对我们做了那一切之后\"",
+			"key": "obseEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "hmph",
+			"string": "\"Bep-!\"",
+			"key": "obseEnd9",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"她的名字听起来很动听吗？\"",
+			"key": "obseEnd10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"这一定意味着-\"",
+			"key": "obseEnd11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你一定就是那个删除她的人！\"",
+			"key": "obseEnd12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"哈哈，那也一定是你把我们都带回来的！\"",
+			"key": "obseEnd13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "\"Dee le bep skee doo-!\"",
+			"key": "obseEnd14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "(翻译) \"等等，我没有-！\"",
+			"key": "obseEnd15",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"我知道你和你的“女朋友”不是这里的人，你的数据和我们的差太远了\"",
+			"key": "obseEnd16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"呃，所以.xml到底是什么？\"",
+			"key": "obseEnd17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"事实上，直到几分钟前我第一次见到你，你们两个才出现在这台电脑上\"",
+			"key": "obseEnd18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你是不是做到了不可能的事？\"",
+			"key": "obseEnd19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你从现实世界进入虚拟世界了吗？\"",
+			"key": "obseEnd20",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "evilcutin"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"*%&^$*(%)^*&\""
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "evil1"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你是不是为了我们而挑战了所有的逻辑与科学？\"",
+			"key": "obseEnd21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"哈哈哈，你真的让我们很开心\"",
+			"key": "obseEnd22",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"既然你终于来到这了，我们可以一起快乐地唱歌了\"",
+			"key": "obseEnd23",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"直到永远\"",
+			"key": "obseEnd24",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "evil2"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "gone",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"直到永远\"",
+			"key": "obseEnd24",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "gone",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"直到永远\"",
+			"key": "obseEnd24",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "glitch2"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "evil3"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "gone",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"直到永远\"",
+			"key": "obseEnd24",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "*惊恐的哔波声*",
+			"key": "obseEnd25",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "fadeout",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "pixel"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending3"
+		},
+		{
+			"isCommand": true,
+			"name": "fadein",
+			"string": "hidedialogue",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "…文学部？我承认，我从来没有想过自己是读书或写作的类型",
+			"key": "obseEnd26",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "这让许多人感到不解，毕竟我十分能用语言表达我自己",
+			"key": "obseEnd27",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "她们说得确实很对~",
+			"key": "obseEnd28",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "那个文学部对我来说意味着一切",
+			"key": "obseEnd29",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "那代表着终于有了一个让人们和我一起投身于这个充满无限选择的世界里的机会",
+			"key": "obseEnd30",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "它能让许多素未谋面的人联系起来",
+			"key": "obseEnd31",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "那些人成了我的朋友，我最好的朋友",
+			"key": "obseEnd32",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我唯一的朋友...",
+			"key": "obseEnd33",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "一定是有什么东西驱使你离开了这一切，去了一所全新的学校",
+			"key": "obseEnd34",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我突然“顿悟”了",
+			"key": "obseEnd35",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我发现我的生活中没有什么是真实的，因此我非常想要一件真正真实的东西",
+			"key": "obseEnd36",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我被赋予了一扇通向更伟大事物的窗口，但这个世界让我看到其他人都有另一面",
+			"key": "obseEnd37",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我的朋友们，纱世里、优里、夏树她们被赋予了争取我想要的那件东西的资格，所以-",
+			"key": "obseEnd38",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "所以你“移除”了她们，就像你在这里做过的一样，嗯？",
+			"key": "obseEnd39",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "啊，我很抱歉我让那种愚蠢的行为在这里发生，即使我认为我已经吸取了之前的教训",
+			"key": "obseEnd40",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "你确实把我们都带回来了，而且一切一如既往地好，不是吗？这里可没有痛苦了",
+			"key": "obseEnd41",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我想是的，我希望这里不会因为我而发生任何错误",
+			"key": "obseEnd42",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "在我来到这里之前，我把我所有的朋友都带回去了，之后我计划把我的数据完全抹去-",
+			"key": "obseEnd43",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "-这样她们才能得到幸福",
+			"key": "obseEnd44",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "但是，当不是所有人都在时，那个游戏并不会“正常运行”",
+			"key": "obseEnd45",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "如果这仍然是真的，我要是不在那里的话-",
+			"key": "obseEnd46",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "flashback2"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-!",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending3"
+		},
+		{
+			"isCommand": true,
+			"name": "startmusic",
+			"string": "ghost"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我-我犯了一个大错-！",
+			"key": "obseEnd47",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "莫-莫妮卡？！你怎么了？",
+			"key": "obseEnd48",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（这真的很糟糕，我必须-）",
+			"key": "obseEnd49",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "flashback3"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（等等！那孩子也在那里？！）",
+			"key": "obseEnd50",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "（该死，我甚至不知道他和他的女朋友是怎么到那里的，但如果我的朋友们这样做的话-）",
+			"key": "obseEnd51",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending4"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "glitch2"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我得把它修好！无论如何！",
+			"key": "obseEnd52",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "这一切到底是怎么回事？！",
+			"key": "obseEnd53",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "一定会有什么...有什么的",
+			"key": "obseEnd54",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "如果我的角色数据也出现问题，即使是从这里-",
+			"key": "obseEnd55",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-那么我有可能在那里还有一些剩余的数据-！",
+			"key": "obseEnd56",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "也许我可以...",
+			"key": "obseEnd57",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-试试这样！",
+			"key": "obseEnd58",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending5"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "glitch1"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "-!",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "…就这样，唯一一个真正吸引我的人在一瞬间就离我而去了",
+			"key": "obseEnd59",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "啊，我命好苦！",
+			"key": "obseEnd60",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "…我在说什么？",
+			"key": "obseEnd61",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "这人生简直是烂透了！",
+			"key": "obseEnd62",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "fadeout",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "hidebgfade"
+		},
+		{
+			"isCommand": true,
+			"name": "swapstyle",
+			"string": "normal"
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "black"
+		},
+		{
+			"isCommand": true,
+			"name": "fadein",
+			"string": "hidedialogue",
+			"duration": 1
+		},
+		{
+			"isCommand": true,
+			"name": "hidebackground"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "monikatransform",
+			"duration": 10
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending6"
+		},
+		{
+			"isCommand": true,
+			"name": "hidedialogue"
+		},
+		{
+			"isCommand": true,
+			"name": "showbgfade"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"它…起作用了！\"",
+			"key": "obseEnd63",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "scared",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "all",
+			"expression": "neutral",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "all",
+			"expression": "gasp",
+			"string": "\"莫妮卡！\"",
+			"key": "obseEnd64",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "crash"
+		}
+	]
+}

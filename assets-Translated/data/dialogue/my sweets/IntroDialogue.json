@@ -1,0 +1,87 @@
+{
+	"startingMusic": "natsc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"…好吧，我想你说服了我\"",
+			"key": "sweeIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"哦?\"",
+			"key": "sweeIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"你最好不要告诉任何人，我有时会对着镜子拿着发刷唱歌\"",
+			"key": "sweeIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"当我爸爸不在家的时候\"",
+			"key": "sweeIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"...呵呵\"",
+			"key": "sweeIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"喂！你知道我能听到你在笑，对吧？\"",
+			"key": "sweeIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"但...我只是在想象你这样做的样子，这是个非常可爱的心理形象\"",
+			"key": "sweeIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"闭嘴！别再说我可爱了！我才不可爱\"",
+			"key": "sweeIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"啊，我什么都不该说的\"",
+			"key": "sweeIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"让我们开始吧\"",
+			"key": "sweeIntro10",
+			"side": "left"
+		}
+	]
+}

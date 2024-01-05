@@ -1,0 +1,102 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "等等-",
+			"key": "bnyIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "那不是我的麦克风吗? 你是怎么拿到的?",
+			"key": "bnyIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "而且那只该死的臭虫也在这？！",
+			"key": "bnyIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "what",
+			"string": "bep-",
+			"key": "bnyIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "你上次那样捉弄我还不够吗?",
+			"key": "bnyIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "现在你又带更多的朋友来嘲笑我了？",
+			"key": "bnyIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "嘿，这不是-",
+			"key": "bnyIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "你，把麦克风还来，我有更重要的事情要做",
+			"key": "bnyIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "嗯？不，等等，我要-",
+			"key": "bnyIntro9",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "angry",
+			"string": "我说了，快给我!",
+			"key": "bnyIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "嘿，不！",
+			"key": "bnyIntro11",
+			"side": "right"
+		}
+	]
+}

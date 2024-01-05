@@ -1,0 +1,11 @@
+{
+    "song": {
+        "name": "故障者(莫妮卡混音版)",
+        "artist": "作曲：HighPoweredKeyz & Matt$ / YingYang48",
+        "icon": "pen",
+        "pause": "monika",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue",
+        "playManually": true
+    }
+}

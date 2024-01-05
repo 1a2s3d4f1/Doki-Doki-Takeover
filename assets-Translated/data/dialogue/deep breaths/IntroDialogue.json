@@ -1,0 +1,87 @@
+{
+	"startingMusic": "yuric",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "what",
+			"string": "\"…糟糕，我想我要完了，刚才那首歌结束之后我感到很头晕\"",
+			"key": "dbIntro1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"没关系的！让你的声带休息去\"",
+			"key": "dbIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "ehh",
+			"string": "*困惑的目光*",
+			"key": "dbIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "think",
+			"string": "\"Skee dep? ...beep de dee skee.\"",
+			"key": "dbIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"哈哈...看来就剩下你了，优里！\"",
+			"key": "dbIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "blush",
+			"string": "\"...嗯-\"",
+			"key": "dbIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ooh",
+			"string": "\"嘿，我知道你能行，优里，我敢打赌你的声音一定很美妙！\"",
+			"key": "dbIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"…先是要我向所有人大声朗读我的诗，现在居然还要我唱歌？\"",
+			"key": "dbIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"这个社团对我的要求真高\"",
+			"key": "dbIntro9",
+			"side": "left"
+		}
+	]
+}

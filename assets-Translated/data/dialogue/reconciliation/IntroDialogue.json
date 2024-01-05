@@ -1,0 +1,212 @@
+{
+	"startingMusic": "monic",
+	"initStyle": "normal",
+	"dialogue": [
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"莫妮卡！我们一直在等你！\"",
+			"key": "recoIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"来这么迟可不像你\"",
+			"key": "recoIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"看来你带来了一些新成员\"",
+			"key": "recoIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"认真的？莫妮卡？你带来了一个男生？\"",
+			"key": "recoIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"好吧，至少你也找到了另一个女生\"",
+			"key": "recoIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "（与你们其他人相比，她不会让我觉得自己很矮小）",
+			"key": "recoIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"哦！我-\"",
+			"key": "recoIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "*凝视*",
+			"key": "recoIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "neutral",
+			"string": "*凝视*",
+			"key": "recoIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"…你好，你们两个，已经有一段时间了\"",
+			"key": "recoIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Bep.\"",
+			"key": "recoIntro10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"我为我以前的所作所为感到抱歉\"",
+			"key": "recoIntro11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"我很抱歉在那不久后又不小心让你陷入了另一种危险的境地-\"",
+			"key": "recoIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"-但现在我来了，一切都应该稳定下来了\"",
+			"key": "recoIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"我不知道你是否能原谅我…但我很高兴你们两个现在安全了\"",
+			"key": "recoIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "think",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "yeah",
+			"string": "\"Ska dee beep!\"",
+			"key": "recoIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"-!\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"啊哈哈...你不知道我听到这个回答后有多高兴\"",
+			"key": "recoIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"好了，各位!\"",
+			"key": "recoIntro17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我想让你们认识一下文学部的最新成员！\"",
+			"key": "recoIntro18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我有一个很有趣的方式来介绍他们\"",
+			"key": "recoIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"嘿，尽管刚刚发生了那么多紧张的事情-\"",
+			"key": "recoIntro20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"-但你还有足够的精力再唱一首歌吗？\"",
+			"key": "recoIntro21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "yeah",
+			"string": "\"Ska dee beep!\"",
+			"key": "recoIntro22",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"那就让我们开始吧！\"",
+			"key": "recoIntro23",
+			"side": "left"
+		}
+	]
+}

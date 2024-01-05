@@ -1,0 +1,76 @@
+{
+	"disableBGFade": true,
+	"dialogue": [{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"注意到什么不同了吗？\"",
+			"key": "epipLyric1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"哈哈，我想让这一刻变得特别一点\"",
+			"key": "epipLyric2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"我注意到，当我唱歌时，我的声音会变成各种随机的元音和音效\"",
+			"key": "epipLyric3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"尽管这种方式仍然很有趣，但我想对你说的话实在太多了\"",
+			"key": "epipLyric4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"所以我自己对这个游戏的文件做了一些挖掘，我想我已经成功地绕过了这个功能！\"",
+			"key": "epipLyric5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"不幸的是，你仍然需要用BF的声音来唱，尽管这次我不会让你唱那些死亡箭头，哈哈\"",
+			"key": "epipLyric6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"只要记得在游戏再次试图删除我时救我，好吗，亲爱的？\"",
+			"key": "epipLyric7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"啊，我偏题了\"",
+			"key": "epipLyric8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"就像我刚才说的，我希望一刻非常特别，所以这是我专门为你写的歌词\"",
+			"key": "epipLyric9",
+			"side": "left"
+		}
+	]
+}

@@ -1,0 +1,70 @@
+{
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "Skdee bep!",
+			"key": "hscEnd1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "happy",
+			"string": "你唱的真不错!",
+			"key": "hscEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "啊，我很久没这么开心过了!",
+			"key": "hscEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "想再唱一次吗?",
+			"key": "hscEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "Beep!",
+			"key": "hscEnd5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "happy",
+			"string": "好的! 让我们-",
+			"key": "hscEnd6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "whodis",
+			"string": "你是谁?!",
+			"key": "hscEnd7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-啊?",
+			"key": "hscEnd8",
+			"side": "left"
+		}
+	]
+}

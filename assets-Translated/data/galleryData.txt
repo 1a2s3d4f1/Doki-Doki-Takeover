@@ -1,0 +1,95 @@
+menuBG::最初的Monika Full Week模组菜单背景\n绘画：TokyoGalaxy::https://twitter.com/TokyoGalaxyOG
+Monipai::初始像素莫妮卡草图\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+DokiFNF::角色的初步草图\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+cut2::痴迷曲目CG画面1的草图\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+Mockup1::Takeover开场动画的粗略草稿\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+Mockup4::Takeover开场动画的粗略草稿\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+episketch::最初的“顿悟”莫妮卡素描\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+senpai::高清Senpai素描\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+logos::这个模组的各种图标\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+oldbg::旧版文学部室的背景\n绘画：ItoSaihara和DusterBuster::https://twitter.com/ItoSaihara_
+newbg::新版文学部室的背景，如此整洁且充满活力！\n绘画：ItoSaihara和DusterBuster::https://twitter.com/ItoSaihara_
+musicbg::音乐室背景\n绘画：Sayphonic::https://twitter.com/sayphonic
+ynmbg::室外背景\n绘画：Lezanikat::https://twitter.com/lezanikat
+epibg::太空教室背景\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+pkpromo::DDTO Plus的宣传画！\n绘画：Pikons::https://twitter.com/vivalapk
+MoniBoxArt::Monika Full Week模组的歌曲封面\n绘画：MetalSucc::https://twitter.com/MetalSucc
+plusalbum::Doki Doki Takeover Plus模组的歌曲封面\n绘画：Miss Beepy和Crim::https://twitter.com/scrimblocrimbo
+mantella::Monika Full Week和Doki Doki Takeover的盒式录音带画\n绘画：Juno Songs::https://twitter.com/JunoSongsYT
+MonikaFriends::庆祝Monika Full Week模组发布的宣传画，你能全部认出他们吗？\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+MoniFF::Rebooted! Funky Friday画作\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+MoniFF2::Takeover! Funky Friday画作\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+DDTOCutscene::痴迷曲目CG画面1\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+DDTOCutscene2::痴迷曲目CG画面2\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+ourharmony1::我们的谐律曲目CG画面1\n绘画：Juno Songs::https://twitter.com/JunoSongsYT
+ourharmony2::我们的谐律曲目CG画面2\n绘画：Juno Songs::https://twitter.com/JunoSongsYT
+youandme::你和我曲目CG画面1\n绘画：Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
+youandme2::你和我曲目CG画面2\n绘画：Juno Songs & DusterBuster::https://twitter.com/JunoSongsYT
+youandme3::你和我曲目CG画面3\n绘画：Juno Songs::https://twitter.com/JunoSongsYT
+youandme4::你和我曲目CG画面4\n绘画：Lezanikat::https://twitter.com/lezanikat
+youandme5::你和我曲目CG画面5\n绘画：Lezanikat::https://twitter.com/lezanikat
+lovenfunkin::爱与放克曲目CG画面\n绘画：Lezanikat::https://twitter.com/lezanikat
+wilted1::凋零曲目CG画面1\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+wilted3::凋零曲目CG画面2\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+rerelease::庆祝Monika Full Week（重置版）的发布！\n绘画：emeruga::https://twitter.com/emeruga/status/1410266880179425285?s=20
+emceleb::Emeruga再次庆祝DDTO的发布！\n绘画：emeruga::https://twitter.com/emeruga/status/1453436298266439684?s=20
+emcelebfinal::最后一次更新的最后一次庆祝！\n绘画：emeruga::https://twitter.com/emeruga
+teamtbd::整个团队齐心协力！！！\n绘画： emeruga::https://twitter.com/emeruga
+monikajuno::经过一年的努力，DDTO+发布了！\n绘画：Juno Songs::https://twitter.com/JunoSongsYT
+farewell::最后的告别！\n绘画： Shouko-kun::https://twitter.com/animeeigo10/status/1733983906368508092
+hairbrushnat::"我有时会对着镜子拿着发刷唱歌"\n绘画：Skellybreak::https://twitter.com/skellybreak/status/1456628128009261056
+club::Takeover模组的开幕\n绘画：Coco Puffs::https://twitter.com/file_corruption/status/1626064213876658176?s=20
+oddballmoni::"只有我们两个"\n绘画：Oddball::https://twitter.com/AnOddArtist/status/1455302772413321219
+sannat::准备好颠覆你的期望\n绘画：Santandraws::https://twitter.com/Santandraws/status/1455597668747538438
+saydoki::整个文学部又聚在一起了！\n绘画：Sayphonic::https://twitter.com/sayphonic/status/1457503952526794752
+shouko::准备好写诗了！\n绘画：Shouko-Kun::https://twitter.com/animeeigo10/status/1625966928572432384?s=20
+memoddto::好了，各位！\n绘画：MEMOSAN::https://twitter.com/jSY9emonizou/status/1490143424540192768?s=20&t=1VrqOX7uUnG9LwbW-uEvng
+baka::笨蛋！\n绘画：sisima_::https://twitter.com/sisima_/status/1488494742774054913?s=20&t=ZcGQdjsSU0KQ7bU2G26Ijw
+stariidoki::来一起在文学部唱歌吧！\n绘画：StariiFish::https://twitter.com/StariiFish/status/1489825949084307456?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+leza::部长的表演！\n绘画：Lezanikat::https://twitter.com/lezanikat
+groupshot::让世界感受到我们的谐律！\n绘画：ChicaBonBon2::https://twitter.com/ChicaBonBon2/status/1625921285846102016?s=20
+groupphoto::"大家合影！"\n绘画：MrCloaks::https://twitter.com/Cloaks_Artguy/status/1628261632999579648?t=t1XzHsAqCtiOo0GJHD11oA&s=19
+silly::"-还有一个！"\n绘画：MrCloaks::https://twitter.com/vivwikls/status/1630030455486533632?s=20
+allofthem::齐聚一堂！\n绘画：GMZ::https://twitter.com/GMZ98422340
+handoki::来自Monika Full Week模组的回忆！\n绘画： Han::https://twitter.com/ocean_hairuuu/status/1636249198206283777
+tallbf::BF合身的文学部服装\n绘画：M4rc3llyLoka::https://twitter.com/M4rc3llyLoka/status/1453491850761932801?s=20
+monisen::第一个两个角色在一起作为歌曲对手的FNF模组！\n绘画：3Monika4::https://twitter.com/3Monika4/status/1403274659458535428
+drip::潮流的\n绘画：Zee::https://twitter.com/z_zmag8
+ayamoni::摇摆和歌唱！\n绘画：Ayacchi::https://twitter.com/ayacchi_corner/status/1627910993245351937?s=20
+balloon::天上飘满了热气球\n绘画：Lame::https://twitter.com/justbeinglame/status/1513367920444784640?s=20&t=w27SZCpLfSdFhkBlyJOQrw
+ourharmonyfan::一场精彩的表演！\n绘画： ame.::https://twitter.com/kkflick/status/1632388367622246401?s=20
+ynm::你和我！\n绘画：kkflick::https://twitter.com/kkflick/status/1632388367622246401?s=20
+gf::和你特别的那个人一起唱歌！\n绘画：Phillia Esaya::https://twitter.com/PhilliaEsaya
+gfpoem::用爱书写的情诗！\n绘画： James Doodles::https://twitter.com/doodles_james/status/1733958874846396729
+lovepoem::信息量极大\n绘画： Tokkizito::https://twitter.com/tokkizito/status/1637826178005229568
+wiltedhmph::拒绝自作多情\n绘画： Tortilla Kamen::https://twitter.com/TortillaKamen/status/1692021169099026722
+sidestory::支线故事的小把戏\n绘画： FnfOkuto::https://twitter.com/FnfOkuto/status/1639541380665212929
+minusmoni::伴随着许多小图标而来的是许多Minus的出现\n绘画：LiquidMercury::https://twitter.com/_liquidmercury/status/1454545267995389960?s=20
+minuska::Minus像素莫妮卡原始草图\n绘画：DusterBuster::https://twitter.com/SirDusterBuster
+cheermoni::原来的Minus像素莫妮卡\n绘画：ShayReyez::https://twitter.com/ShayReyez/status/1454598355678638089?s=20
+minusfriends::Minus的朋友！\n绘画：Coco Puffs::https://twitter.com/file_corruption/status/1481491451028680704?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+minussayo::幽默的人(Funny fish)!\n绘画： Klau::https://twitter.com/EaterKlau/status/1640098858079342597
+minusgoobers::更多Minus的朋友加入！\n绘画：Tapor::https://twitter.com/tapergamine/status/1527993344328364033?s=20&t=KP_G6PBFA7x0uxhIGBEPgQ
+shurisayo::文学部欢迎大家！\n绘画：Juno Songs::https://twitter.com/JunoSongsYT/status/1453949201126072320?s=20
+antipathy::这有点粗鲁-\n绘画：STS-Puelle::https://twitter.com/STS_PiaEsaya/status/1462690517762732034?s=20
+antipathysaga::传奇的故事还在继续\n绘画：FoxinOrbit, onlyoneindigo, & STS-Puelle::https://twitter.com/FoxinOrbit/status/1462849051632754689?s=20
+madcom::关于暴力迪吧和马卡洛夫\n绘画：PhilliaEsaya::https://twitter.com/PhilliaEsaya/status/1465492692763250692?s=20
+smiler::一个来自热线比赛的“朋友”\n绘画：DusterBuster::https://twitter.com/SirDusterBuster/status/1451042942395760643?s=20&t=v2uYYw1y1csBrHuRyRFwOA
+sayozipper::纱世里交了很多奇怪的朋友\n绘画：MaxOKE::https://twitter.com/MaxOKE_
+sayozipper2::不过他看起来很友好！\n绘画：MaxOKE::https://twitter.com/MaxOKE_
+dokifriends::一个陌生世界的新朋友们等待着文学部\n绘画：shiroeyoru::https://twitter.com/shiroeyoru/status/1465821401923784705?s=20
+beepymoment::共享VA的甜蜜女孩！\n绘画：Miss Beepy::https://twitter.com/MissBeepy
+carimellemoment::谈到相同的VA-\n绘画：GumiYumi::https://twitter.com/Yumi61937282
+tioder::教节奏机器人弹钢琴！\n绘画：Zonian::https://twitter.com/MrZonian
+costuming::引人赞叹的打扮！\n绘画： Cosmozerk::https://twitter.com/Cosmozerk/status/1637841775283916803
+kapsuki::夏树的Kapi Cosplay！\n绘画：MephrilGG::https://twitter.com/MephrilGG/status/1476608460926169092?s=20&t=c73KF7IfGcuFbpIImC5Lgw
+soft::交换衣服！\n绘画：sakaruchibi12::https://twitter.com/SoftModFNF/status/1581107153066418177?s=20&t=tvahIyq1EYDr8QFlfockow
+sayosoft::又软又傻！\n绘画： xilia::https://twitter.com/xiliaart_/status/1734001437104087454?s=20
+cosplay::学园祭时尚风格！\n绘画：Shouko-Kun::https://twitter.com/animeeigo10/status/1626617481455448070?s=20
+zee::得体的穿着！\n绘画：Zee::https://twitter.com/z_zmag8/status/1632226259186110464?s=20
+rudemc::新的衣服，新的粗鲁态度\n绘画： BAnims::https://twitter.com/BAnims_the2nd/status/1635020815665364992?s=20
+blueskies::他们非常喜欢这些新衣服\n绘画： AliceBox::https://twitter.com/AliceBox4/status/1636054915540811778?t=Tha399xbnyDSUSEtAYsWxQ&s=19
+titular::现在他是个事实上的名人了\n绘画： JasonNotCreative::https://twitter.com/_jason_ig/status/1671930762898161689
+calli::...这不是莫妮卡-\n绘画：DusterBuster::https://twitter.com/SirDusterBuster/status/1493706048502484993?s=20&t=xlgoJvsXl25ojVnHbTb4XA
+haachama::"Haachama吃蜘蛛，这就是为什么我和她不是朋友"\n绘画：Zarkion::https://twitter.com/Zarky_Zarky/status/1633972367557795840?s=20
+holopiece::我们能飞得更高吗？\n绘画：TexusA::https://twitter.com/TexusA1/status/1577676443991306240?s=20&t=5j4VCrqxa3DyNaA2oev3-w

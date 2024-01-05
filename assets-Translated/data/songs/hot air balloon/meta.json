@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "热气球",
+        "artist": "作曲：DatDavi",
+        "icon": "pen",
+        "pause": "natsuki",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

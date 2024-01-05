@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "你的灭亡",
+        "artist": "作曲：DPZ",
+        "icon": "pen-demise",
+        "pause": "monika",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

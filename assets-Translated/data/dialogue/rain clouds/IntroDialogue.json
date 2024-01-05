@@ -1,0 +1,328 @@
+{
+	"startingMusic": "sayoc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"看来我们有客人了\"",
+			"key": "rcIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"真的吗，纱世里？你带了一个男生来？\"",
+			"key": "rcIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"嘿，我没想到会有新人，我们甚至还没有为社团发布招新传单！\"",
+			"key": "rcIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"但是，夏树！还有一个女孩！\"",
+			"key": "rcIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "neutral",
+			"string": "*空空的样子*",
+			"key": "rcIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"嗯，如果我知道我们会有更多的社员，我会请夏树烤一些用来欢迎的纸杯蛋糕的！\"",
+			"key": "rcIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"哦！也许我也可以请优里泡茶！\"",
+			"key": "rcIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"我需要记下来以便日后使用：“计划为社团策划茶话会”\"",
+			"key": "rcIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"听起来你已经为社团新人的加入感到非常兴奋了，你甚至还没问他们的名字叫什么-\"",
+			"key": "rcIntro9",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"啊，对！呃，我真傻，二位新社员，你们的名字是什么？\"",
+			"key": "rcIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"Beep skee!\"",
+			"key": "rcIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "yeah",
+			"string": "*愉快的动作*",
+			"key": "rcIntro12",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"你们两个是男朋友和女朋友？哇，你们在一起看起来真可爱！！！\"",
+			"key": "rcIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"…是很可爱，但你们叫什么名字？\"",
+			"key": "rcIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"Beep skee!\"",
+			"key": "rcIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "yeah",
+			"string": "*愉快的动作2*",
+			"key": "rcIntro16",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"是的，我们知道你们在约会！但我们只是想要知道你们的名字！\"",
+			"key": "rcIntro17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Bee dee skee dep!\"",
+			"key": "rcIntro18",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"…我已经开始不喜欢他们了\"",
+			"key": "rcIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"他们已经开始耍我了！\"",
+			"key": "rcIntro20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"夏树！不要那么苛刻...\"",
+			"key": "rcIntro21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"哼\"",
+			"key": "rcIntro22",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"呃...我很抱歉，如果你们不想说出自己的名字，那也没关系！\"",
+			"key": "rcIntro23",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"我是纱世里！\"",
+			"key": "rcIntro24",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"那边那位可爱的薰衣草女士是优里，而夏树是那个有点粗鲁的\"",
+			"key": "rcIntro25",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"抛开自我介绍不谈...我们可以问一下这些麦克风是干什么用的吗？\"",
+			"key": "rcIntro26",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"我正要问这个\"",
+			"key": "rcIntro27",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"我希望你没有把这里和音乐部混为一谈-\"",
+			"key": "rcIntro28",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"Boop dee!\"",
+			"key": "rcIntro29",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"…你真的想和我们一起唱歌吗？\"",
+			"key": "rcIntro30",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "blush",
+			"string": "\"我...不确定我要不要这么做-\"",
+			"key": "rcIntro31",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"Skee dep doop!\"",
+			"key": "rcIntro32",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "blush",
+			"string": "\"我必须？你什么意思！\"",
+			"key": "rcIntro33",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"你知道，我们最近一直在努力写诗，我认为我们每人来一起唱次歌会是一次必要的小活动！\"",
+			"key": "rcIntro34",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "blush",
+			"string": "\"-!\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"仔细想想，歌曲就是有音乐的诗，不是吗？\"",
+			"key": "rcIntro35",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"我打赌我们在这方面都会做的很优秀！\"",
+			"key": "rcIntro36",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"我先来！\"",
+			"key": "rcIntro37",
+			"side": "left"
+		}
+	]
+}

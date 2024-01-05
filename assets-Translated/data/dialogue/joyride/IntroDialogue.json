@@ -1,0 +1,219 @@
+{
+	"startingMusic": "sayoc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"嗯，夏树和优里都来过了，所以我想-\"",
+			"key": "joyIntro1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "音乐室的门打开的声音很快打断了莫妮卡的话",
+			"key": "joyIntro2",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "很快，文学部的最后一位主要成员进来了，她的步伐充满了活力",
+			"key": "joyIntro3",
+			"side": ""
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "showdad",
+			"duration": 0
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"哈哈，正如我想的那样！我很高兴你也来和我聊天，纱世里\"",
+			"key": "joyIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"啊，夏树和优里已经来了吗？？？我错过她们了吗？？？我有一个激动人心的消息要分享！\"",
+			"key": "joyIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"她们两个早些时候确实出现了，与我进行了一对一的交谈\"",
+			"key": "joyIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"是什么让你现在情绪这么激动？你的笑容是我见过的最灿烂的笑容！\"",
+			"key": "joyIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"呵呵，我没办法！我们最近所做的一切都令人惊叹！\"",
+			"key": "joyIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"学园祭进行得很完美，现在我们有七位了不起的部员，他们都让彼此感到快乐和积极！\"",
+			"key": "joyIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"这是我想要的一切：每个人都快乐，互相支持\"",
+			"key": "joyIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic",
+			"expression": "",
+			"string": "",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "纱世里激动的举止冷静下来，变得更加庄重，但脸上仍然挂着真诚的微笑",
+			"key": "joyIntro11",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "wah",
+			"string": "\"看到我们做了这么多好事……这让我有理由每天早上起床，因为我知道我们能够做到这一点\"",
+			"key": "joyIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "wah",
+			"string": "\"我仍然很难一直把这些快乐的想法记在心里，但它正在一点一点地好转\"",
+			"key": "joyIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "wah",
+			"string": "\"这让我每天都更加感激我们能够经营这家文学部\"",
+			"key": "joyIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "wah",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "朋友们传来的所有积极的消息和幸福也让莫妮卡激动不已",
+			"key": "joyIntro15",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "当莫妮卡听着纱世里的话时，泪水夺眶而出",
+			"key": "joyIntro16",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "在一阵忧郁的幸福中，莫妮卡走过来拥抱纱世里",
+			"key": "joyIntro17",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "cry",
+			"string": "\"我…纱世里...我为你感到骄傲，你和我们在一起，让这个文学部成为现在的样子，这实在是意义重大\"",
+			"key": "joyIntro18",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "cry",
+			"string": "\"它帮助了很多人…尤其是我，谢谢你…\"",
+			"key": "joyIntro19",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "wah",
+			"string": "\"嗯……也谢谢你，莫妮卡\"",
+			"key": "joyIntro20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "过了一会儿，她们放下了拥抱，莫妮卡擦了擦眼泪，深吸了一口气",
+			"key": "joyIntro21",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"啊哈-这是一个很大的转变，但当其他人早些时候来的时候，她们每个人都和我一起唱了一首歌\"",
+			"key": "joyIntro22",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"如果我也能和你一起唱一首歌，我会很高兴的\"",
+			"key": "joyIntro23",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"你不需要告诉我两次！让我们唱起来！\"",
+			"key": "joyIntro24",
+			"side": "left"
+		}
+	]
+}

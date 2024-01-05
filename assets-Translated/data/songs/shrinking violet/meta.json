@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "羞怯之人",
+        "artist": "作曲：HighPoweredKeyz & DatDavi",
+        "icon": "pen",
+        "pause": "yuri",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

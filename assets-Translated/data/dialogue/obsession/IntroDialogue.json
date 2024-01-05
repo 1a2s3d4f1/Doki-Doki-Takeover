@@ -1,0 +1,197 @@
+{
+	"canSkip": false,
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"优里，你的歌声太棒了！再唱一遍！再唱一遍！我还想听！\"",
+			"key": "obseIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "what",
+			"string": "\"啊-!\"",
+			"key": "obseIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"你还好吗，夏树？\"",
+			"key": "obseIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"啊... 我感觉很不不不不不不不不-\"",
+			"key": "obseIntro4"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不不不不不不不不不不不不\"",
+			"key": "obseIntro5"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不不不不不不\"",
+			"key": "obseIntro6"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不不不\"",
+			"key": "obseIntro7"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不不不不不\"",
+			"key": "obseIntro8"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不不\"",
+			"key": "obseIntro9"
+		},
+		{
+			"isCommand": true,
+			"name": "autoskip",
+			"string": "\"不不不\"",
+			"key": "obseIntro10"
+		},
+		{
+			"isCommand": true,
+			"name": "playsound",
+			"string": "glitch1"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "spook",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "this gets skipped for some reason",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"我感觉很不好\"",
+			"key": "obseIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"啊，让我送夏树去医务室\"",
+			"key": "obseIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"你-你们唱得开心！\"",
+			"key": "obseIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"啊哈-\"",
+			"key": "obseIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "dokiexit",
+			"duration": 7
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"...呵呵\"",
+			"key": "obseIntro15",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"唱的比我想象的要好得多\"",
+			"key": "obseIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"这是一个很好的方式...对于如何释放我的情绪\"",
+			"key": "obseIntro17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"让我们再唱一次，马上\"",
+			"key": "obseIntro18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ahaha",
+			"string": "\"哈哈...\"",
+			"key": "obseIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "scared",
+			"string": "\"...\"",
+			"side": "right"
+		}
+	]
+}

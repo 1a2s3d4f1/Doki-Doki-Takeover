@@ -1,0 +1,23 @@
+{
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "what",
+			"string": "\"把那东西送回原来的地方或者来帮帮我-！\"",
+			"key": "consEnd1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "zipper",
+			"expression": "neutral",
+			"string": "\"Gwarrgh.\"",
+			"key": "consEnd2",
+			"side": "left"
+		}
+	]
+}

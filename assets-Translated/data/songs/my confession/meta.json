@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "我的坦白",
+        "artist": "作曲：Sprunkle",
+        "icon": "pen",
+        "pause": "sayori",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

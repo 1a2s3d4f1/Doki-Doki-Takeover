@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "抑制",
+        "artist": "作曲：Stardust Tunes",
+        "icon": "pen",
+        "pause": "sayori",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

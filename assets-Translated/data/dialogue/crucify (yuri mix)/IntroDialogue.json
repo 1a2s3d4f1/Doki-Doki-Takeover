@@ -1,0 +1,262 @@
+{
+	"startingMusic": "protagc",
+	"dialogue": 
+	[
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "festivalbeginning"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "neutral",
+			"string": "\"所以，你们两个一定是莫妮卡和其他女孩一直提到的另外两位成员\"",
+			"key": "crucIntro1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "neutral",
+			"string": "\"她们似乎很了解你们，尽管我之前从未在社团里见过你们两个\"",
+			"key": "crucIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"嗯，我想不久前我才加入文学部，一定是那时错过了和你们见面的机会\"",
+			"key": "crucIntro3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "neutral",
+			"string": "\"但我很高兴你们今天来了，你带来的整个歌唱活动给文学部带来了很大的启发\"",
+			"key": "crucIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "neutral",
+			"string": "\"为了今天夜里的学园祭活动，她们决定将现场演唱作为文学部的特别活动\"",
+			"key": "crucIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"我不确定唱歌和文学有什么关系，但每个人似乎都同意，我别无选择\"",
+			"key": "crucIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"我已经很久没有看到纱世里这么开心了\"",
+			"key": "crucIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"我现在不再像之前一样费力地叫醒她上学，她就在外面，带着快乐的微笑等着我，嘴里还哼着幸福的小曲\"",
+			"key": "crucIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "sigh",
+			"string": "\"话说回来，如果你们没有出现，我就只能和她们一起唱歌了，我还没有准备好在同学面前社死\"",
+			"key": "crucIntro9",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "camera",
+			"string": "\"另外，她们中没有一个人能想出一首她们想唱的歌\"",
+			"key": "crucIntro10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "neutral",
+			"string": "\"你们能帮帮她们吗？\"",
+			"key": "crucIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "neutral",
+			"string": "*愉快的动作*",
+			"key": "crucIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "\"Beep!\"",
+			"key": "crucIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"一整张歌单？这应该能给她们所有人提供一个不错的选择\"",
+			"key": "crucIntro14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "camera",
+			"string": "\"一旦她们回来准备我就会让她们知道的\"",
+			"key": "crucIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"今晚学园祭见\"",
+			"key": "crucIntro16",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": true,
+			"name": "fadeout",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "hidebackground"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": true,
+			"name": "fadein",
+			"string": "hidedialogue",
+			"duration": 2
+		},
+		{
+			"isCommand": false,
+			"name": "mc",
+			"expression": "happy",
+			"string": "\"音响设备已经全部调好了，准备好了我们就可以开始了\"",
+			"key": "crucIntro17",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"非常感谢你的帮助！\"",
+			"key": "crucIntro18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"看到你负责管理所有的音乐技术真是有趣\"",
+			"key": "crucIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"是啊，你就像我们的MC一样！\"",
+			"key": "crucIntro20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "(不只是在音乐方面的MC呢，啊哈哈-)",
+			"key": "crucIntro21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "(等等...制作这个中文翻译版的译者为什么没有翻译这个双关笑话?)",
+			"key": "crucIntro22",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"哦？优里你要先来吗？\"",
+			"key": "crucIntro23",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"嗯...\"",
+			"key": "crucIntro24",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"我发现自己特别沉浸在我选择的这首歌的故事中\"",
+			"key": "crucIntro25",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"这是一首关于一对年轻恋人的歌，他们在夜里漫步于一个热闹小镇的阴凉处，与一个怪人面对面\"",
+			"key": "crucIntro26",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"那个怪人是一个准备将上帝的意志强加给他们的人\"",
+			"key": "crucIntro27",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"通过用一把电锯\"",
+			"key": "crucIntro28",
+			"side": "left"
+		}
+	]
+}

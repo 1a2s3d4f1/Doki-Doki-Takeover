@@ -1,0 +1,112 @@
+{
+	"startingMusic": "",
+	"initStyle": "normal",
+	"disableBGFade": true,
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "文学部的女孩们以欢声笑语结束了她们的歌，音乐室里充满了兴奋和欢乐",
+			"key": "ohEnd1",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"真不敢相信我们等了这么久才一起唱歌！我想经常这样做！\"",
+			"key": "ohEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gone",
+			"string": "\"在社团活动期间我们总是有足够的时间来唱歌，我非常兴奋能和大家一起合唱，我们的歌声听起来很完美！\"",
+			"key": "ohEnd3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "gone",
+			"string": "\"也许下次我们可以让其他三个人也加入我们\"",
+			"key": "ohEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "gone",
+			"string": "\"我今天没有见过他们，你们认为他们今天会出席社团活动吗？\"",
+			"key": "ohEnd5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gone",
+			"string": "\"我们拭目以待\"",
+			"key": "ohEnd6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gone",
+			"string": "\"事实上，我想起了-！纱世里，你不是有个激动人心的消息想和我们分享吗？\"",
+			"key": "ohEnd7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"哦哦！对了！谢谢你提醒我！\"",
+			"key": "ohEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"你们不会相信的，你们也知道我的朋友之前一直在拒绝和我们一起唱歌\"",
+			"key": "ohEnd9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"我看到他和BF和GF在部室里，我发誓我听到他唱歌了！\"",
+			"key": "ohEnd10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "gone",
+			"string": "\"呵呵，他也该屈服了，我会一直欺负那个家伙，直到他彻底屈服为止\"",
+			"key": "ohEnd11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gone",
+			"string": "\"我很惊讶他能坚持这么长时间不来和我们一起唱歌，如果我们现在偷偷溜进部室，我们会在他中途唱歌的时候抓到他吗？\"",
+			"key": "ohEnd12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "gone",
+			"string": "\"让我们去看看吧！去文学部！\"",
+			"key": "ohEnd13",
+			"side": "left"
+		}
+	]
+}

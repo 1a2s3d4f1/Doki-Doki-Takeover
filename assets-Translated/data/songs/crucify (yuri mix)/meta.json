@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "钉刑(优里混音版)",
+        "artist": "作曲：Sprunkle & Stardust Tunes / Foodieti",
+        "icon": "pen",
+        "pause": "yuri",
+        "introDialogue": "IntroDialogue",
+        "playManually": true
+    }
+}

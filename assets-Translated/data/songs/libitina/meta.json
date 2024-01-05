@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "利比蒂娜",
+        "artist": "作曲：Kairii",
+        "icon": "file",
+        "pause": "libitina",
+        "allowCountDown": false,
+        "playManually": true
+    }
+}

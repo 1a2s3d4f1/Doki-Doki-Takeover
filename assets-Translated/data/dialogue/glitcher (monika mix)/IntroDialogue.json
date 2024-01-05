@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"有很多歌对我来说都很适合去唱\"",
+			"key": "glitIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我很高兴你甚至把所有的歌曲都编上了标题\"",
+			"key": "glitIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"但这一首很特别...感觉就像是我注定要唱的歌\"",
+			"key": "glitIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"我想是因为这首歌的名字\"",
+			"key": "glitIntro4",
+			"side": "left"
+		}
+	]
+}

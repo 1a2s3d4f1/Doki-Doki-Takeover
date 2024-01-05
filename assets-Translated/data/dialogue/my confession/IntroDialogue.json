@@ -1,0 +1,98 @@
+{
+	"startingMusic": "sayoc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"看见了吗？这一点也不难！实际上这很有趣！\"",
+			"key": "confIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"...\"",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"...嗯...\"",
+			"key": "confIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"嗯，我唱的还好吗？\"",
+			"key": "confIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "neutral",
+			"string": "*愉快的动作*",
+			"key": "confIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "beep",
+			"string": "\"Beep!\"",
+			"key": "confIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"哇，我很高兴你们两个在这里玩得很开心！\"",
+			"key": "confIntro6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"我有责任确保每个部员脸上时刻都挂着灿烂幸福的笑容\"",
+			"key": "confIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"毕竟-\"",
+			"key": "confIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "glitch"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"我可是文学部的部长啊\"",
+			"key": "confIntro9",
+			"side": "left"
+		}
+	]
+}

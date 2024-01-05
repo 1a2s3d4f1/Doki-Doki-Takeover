@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "痴迷",
+        "artist": "作曲：Matt$",
+        "icon": "pen",
+        "pause": "yuri",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

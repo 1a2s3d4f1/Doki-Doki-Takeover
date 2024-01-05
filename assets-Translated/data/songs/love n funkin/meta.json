@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "爱与放克",
+        "artist": "作曲：DatDavi & Stardust Tunes",
+        "icon": "pen",
+        "pause": "gf",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

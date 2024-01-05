@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"老实说\"",
+			"key": "beatIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"你给我们的歌单里有太多歌了，我不想仔细挑选每一首\"",
+			"key": "beatIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"这首歌的封面是一张可爱小猫的照片，所以我自然而然地选择了这首\"",
+			"key": "beatIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"放音乐！\"",
+			"key": "beatIntro4",
+			"side": "left"
+		}
+	]
+}

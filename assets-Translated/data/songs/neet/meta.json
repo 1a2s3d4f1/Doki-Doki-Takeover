@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "家里蹲",
+        "artist": "作曲：HighPoweredKeyz & Sprunkle",
+        "icon": "pen",
+        "pause": "protag",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

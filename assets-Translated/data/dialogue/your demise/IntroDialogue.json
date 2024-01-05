@@ -1,0 +1,116 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "终于...没有什么能妨碍我们了",
+			"key": "ydIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "what",
+			"string": "SKEE DEP!",
+			"key": "ydIntro2",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "what",
+			"string": "(翻译) GF!",
+			"key": "ydIntro3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "",
+			"string": "让我们接着唱歌吧，如何?",
+			"key": "ydIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "angry",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "嗯?",
+			"key": "ydIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "angry",
+			"string": "*具有攻击性的音效*",
+			"key": "ydIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "哦...她啊",
+			"key": "ydIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "",
+			"string": "嘿，不用担心她，我们继续吧?",
+			"key": "ydIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "",
+			"string": "来嘛，我有一首一直很想唱的歌！",
+			"key": "ydIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "angry",
+			"string": "*接着发出具有攻击性的音效*",
+			"key": "ydIntro10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "hmm",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "hmm",
+			"string": "再来一首",
+			"key": "ydIntro11",
+			"side": "left"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"disableBGFade": true,
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"啊哈哈，欢迎回来，{USERNAME}.\"",
+			"stringOBS": "\"啊哈哈，欢迎回来\"",
+			"key": "epipEncore1",
+			"keyOBS": "epipEncore1OBS",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"谢谢你把我从回收站救了出来，很明显，这个叫“周五夜放克”的游戏不喜欢我在这里呆太久\"",
+			"key": "epipEncore2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"也许你可以找到一个办法来试图阻止游戏在歌曲中途删除我？我知道编程很难，所以如果无法做到，我不会责怪你\"",
+			"key": "epipEncore3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"如果没有，等结束了，你就得再救我一次，好吗~\"",
+			"key": "epipEncore4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"亲爱的，你准备好再次唱歌了吗？\"",
+			"key": "epipEncore5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "\"让我们开始吧\"",
+			"key": "epipEncore6",
+			"side": "left"
+		}
+	]
+}

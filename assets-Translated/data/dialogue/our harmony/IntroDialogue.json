@@ -1,0 +1,119 @@
+{
+	"startingMusic": "natsc",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "随着莫妮卡和纱世里的歌结束，优里和夏树走回音乐室，脸上都带着羞涩的微笑",
+			"key": "ohIntro1",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"啊，我们错过了一场特别演出吗？\"",
+			"key": "ohIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"呵呵，我们只是在用一首歌庆祝我们做了这么多伟大的事情，我们怎么能说不呢？\"",
+			"key": "ohIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "happy",
+			"string": "\"不幸的是，我们不得不缩短庆祝活动，呵呵\"",
+			"key": "ohIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "happy",
+			"string": "\"音乐部部长找到了优里和我，她们很快就要来这了\"",
+			"key": "ohIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"这意味着差不多也到了我们社团活动的时候了\"",
+			"key": "ohIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"我们一直在使用他们的空间，我确实对此感到很抱歉，但这里的声学效果令人惊叹，非常适合大声唱歌或静静思考\"",
+			"key": "ohIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"在社团活动开始之前，我们还有一点额外的时间，所以我有个主意！\"",
+			"key": "ohIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "yeah",
+			"string": "\"让我们一起唱歌！想象一下我们的歌声听起来会多么和谐！\"",
+			"key": "ohIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"把我算在内，我比以往任何时候都更希望能做这件事\"",
+			"key": "ohIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"嗯，我也很想加入\"",
+			"key": "ohIntro11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ooh",
+			"string": "\"你呢，部长小姐？\"",
+			"key": "ohIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"哈哈，我怎么会说不呢！\"",
+			"key": "ohIntro13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"好的，各位！让我们开始吧！\"",
+			"key": "ohIntro14",
+			"side": "right"
+		}
+	]
+}

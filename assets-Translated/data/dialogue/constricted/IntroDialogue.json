@@ -1,0 +1,216 @@
+{
+	"startingMusic": "monic",
+	"initStyle": "normal",
+	"disableBGFade": true,
+	"dialogue": 
+	[
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "black"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"啊，纱世里！优里！夏树！你们回来了！\"",
+			"key": "consIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"你们在BF和GF的家乡玩得怎么样？\"",
+			"key": "consIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "（啊哈，我还是不敢相信那是他们的真名，甚至他们的角色文件也是这么写的-）",
+			"key": "consIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "memory",
+			"expression": "sunday",
+			"string": "",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"我和一个摇滚明星进行了一场激烈的比赛！我完全打败了他们\"",
+			"key": "consIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "wah",
+			"string": "\"他们邀请我下周回来复赛，如果我赢了，我可以免费获得他们乐队下一场演出的门票！\"",
+			"key": "consIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"这周我有很多多余的钱要花，所以我在离城市不远的一家很好的餐厅吃了饭\"",
+			"key": "consIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "memory",
+			"expression": "tabi",
+			"string": "",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"当我在那里的时候，我和一个对收藏有着相似兴趣的人聊得很愉快\"",
+			"key": "consIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"当我在一次谈话中提到我们的两位新成员时，他似乎也很感兴趣，不过我不想说太多\"",
+			"key": "consIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "hideright"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "（现实世界中似乎有很多奇怪、虚幻的人）",
+			"key": "consIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "（在那里的某个地方，我的真爱……我仍然没有忘记他）",
+			"key": "consIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "（我很快就会回去继续搜索，我有……太多事情要告诉他了）",
+			"key": "consIntro11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"啊——对不起，我刚才陷入了沉思，你呢，纱世里？你在旅途中遇到新朋友了吗？\"",
+			"key": "consIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"太神奇了！我甚至不知道这些地方真的存在！\"",
+			"key": "consIntro13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "wah",
+			"string": "\"他们不知道是从哪里冒出来的，嗯~\"",
+			"key": "consIntro14",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "neutral",
+			"string": "\"但事实上我确实遇到了一个新朋友！我们回来的时候他一直跟着我\"",
+			"key": "consIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"呃？那...有点奇怪\"",
+			"key": "consIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"-但我很高兴你们都找到了一些很棒的新朋友！\"",
+			"key": "consIntro17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "happ",
+			"string": "\"嗯！他也跟着我回来了！想见见他吗？他真的太可爱了！\"",
+			"key": "consIntro18",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"哦？当然！把他带来！\"",
+			"key": "consIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ooh",
+			"string": "\"嗨，Zipper！\"",
+			"key": "consIntro20",
+			"side": "right"
+		},
+		{
+			"isCommand": true,
+			"name": "endmusic"
+		},
+		{
+			"isCommand": true,
+			"name": "shake",
+			"duration": "1"
+		},
+		{
+			"isCommand": true,
+			"name": "hideleft"
+		},
+		{
+			"isCommand": false,
+			"name": "zipper",
+			"expression": "scream",
+			"string": "\"SKREEEEEEEEEEE!!!!\"",
+			"key": "consIntro21",
+			"side": "left"
+		}
+	]
+}

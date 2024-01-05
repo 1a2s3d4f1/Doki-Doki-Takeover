@@ -1,0 +1,47 @@
+{
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"这就是我在说的！仅仅这一首歌就让你脱颖而出，当你再次考虑到其他一切时，这就是你会发现的自己令人惊叹的个性！\"",
+			"key": "habEnd1",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "happy",
+			"string": "\"…呵呵，这确实帮助我放松了心情\"",
+			"key": "habEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "happy",
+			"string": "\"你知道吗，下次我见到那个“男朋友”，我会用他听过的最快的节奏来打击他！哈哈哈！\"",
+			"key": "habEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"好，去做你想做的吧！\"",
+			"key": "habEnd4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "happy",
+			"string": "\"我…真的很感谢你的帮助，莫妮卡\"",
+			"key": "habEnd5",
+			"side": "left"
+		}
+	]
+}

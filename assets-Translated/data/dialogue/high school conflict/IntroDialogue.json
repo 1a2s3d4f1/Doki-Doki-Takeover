@@ -1,0 +1,111 @@
+{
+	"startingMusic": "Lunchbox",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "...嗯?",
+			"key": "hscIntro1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "我还以为...在我那样对待我的朋友们后我就被他们给删除了",
+			"key": "hscIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-但现在我又在哪?",
+			"key": "hscIntro3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "hueh",
+			"string": "Beep!",
+			"key": "hscIntro4",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "-哦! 你好?",
+			"key": "hscIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "Skee dep boop!",
+			"key": "hscIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "你想唱一首歌?",
+			"key": "hscIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "bf",
+			"expression": "neutral",
+			"string": "Beep dai!",
+			"key": "hscIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "...事情发展的有点太快了",
+			"key": "hscIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "-但你猜怎么着?",
+			"key": "hscIntro10",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "happy",
+			"string": "我很乐意!",
+			"key": "hscIntro11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "一般我喜欢边弹钢琴边唱，但做出这样的改变也不坏",
+			"key": "hscIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "happy",
+			"string": "所以...让我们开始吧！",
+			"key": "hscIntro13",
+			"side": "left"
+		}
+	]
+}

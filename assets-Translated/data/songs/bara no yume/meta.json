@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "玫瑰之梦",
+        "artist": "作曲：Kairii",
+        "icon": "pen-pixel",
+        "pause": "monika",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

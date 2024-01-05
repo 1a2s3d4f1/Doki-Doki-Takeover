@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "凋零",
+        "artist": "作曲：GGalactigal",
+        "icon": "pen-pixel",
+        "pause": "senpai",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

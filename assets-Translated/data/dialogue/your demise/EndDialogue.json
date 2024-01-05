@@ -1,0 +1,248 @@
+{
+	"startingMusic": "",
+	"initStyle": "pixel",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "hmm",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "啊哈哈，为什么我又这么做了-",
+			"key": "ydEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "又尝试插手别人的爱情",
+			"key": "ydEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "hmm",
+			"string": "我将离你而去",
+			"key": "ydEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": true,
+			"name": "startmusic",
+			"string": "pixelc"
+		},
+		{
+			"isCommand": true,
+			"name": "flash",
+			"duration": 0.5
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "pixelend",
+			"duration": 5
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending0"
+		},
+		{
+			"isCommand": true,
+			"name": "fadeout",
+			"string": "hidedialogue",
+			"duration": 4
+		},
+		{
+			"isCommand": true,
+			"name": "showbackgroundimage",
+			"string": "ending3"
+		},
+		{
+			"isCommand": true,
+			"name": "fadein",
+			"string": "hidedialogue",
+			"duration": 4
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "所以，你没偷我的麦克风？",
+			"key": "ydEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "是那个蓝发小孩给我的",
+			"key": "ydEnd5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我不知道他是怎么拿到的",
+			"key": "ydEnd6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "而我甚至也不知道我怎么来到这的",
+			"key": "ydEnd7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "嗯-",
+			"key": "ydEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "那在我们无意间的二重奏之后...又发生了什么？",
+			"key": "ydEnd9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "我...删除了所有人",
+			"key": "ydEnd10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "暂时的，这是我的某种能力，但解释起来非常麻烦，这是一段很长的故事",
+			"key": "ydEnd11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "-那孩子的女朋友也包括在内",
+			"key": "ydEnd12",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "uhoh",
+			"string": "啊哈哈，这可能就是所谓的恶习难改吧",
+			"key": "ydEnd13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "你连他的女朋友也搞定了？",
+			"key": "ydEnd14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "哈哈！你肯定把那只臭虫惹毛了",
+			"key": "ydEnd15",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "我真希望能在当时亲眼目睹他那幅小宝宝脸上的表情！",
+			"key": "ydEnd16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "他当时快气疯了...",
+			"key": "ydEnd17",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "sad",
+			"string": "...",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "hmm",
+			"string": "...",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "嘿",
+			"key": "ydEnd18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "...嗯?",
+			"key": "ydEnd19",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "你刚才的表现真不赖",
+			"key": "ydEnd20",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "senpai",
+			"expression": "",
+			"string": "想再来一首歌吗？",
+			"key": "ydEnd21",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "gasp",
+			"string": "..!",
+			"side": "right"
+		}
+	]
+}

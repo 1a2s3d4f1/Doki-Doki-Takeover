@@ -1,0 +1,10 @@
+{
+    "song": {
+        "name": "笨蛋",
+        "artist": "作曲：StarrieBlu",
+        "icon": "pen",
+        "pause": "natsuki",
+        "introDialogue": "IntroDialogue",
+        "endDialogue": "EndDialogue"
+    }
+}

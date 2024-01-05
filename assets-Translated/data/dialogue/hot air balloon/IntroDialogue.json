@@ -1,0 +1,212 @@
+{
+	"startingMusic": "monic",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "学园祭结束的几天后…莫妮卡独自站在学校的音乐室里",
+			"key": "habIntro1",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "自从最近加入文学部的新成员向她们介绍唱歌以来，文学部占据了更多的空间",
+			"key": "habIntro2",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "-以至于她们有时会比真正的音乐部更多的使用这里",
+			"key": "habIntro3",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "莫妮卡独自一人思考着最近发生的一切",
+			"key": "habIntro4",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"虚幻的事物变得多么美好啊，这很不真实呢\"",
+			"key": "habIntro5",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"在经历了之前的一切之后，我不知道我做了什么才值得让我得到这第二次机会……但我知道这次我会把事情办好的，为了我的朋友们\"",
+			"key": "habIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"啊哈，那时只剩下我的时候，我记得我告诉我爱的人，我多么希望有一天会有一个说唱歌手加入文学部\"",
+			"key": "habIntro7",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"我没想到这真的发生了，他们拯救了我，给了我这个机会，我真的感激不尽\"",
+			"key": "habIntro8",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "莫妮卡的思考被进入音乐室的脚步声打断了，一个熟悉的粉红色头发的人走了进来",
+			"key": "habIntro9",
+			"side": ""
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "showdad",
+			"duration": 0
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"啊，夏树！我很惊讶在这里看到你！我还以为你和其他人还在上课\"",
+			"key": "habIntro10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "neutral",
+			"string": "\"我…我告诉我的老师我要上厕所，但我其实是想来找你\"",
+			"key": "habIntro11",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"我最近一直在想…一些事情，我想和你谈谈这件事\"",
+			"key": "habIntro12",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我会洗耳恭听！你在想什么？\"",
+			"key": "habIntro13",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"我…我觉得我跟不上你们了\"",
+			"key": "habIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"哦？在哪方面？\"",
+			"key": "habIntro15",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"我内心深处有时一直有这种感觉，甚至早在我们四个人在文学部的时候\"",
+			"key": "habIntro16",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"现在文学部已经发展到七名成员，再加上唱歌……我觉得我无法与之竞争-！\"",
+			"key": "habIntro17",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"每个人在唱歌这方面都如此优秀，但我就是无法在所有的声音中脱颖而出\"",
+			"key": "habIntro18",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "sick",
+			"string": "\"作为一个离家舒适的地方，文学部是我现在所拥有的最好的东西之一，但这种被掩盖的感觉和我必须努力不被遗忘的想法-\"",
+			"key": "habIntro19",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "upset",
+			"string": "\"夏树-我可以从心底向你保证，你是整个文学部最杰出的作家和歌手之一！\"",
+			"key": "habIntro20",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"我不认为任何人能捕捉到你所做的每件事的独特风格，每个人都一样！\"",
+			"key": "habIntro21",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"你在文学部留下的印象太特别了，我们不会忘记，我们永远不会把你排除在外\"",
+			"key": "habIntro22",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "hmmph",
+			"string": "\"...\"",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "夏树交叉双臂，目光移开，表情不确定",
+			"key": "habIntro23",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我也能证明！来，我们为什么不快来唱首歌？我可以向你保证，一旦你开始正视你的内心，你就会发现是什么让你如此特别\"",
+			"key": "habIntro24",
+			"side": "right"
+		}
+	]
+}

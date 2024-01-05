@@ -1,0 +1,149 @@
+{
+	"startingMusic": "yuric",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "夏树离开后不久，另一张熟悉的面孔走进了音乐室，确切地说，是一位“可爱的薰衣草女士”",
+			"key": "svIntro1",
+			"side": ""
+		},
+		{
+			"isCommand": true,
+			"name": "playcutscene",
+			"string": "showdad",
+			"duration": 0
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"啊，希望我没有打断任何事情-\"",
+			"key": "svIntro2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"优里！不用担心，我只在是四处走走，打发时间，直到我们的下一次社团活动开始\"",
+			"key": "svIntro3",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"嗯...这对我来说可能有点奇怪，但…\"",
+			"key": "svIntro4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"-谢谢\"",
+			"key": "svIntro5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "neutral",
+			"string": "\"哦？为何？\"",
+			"key": "svIntro6",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"由于我们在文学部所做的一切，我开始感到更舒服……因为我开始试图在别人面前展示我所做的一切\"",
+			"key": "svIntro7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"作为一个文学部，我们一起做的事情越多，这种情况就越好\"",
+			"key": "svIntro8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"写作，唱歌，和只是…聊天，这一切给了我一个更好的选择…去尝试释放我的情绪\"",
+			"key": "svIntro9",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"听到这个消息我很高兴，优里！我注意到你最近更多地走出了自己的舒适区，你自信的歌声总是令人愉快\"",
+			"key": "svIntro10",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahaha",
+			"string": "\"知道这个文学部对你来说是一个自我提升的好地方这个消息我非常高兴\"",
+			"key": "svIntro11",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "优里中断了眼神交流，目光移开了一秒钟，她脸上露出了腼腆的微笑",
+			"key": "svIntro12",
+			"side": ""
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "smile",
+			"string": "\"我想用一些特别的东西来庆祝这一个人里程碑\"",
+			"key": "svIntro13",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"我…写了一首我自己的歌，这是我写作能力的新领域，所以我想问你是否愿意在这里和我一起唱它\"",
+			"key": "svIntro14",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "neutral",
+			"string": "\"在我给其他人唱之前，我想做一点同行评审\"",
+			"key": "svIntro15",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"奉陪到底！\"",
+			"key": "svIntro16",
+			"side": "right"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "ahh",
+			"string": "\"我们可以开始了吗？我的声带已经热起来了！\"",
+			"key": "svIntro17",
+			"side": "right"
+		}
+	]
+}

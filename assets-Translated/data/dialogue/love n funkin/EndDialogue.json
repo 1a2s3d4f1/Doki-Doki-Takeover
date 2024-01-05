@@ -1,0 +1,79 @@
+{
+	"startingMusic": "",
+	"initStyle": "normal",
+	"dialogue": 
+	[
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "通过歌曲的力量，GF能够为她亲爱的男朋友写下情歌的歌词",
+			"key": "lnfEnd1",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "女孩们兴奋地想看看GF想出了什么，于是她把写满歌词的纸递给了她们",
+			"key": "lnfEnd2",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "带着极大的期待，女孩们开始阅读-",
+			"key": "lnfEnd3",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "no_one",
+			"expression": "gone",
+			"string": "-她们的表情慢慢演变成了震惊和困惑",
+			"key": "lnfEnd4",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "monika",
+			"expression": "eeh",
+			"string": "\"…我没想到你会写这么…露骨的东西-\"",
+			"key": "lnfEnd5",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "natsuki",
+			"expression": "angy",
+			"string": "\"啊，啊！！！你为什么写这个？！我不需要知道你和你男朋友在床上做什么！\"",
+			"key": "lnfEnd6",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "yuri",
+			"expression": "ehh",
+			"string": "\"我是好奇是什么激发了你写下几段关于“敌人的鲜血”的句子-\"",
+			"key": "lnfEnd7",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "sayori",
+			"expression": "ehh",
+			"string": "\"呃...啊...也许下次，试着保持住校园的风格-\"",
+			"key": "lnfEnd8",
+			"side": "left"
+		},
+		{
+			"isCommand": false,
+			"name": "gf",
+			"expression": "peace",
+			"string": "*吐舌*",
+			"key": "lnfEnd9",
+			"side": "right"
+		}
+	]
+}

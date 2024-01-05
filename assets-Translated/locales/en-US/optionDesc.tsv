@@ -1,0 +1,51 @@
+flag	content
+descKeyBindings	更改箭头按键的键位
+descDownscroll	更改箭头传来的方向
+descGhostTap	关闭后，在平常的时候点击按键不会算作失误而减少血量
+descJudgement	自定义游戏的判定时间
+descFPSCap	设置游戏的FPS上限（按左右键设置，按住Shift以加快速度）
+descCurFPSCap	当前FPS上限
+descScroll	更改箭头滚动速度，歌曲中间发生的速度变化不变（按左右键设置，按住Shift以加快速度）
+descCurScroll	当前箭头滚动速度
+descReset	开启后，在游戏中可按下键盘上的R键自杀
+descCustomize	根据您的喜好自定义游戏画面的部分内容
+descCustomizeState	拖动以自定义其位置，点击R键重置，Q/E键缩放，点击空格锁定缩放的空间，点击C键生成连击效果
+descAccuracy	在血量条下方显示准确的信息
+descNPS	时刻显示屏幕上出现的箭头准确数
+descPosition	显示歌曲的时间进度
+descFPSCount	显示当前帧率和内存使用情况
+descFlashing	关闭或打开可能导致癫痫发作或视觉疲劳的闪光灯
+descBotplay	让一个机器人自动帮你玩（不会保存分数数据）
+descGFCountdown	在歌曲开始前GF会做出倒计时的动作
+descMiddleScroll	将箭头显示在屏幕中央或右侧
+descLaneUnderway	打开谱面辅助线（0%为透明，100%为不透明）
+descLaneUnderwayControl	当前辅助线透明度
+descScoreReset	将歌曲分数数据重置，这也会影响某些解锁的东西（不可逆）
+descStoryReset	将故事模式进度重置，这也会影响某些解锁的东西（不可逆）
+descSaveReset	删除游戏存档（不可逆）
+descGameJolt	Log into your Game Jolt account to earn trophies!
+descHitSound	当敲击按键时播放音效
+descHitSoundControl	当前敲击音效大小
+descHitSoundJudge	根据你点击的箭头判断来选择敲击音效是否变化
+descNoteSplash	打开后当你以Sick评价击中箭头时会出现飞溅效果！
+descEarlyLate	无论何时，提前或迟后敲击箭头时会显示一个提示
+descAutoPause	在游戏开头的倒计时结束前自动暂停
+descJudgeCount	显示你在一首歌中得到的每一个判定的计数
+descLanguage	更改游戏语言
+descVideoDub	查看Doki Doki Takeover的官方配音视频！
+descBadEnd	体验另一个坏结局模组（打开GameBanana网站）
+descRatingToggle	是否在游戏过程中显示评分
+descAntialiasing	以牺牲性能为代价使视觉效果更加流畅
+descMiddleOpponent	显示对手的箭头
+descGPUTextures	通过显卡加载纹理以减少内存占用
+descCacheSong	通过在启动时缓存每首歌曲来减少加载时间（占用大量内存）
+descCache	通过缓存上面启用的内容进一步减少加载时间
+descPreload	在进入歌曲时预加载档案以减少断断续续的效果和以更多加载时间为代价的停滞
+descRandom	将你和你的对手的箭头随机化！（不会保存分数数据）
+descNoM	马卡洛夫箭头
+descShaders	允许游戏使用着色器！如果遇到崩溃或性能问题请关闭
+descCursor	显示以本模组为主题的特色鼠标指针
+descLowEnd	禁用一切减少性能的效果
+descKeyBindControls	按Esc键保存，按Backspace键重置，按Enter可更改键位
+descKeyBindBlacklist	<X> 被列入黑名单！
+descJudgementControls	按左键减少1点，按右键增加1点，<N>按住Shift会更快，按Control(Ctrl)增加0.10，按Alt增加0.01<N>点击R可重置所选判定，同时按住R + Shift键将重置所有判定

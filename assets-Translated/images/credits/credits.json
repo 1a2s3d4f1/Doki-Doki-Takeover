@@ -1,0 +1,968 @@
+{
+	"peeps": [
+		{
+			"realName": "SirDusterBuster",
+			"iconName": "Duster",
+			"description": "主创\nTeam TBD领导人",
+			"twitter": "https://twitter.com/SirDusterBuster",
+			"whichrole": 0
+		},
+		{
+			"realName": "Jorge - SunSpirit",
+			"iconName": "Jorge",
+			"description": "副主创\nTeam TBD领导人",
+			"twitter": "https://twitter.com/Jorge_SunSpirit",
+			"whichrole": 0
+		},
+		{
+			"realName": "HighPoweredKeyz",
+			"iconName": "HPK",
+			"description": "Team TBD领导人",
+			"twitter": "https://twitter.com/HighPoweredArt",
+			"whichrole": 0
+		},
+		{
+			"realName": "SirDusterBuster",
+			"iconName": "Duster",
+			"description": "首席画师\n动画师\n服装画师\nCG画师\n背景画师",
+			"twitter": "https://twitter.com/SirDusterBuster",
+			"whichrole": 1
+		},
+		{
+			"realName": "GrandHammer6",
+			"iconName": "GrandHammer",
+			"description": "画师\n动画师\n服装画师",
+			"twitter": "https://twitter.com/GrandHammer6",
+			"whichrole": 1
+		},
+		{
+			"realName": "Little_Geecko",
+			"iconName": "Geecko",
+			"description": "画师\n动画师\n服装画师",
+			"twitter": "https://twitter.com/Little_Geecko",
+			"whichrole": 1
+		},
+		{
+			"realName": "IGJH",
+			"iconName": "IGJH",
+			"description": "画师\n动画师",
+			"twitter": "https://twitter.com/IGJHSpritin",
+			"whichrole": 1
+		},
+		{
+			"realName": "Quickalas",
+			"iconName": "Quickalas",
+			"description": "画师\n动画师",
+			"twitter": "https://twitter.com/quickalas",
+			"whichrole": 1
+		},
+		{
+			"realName": "Ito",
+			"iconName": "Ito",
+			"description": "背景画师\n服装画师",
+			"twitter": "https://twitter.com/ItoSaihara_",
+			"whichrole": 1
+		},
+		{
+			"realName": "Lezanikat",
+			"iconName": "Leza",
+			"description": "背景画师\nCG画师",
+			"twitter": "https://twitter.com/lezanikat",
+			"whichrole": 1
+		},
+		{
+			"realName": "Sayphonic",
+			"iconName": "Sayphonic",
+			"description": "背景画师",
+			"twitter": "https://twitter.com/sayphonic",
+			"whichrole": 1
+		},
+		{
+			"realName": "HighPoweredKeyz",
+			"iconName": "HPK",
+			"description": "VFX 画师\n动画师",
+			"twitter": "https://twitter.com/HighPoweredArt",
+			"whichrole": 1
+		},
+		{
+			"realName": "Juno Songs",
+			"iconName": "Juno",
+			"description": "CG画师\n服装画师",
+			"twitter": "https://twitter.com/JunoSongsYT",
+			"whichrole": 1
+		},
+		{
+			"realName": "Miss Beepy",
+			"iconName": "Beepy",
+			"description": "CG画师\n暂停画面画师",
+			"twitter": "https://twitter.com/MissBeepy",
+			"whichrole": 1
+		},
+		{
+			"realName": "Pikons",
+			"iconName": "PK",
+			"description": "CG画师\n暂停画面画师",
+			"twitter": "https://twitter.com/vivalapk",
+			"whichrole": 1
+		},
+		{
+			"realName": "AshyTown",
+			"iconName": "Ashy",
+			"description": "暂停画面画师",
+			"twitter": "https://twitter.com/AshyTown_",
+			"whichrole": 1
+		},
+		{
+			"realName": "Phillia Esaya",
+			"iconName": "Phillia",
+			"description": "暂停画面画师",
+			"twitter": "https://twitter.com/PhilliaEsaya",
+			"whichrole": 1
+		},
+		{
+			"realName": "STS-Puelle",
+			"iconName": "Puelle",
+			"description": "暂停画面画师",
+			"twitter": "https://twitter.com/STS_PiaEsaya",
+			"whichrole": 1
+		},
+		{
+			"realName": "AnInternetsEcho",
+			"iconName": "Cammy",
+			"description": "服装画师",
+			"twitter": "",
+			"whichrole": 2
+		},
+		{
+			"realName": "Augux168",
+			"iconName": "Augux",
+			"description": "服装画师",
+			"twitter": "https://twitter.com/Augux168",
+			"whichrole": 2
+		},
+		{
+			"realName": "BruunoSCP",
+			"iconName": "Bruuno",
+			"description": "服装画师",
+			"twitter": "https://twitter.com/BruunoSCP",
+			"whichrole": 2
+		},
+		{
+			"realName": "Crim",
+			"iconName": "Crim",
+			"description": "服装画师",
+			"twitter": "https://twitter.com/scrimblocrimbo",
+			"whichrole": 2
+		},
+		{
+			"realName": "Jorge - SunSpirit",
+			"iconName": "Jorge",
+			"description": "画师\n动画师",
+			"twitter": "https://twitter.com/Jorge_SunSpirit",
+			"whichrole": 2
+		},
+		{
+			"realName": "Max0KE",
+			"iconName": "Max",
+			"description": "服装画师",
+			"twitter": "https://twitter.com/MaxOKE_",
+			"whichrole": 2
+		},
+		{
+			"realName": "Moxxie",
+			"iconName": "Moxxie",
+			"description": "画师\n动画师",
+			"twitter": "https://twitter.com/hasnomoxxie",
+			"whichrole": 2
+		},
+		{
+			"realName": "TokyoGalaxy",
+			"iconName": "TokyoGalaxy",
+			"description": "自由游玩界面画师",
+			"twitter": "https://twitter.com/TokyoGalaxyOG",
+			"whichrole": 2
+		},
+		{
+			"realName": "Weeg",
+			"iconName": "Weeg",
+			"description": "服装画师",
+			"twitter": "https://twitter.com/ItIsIWeeg",
+			"whichrole": 2
+		},
+		{
+			"realName": "Jorge - SunSpirit",
+			"iconName": "Jorge",
+			"description": "程序员",
+			"twitter": "https://twitter.com/Jorge_SunSpirit",
+			"whichrole": 3
+		},
+		{
+			"realName": "M&M",
+			"iconName": "MAndM",
+			"description": "程序员",
+			"twitter": "https://linktr.ee/ActualMandM",
+			"whichrole": 3
+		},
+		{
+			"realName": "Codexes",
+			"iconName": "Codexes",
+			"description": "程序员",
+			"twitter": "https://twitter.com/Codexes1",
+			"whichrole": 3
+		},
+		{
+			"realName": "Flootena",
+			"iconName": "Flootena",
+			"description": "主谱师",
+			"twitter": "https://twitter.com/FlootenaDX",
+			"whichrole": 4
+		},
+		{
+			"realName": "Chompo",
+			"iconName": "Chompo",
+			"description": "谱师",
+			"twitter": "https://twitter.com/MrChompsALot",
+			"whichrole": 4
+		},
+		{
+			"realName": "Clover",
+			"iconName": "Viva",
+			"description": "谱师",
+			"twitter": "https://twitter.com/Vivaderus",
+			"whichrole": 4
+		},
+		{
+			"realName": "DatDavi",
+			"iconName": "Davi",
+			"description": "谱师",
+			"twitter": "https://twitter.com/dat_davi",
+			"whichrole": 4
+		},
+		{
+			"realName": "Jorge - SunSpirit",
+			"iconName": "Jorge",
+			"description": "谱师",
+			"twitter": "https://twitter.com/Jorge_SunSpirit",
+			"whichrole": 4
+		},
+		{
+			"realName": "Kodapopin",
+			"iconName": "Koda",
+			"description": "谱师",
+			"twitter": "https://twitter.com/Kodapopin",
+			"whichrole": 4
+		},
+		{
+			"realName": "Matt$",
+			"iconName": "Matt",
+			"description": "谱师",
+			"twitter": "https://twitter.com/matt_currency",
+			"whichrole": 4
+		},
+		{
+			"realName": "SirDusterBuster",
+			"iconName": "Duster",
+			"description": "谱师",
+			"twitter": "https://twitter.com/SirDusterBuster",
+			"whichrole": 4
+		},
+		{
+			"realName": "Cocopuffs",
+			"iconName": "Coco",
+			"description": "曲师",
+			"twitter": "https://twitter.com/file_corruption",
+			"whichrole": 5
+		},
+		{
+			"realName": "DatDavi",
+			"iconName": "Davi",
+			"description": "曲师",
+			"twitter": "https://twitter.com/dat_davi",
+			"whichrole": 5
+		},
+		{
+			"realName": "DPZ",
+			"iconName": "DPZ",
+			"description": "曲师",
+			"twitter": "https://twitter.com/dpzmusic",
+			"whichrole": 5
+		},
+		{
+			"realName": "GGalactigal",
+			"iconName": "Haruka",
+			"description": "曲师",
+			"twitter": "https://twitter.com/GGalactigal",
+			"whichrole": 5
+		},
+		{
+			"realName": "HighPoweredKeyz",
+			"iconName": "HPK",
+			"description": "曲师\n Chromatic作者",
+			"twitter": "https://twitter.com/HighPoweredArt",
+			"whichrole": 5
+		},
+		{
+			"realName": "Kairii",
+			"iconName": "Kairii",
+			"description": "曲师",
+			"twitter": "https://www.youtube.com/@RiiStudios",
+			"whichrole": 5
+		},
+		{
+			"realName": "Matt$",
+			"iconName": "Matt",
+			"description": "曲师",
+			"twitter": "https://twitter.com/matt_currency",
+			"whichrole": 5
+		},
+		{
+			"realName": "Saruky",
+			"iconName": "Saruky",
+			"description": "曲师",
+			"twitter": "https://twitter.com/Saruky__",
+			"whichrole": 5
+		},
+		{
+			"realName": "Sprunkle",
+			"iconName": "Sprunkle",
+			"description": "曲师",
+			"twitter": "https://twitter.com/Sprunkle2",
+			"whichrole": 5
+		},
+		{
+			"realName": "Stardust Tunes",
+			"iconName": "Stardust",
+			"description": "曲师",
+			"twitter": "https://twitter.com/StardustTunes",
+			"whichrole": 5
+		},
+		{
+			"realName": "Starrie_blu",
+			"iconName": "Starrieblu",
+			"description": "曲师",
+			"twitter": "https://twitter.com/starrie_blu",
+			"whichrole": 5
+		},
+		{
+			"realName": "Tony Astro",
+			"iconName": "Tony",
+			"description": "曲师",
+			"twitter": "https://twitter.com/TonyAstroVEVO",
+			"whichrole": 5
+		},
+		{
+			"realName": "UnStorm",
+			"iconName": "Unstorm",
+			"description": "曲师",
+			"twitter": "https://twitter.com/UnStormDDLC",
+			"whichrole": 5
+		},
+		{
+			"realName": "高校冲突(Plus)",
+			"iconName": "MonikaPixel",
+			"description": "歌曲作者: GGalactigal",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "高校冲突(Plus)"
+		},
+		{
+			"realName": "玫瑰之梦(Plus)",
+			"iconName": "SenpaiMonika",
+			"description": "歌曲作者: Kairii",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "玫瑰之梦(Plus)"
+		},
+		{
+			"realName": "你的灭亡(Plus)",
+			"iconName": "MonikaPixelBig",
+			"description": "歌曲作者: DPZ",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "你的现实(Takeover混音版)",
+			"iconName": "SenpaiMonika",
+			"description": "歌曲作者: UnStorm",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "你的现实\n(Takeover混音版)"
+		},
+		{
+			"realName": "团团乌云",
+			"iconName": "Sayori",
+			"description": "歌曲作者: Stardust Tunes",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "我的坦白",
+			"iconName": "Sayori",
+			"description": "歌曲作者: Sprunkle",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "我的点心",
+			"iconName": "Natsuki",
+			"description": "歌曲作者: Sprunkle",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "笨蛋",
+			"iconName": "Natsuki",
+			"description": "歌曲作者: Starrie_blu",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "笨蛋(坦克兵混音版)",
+			"iconName": "Tankman",
+			"description": "歌曲作者: Cocopuffs\n原歌曲作者: Starrie_blu",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "笨蛋\n(坦克兵混音版)"
+		},
+		{
+			"realName": "深呼吸",
+			"iconName": "Yuri",
+			"description": "歌曲作者: Saruky",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "痴迷",
+			"iconName": "YuriCrazy",
+			"description": "歌曲作者: Matt$",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "和解",
+			"iconName": "Monika",
+			"description": "歌曲作者: HighPoweredKeyz",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "钉刑(优里混音版)",
+			"iconName": "Crucify",
+			"description": "Remix歌曲作者: Sprunkle\n其他帮助：Stardust Tunes\n原歌曲作者: Foodieti",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "钉刑\n(优里混音版)"
+		},
+		{
+			"realName": "贝多芬病毒(夏树混音版)",
+			"iconName": "Beathoven",
+			"description": "Remix歌曲作者: Kairii\n原歌曲作者: PaperKitty",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "贝多芬病毒\n(夏树混音版)"
+		},
+		{
+			"realName": "这很难说(纱世里混音版)",
+			"iconName": "Complicated",
+			"description": "Remix歌曲作者: Stardust Tunes\n原歌曲作者: Starrie_blu",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "这很难说\n(纱世里混音版)"
+		},
+		{
+			"realName": "故障者(莫妮卡混音版)",
+			"iconName": "Glitcher",
+			"description": "Remix歌曲作者: HighPoweredKeyz\n内置声： Matt$\n原歌曲作者: YingYang48",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "故障者\n(莫妮卡混音版)"
+		},
+		{
+			"realName": "诗歌与荆棘",
+			"iconName": "SenpaiMonika",
+			"description": "歌曲作者: Saruky",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "双重毁灭",
+			"iconName": "MonikaPixelBig",
+			"description": "歌曲作者: Stardust Tunes",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "顿悟",
+			"iconName": "MonikaBig",
+			"description": "歌曲作者: Matt$",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "顿悟(歌词版)",
+			"iconName": "MonikaBig",
+			"description": "歌曲作者: Matt$\n莫妮卡CV： Carimelle\n歌词： Juno Songs",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "热气球",
+			"iconName": "Natsuki",
+			"description": "歌曲作者: DatDavi\n配音 by Carimelle",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "羞怯之人",
+			"iconName": "Yuri",
+			"description": "歌曲作者: HighPoweredKeyz\n& DatDavi",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "羞怯之人(Skid & Pump混音版)",
+			"iconName": "SpookyKids",
+			"description": "歌曲作者: DrazicallyDTM\n原歌曲作者: \nHighPoweredKeyz & DatDavi",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "羞怯之人\n(Skid & Pump混音版)"
+		},
+		{
+			"realName": "兜风",
+			"iconName": "Sayori",
+			"description": "歌曲作者: DatDavi",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "我们的谐律",
+			"iconName": "Monika",
+			"description": "歌曲作者: DatDavi\n配音： Carimelle",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "家里蹲",
+			"iconName": "Protag",
+			"description": "歌曲作者: HighPoweredKeyz\n& Sprunkle",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "你和我",
+			"iconName": "Protag",
+			"description": "歌曲作者: GGalactigal\n& HighPoweredKeyz",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "Takeover混成曲",
+			"iconName": "Monika",
+			"description": "歌曲作者: HighPoweredKeyz,\nStardust Tunes, Kairii,\nMiss Beepy, GGalactigal, & DatDavi",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "爱与放克",
+			"iconName": "GF",
+			"description": "歌曲作者: DatDavi\n& Stardust Tunes",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "爱与放克(Pico混音版)",
+			"iconName": "Pico",
+			"description": "歌曲作者: Noichi\n原歌曲作者: DatDavi\n& Stardust Tunes",
+			"twitter": "",
+			"whichrole": 6,
+			"funnyName": "爱与放克\n(Pico混音版)"
+		},
+		{
+			"realName": "猫女互斗",
+			"iconName": "Natsuki",
+			"description": "歌曲作者: Matt$",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "抑制",
+			"iconName": "Sayori",
+			"description": "歌曲作者: Stardust Tunes",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "凋零",
+			"iconName": "SenpaiReal",
+			"description": "歌曲作者: GGalactigal\n配音 by\nCarimelle & GrandHammer6",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "名人(MC混音版)",
+			"iconName": "Titular",
+			"description": "Remix 歌曲作者: HighPoweredKeyz\n原歌曲作者: Ethan the Doodler\n配音 by AfroZer0",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "这杯我请",
+			"iconName": "Jill",
+			"description": "歌曲作者: DPZ",
+			"twitter": "",
+			"whichrole": 6,
+			"hiddenType": "drinksonme"
+		},
+		{
+			"realName": "利比蒂娜",
+			"iconName": "Libitina",
+			"description": "歌曲作者: Kairii",
+			"twitter": "",
+			"whichrole": 6,
+			"hiddenType": "libitina"
+		},
+		{
+			"realName": "主菜单音乐",
+			"iconName": "Monika",
+			"description": "歌曲作者: DPZ",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "暂停音乐",
+			"iconName": "MonikaPixel",
+			"description": "歌曲作者: Tony Astro",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "对话音乐",
+			"iconName": "Monika",
+			"description": "歌曲作者: HighPoweredKeyz",
+			"twitter": "",
+			"whichrole": 6
+		},
+		{
+			"realName": "SirDusterBuster",
+			"iconName": "Duster",
+			"description": "文本 / 对话",
+			"twitter": "https://twitter.com/SirDusterBuster",
+			"whichrole": 7
+		},
+		{
+			"realName": "Aizakku",
+			"iconName": "Aizakku",
+			"description": "巴西，葡萄牙语翻译",
+			"twitter": "https://twitter.com/ItsAizakku",
+			"whichrole": 7
+		},
+		{
+			"realName": "SouLegal",
+			"iconName": "SouLegal",
+			"description": "巴西，葡萄牙语翻译",
+			"twitter": "https://twitter.com/nickstwt",
+			"whichrole": 7
+		},
+		{
+			"realName": "Crim",
+			"iconName": "Crim",
+			"description": "荷兰语翻译",
+			"twitter": "https://twitter.com/scrimblocrimbo",
+			"whichrole": 7
+		},
+		{
+			"realName": "Sprunkle",
+			"iconName": "Sprunkle",
+			"description": "俄语翻译",
+			"twitter": "https://twitter.com/Sprunkle2",
+			"whichrole": 7
+		},
+		{
+			"realName": "Sulayre",
+			"iconName": "Sulayre",
+			"description": "西班牙语翻译",
+			"twitter": "https://twitter.com/Sulayre",
+			"whichrole": 7
+		},
+		{
+			"realName": "小鸿宝qwq",
+			"iconName": "Monika",
+			"description": "中文翻译",
+			"twitter": "https://space.bilibili.com/403497806/dynamic",
+			"whichrole": 7
+		},
+		{
+			"realName": "1a2s3d4f1",
+			"iconName": "BF",
+			"description": "中文贴图",
+			"twitter": "https://space.bilibili.com/356606330/dynamic",
+			"whichrole": 7
+		},
+		{
+			"realName": "AfroZer0",
+			"iconName": "Zer0",
+			"description": "主人公对话音效/声源",
+			"twitter": "https://twitter.com/AfroZer0",
+			"whichrole": 8
+		},
+		{
+			"realName": "Carimelle",
+			"iconName": "Carimelle",
+			"description": "莫妮卡对话音效/声源",
+			"twitter": "https://twitter.com/carimellevo",
+			"whichrole": 8
+		},
+		{
+			"realName": "flyplague",
+			"iconName": "Flyplague",
+			"description": "GF声源",
+			"twitter": "https://twitter.com/flyplague",
+			"whichrole": 8
+		},
+		{
+			"realName": "Grant Paulsen",
+			"iconName": "Grant",
+			"description": "Senpai对话音效/声源\n[官方配音视频指定配音员]",
+			"twitter": "https://twitter.com/grantpaulsenva",
+			"whichrole": 8
+		},
+		{
+			"realName": "Loganne Digma",
+			"iconName": "Loganne",
+			"description": "优里 & Libitina 对话音效/声源",
+			"twitter": "https://twitter.com/Loganne_Digma",
+			"whichrole": 8,
+			"hiddenType": "libitinabefore"
+		},
+		{
+			"realName": "Loganne Digma",
+			"iconName": "Loganne",
+			"description": "优里 & Libitina对话音效/声源",
+			"twitter": "https://twitter.com/Loganne_Digma",
+			"whichrole": 8,
+			"hiddenType": "libitina"
+		},
+		{
+			"realName": "Miss Beepy",
+			"iconName": "Beepy",
+			"description": "夏树对话音效/声源",
+			"twitter": "https://twitter.com/MissBeepy",
+			"whichrole": 8
+		},
+		{
+			"realName": "Phebe Fabacher",
+			"iconName": "Harudori",
+			"description": "纱世里对话音效/声源\n[官方配音视频指定配音员]",
+			"twitter": "https://twitter.com/pheberryfab",
+			"whichrole": 8
+		},
+		{
+			"realName": "Redpandaa98",
+			"iconName": "RedPanda",
+			"description": "Jill Stingray\n对话音效/声源",
+			"twitter": "https://twitter.com/redpandaa98",
+			"whichrole": 8,
+			"hiddenType": "drinksonme"
+		},
+		{
+			"realName": "Akiha Tohno",
+			"iconName": "Akiha",
+			"description": "Tsukihime / Melty Blood\n(Type-Moon)",
+			"twitter": "https://play.meltyblood.club/",
+			"whichrole": 9
+		},
+		{
+			"realName": "Aloe & Nene",
+			"iconName": "AloeNene",
+			"description": "Hololive / Holofunk\n(Codexes, GrandHammer6, GGalactigal,\n Awoofle, & Team Hologram / Cover Corp.)",
+			"twitter": "https://gamebanana.com/mods/41250",
+			"whichrole": 9
+		},
+		{
+			"realName": "Antipathy 汉克",
+			"iconName": "Antipathy",
+			"description": "FNF Antipathy\n(ItoSaihara_ & Studio Duality)",
+			"twitter": "https://gamebanana.com/mods/404314",
+			"whichrole": 9
+		},
+		{
+			"realName": "班迪",
+			"iconName": "Bendy",
+			"description": "班迪与油印机\n/ Indie Cross \n(Joey Drew Studios, Penkaru,\n & The Indie Cross团队)",
+			"twitter": "https://gamejolt.com/games/indiecross/643540",
+			"whichrole": 9
+		},
+		{
+			"realName": "Cyrix",
+			"iconName": "Matt",
+			"description": "FNF Vs. Cyrix\n(Matt$ & The Vs. Cyrix团队)",
+			"twitter": "https://gamebanana.com/mods/287411",
+			"whichrole": 9
+		},
+		{
+			"realName": "Grey Crewmate",
+			"iconName": "Imposter",
+			"description": "Vs. Impostor\n(Clowfoe, Impostorm,\n & Innersloth)",
+			"twitter": "https://gamejolt.com/games/vsimpostor/643430",
+			"whichrole": 9
+		},
+		{
+			"realName": "Haachama",
+			"iconName": "Haachama",
+			"description": "Hololive / Holofunk\n(Codexes, GrandHammer6, GGalactigal,\n Awoofle, & Team Hologram / Cover Corp.)",
+			"twitter": "https://gamebanana.com/mods/41250",
+			"whichrole": 9
+		},
+		{
+			"realName": "Jill Stingray",
+			"iconName": "Jill",
+			"description": "赛博朋克酒保行动\nVA-11HALL-A\n(SUKEBAN GAMES)",
+			"twitter": "https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/",
+			"whichrole": 9,
+			"hiddenType": "drinksonme"
+		},
+		{
+			"realName": "Ken",
+			"iconName": "Shinobi",
+			"description": "Shinobi Scramble\n(Juno Songs & Jorge_SunSpirit)",
+			"twitter": "https://gamebanana.com/mods/310161",
+			"whichrole": 9
+		},
+		{
+			"realName": "Minus BF & Minus GF",
+			"iconName": "Minus",
+			"description": "FNF Minus\n(IagoAnims & The FNF Minus团队)",
+			"twitter": "https://gamebanana.com/mods/186942",
+			"whichrole": 9,
+			"funnyName": "Minus BF &\nMinus GF"
+		},
+		{
+			"realName": "Nikku",
+			"iconName": "Hotline",
+			"description": "Hotline 024\n(Saruky &\nThe Potions n'团队)",
+			"twitter": "https://gamebanana.com/mods/373298",
+			"whichrole": 9
+		},
+		{
+			"realName": "Soft BF & Soft Pico",
+			"iconName": "Softies",
+			"description": "FNF Soft\n(DatDavi & The FNF Soft团队)",
+			"twitter": "https://gamebanana.com/mods/312803",
+			"whichrole": 9,
+			"funnyName": "Soft BF &\nSoft Pico"
+		},
+		{
+			"realName": "Static",
+			"iconName": "Static",
+			"description": "FNF Vs. Static\n(Summus & The Vs. Static团队)",
+			"twitter": "https://gamebanana.com/mods/43259",
+			"whichrole": 9
+		},
+		{
+			"realName": "Sunday",
+			"iconName": "Sunday",
+			"description": "FNF Vs. Sunday\n(bbpanzu & The Vs. Sunday团队)",
+			"twitter": "https://gamebanana.com/mods/300849",
+			"whichrole": 9
+		},
+		{
+			"realName": "Tabi",
+			"iconName": "Tabi",
+			"description": "FNF Vs. EX\n(Homskiy & The Tabi团队)",
+			"twitter": "https://gamebanana.com/mods/286388",
+			"whichrole": 9
+		},
+		{
+			"realName": "威廉·阿夫顿",
+			"iconName": "Afton",
+			"description": "玩具熊的五夜后宫\n/ Funkin' at Freddy's\n(ScottGames, JcJack,\n& The Funkin' at Freddy's团队)",
+			"twitter": "https://gamebanana.com/mods/360682",
+			"whichrole": 9
+		},
+		{
+			"realName": "Zipper",
+			"iconName": "Restraint",
+			"description": "FNF RESTRAINT\n(Max0KE, SirDusterBuster,\n& The RESTRAINT团队)",
+			"twitter": "https://gamebanana.com/mods/333433",
+			"whichrole": 9
+		},
+		{
+			"realName": "Dan Salvato",
+			"iconName": "DanSalvato",
+			"description": "“心跳文学部”\n原作者",
+			"twitter": "https://twitter.com/dansalvato",
+			"whichrole": 10
+		},
+		{
+			"realName": "FNF团队",
+			"iconName": "BF",
+			"description": "ninjamuffin99, PhantomArcade,\nKawaiSprite, Evilsk8r",
+			"twitter": "",
+			"whichrole": 10
+		},
+		{
+			"realName": "Crashpunk",
+			"iconName": "Crashpunk",
+			"description": "Doki Doki Blue Skies Collab\n& Blue Skies服装设计",
+			"twitter": "",
+			"whichrole": 10
+		},
+		{
+			"realName": "DuskieWhy",
+			"iconName": "Jackie",
+			"description": "着色器编码",
+			"twitter": "https://www.youtube.com/channel/UCVv8S6fT_4TyaJOwk5YxBFA",
+			"whichrole": 10
+		},
+		{
+			"realName": "KaosKurve",
+			"iconName": "KaosKurve",
+			"description": "爱与放克图标设计",
+			"twitter": "",
+			"whichrole": 10
+		},
+		{
+			"realName": "Lumitic",
+			"iconName": "Lumitic",
+			"description": "代码帮助",
+			"twitter": "https://twitter.com/PeacefulLuma",
+			"whichrole": 10
+		},
+		{
+			"realName": "3Monika4",
+			"iconName": "3Monika4",
+			"description": "Doki Doki Vigilante合作",
+			"twitter": "https://twitter.com/3Monika4",
+			"whichrole": 10
+		},
+		{
+			"realName": "Rozebud",
+			"iconName": "Rozebud",
+			"description": "FPS+编辑",
+			"twitter": "https://twitter.com/helpme_thebigt",
+			"whichrole": 10
+		},
+		{
+			"realName": "Shadow Mario",
+			"iconName": "ShadowMario",
+			"description": "Psych Engine代码",
+			"twitter": "https://twitter.com/Shadow_Mario_",
+			"whichrole": 10
+		},
+		{
+			"realName": "游戏测试员",
+			"iconName": "Monika",
+			"description": "DatDavi, ItoSaihara_, Jorge_SunSpirit,\nKairii, M&M, SirDusterBuster, Weeg",
+			"twitter": "",
+			"whichrole": 10
+		},
+		{
+			"realName": "特别感谢！",
+			"iconName": "BF",
+			"description": "8owser16,AfroDanceMan,Awoofle,BijuuMike,\nBlantados, Butterflan,Danish.exe,\nDesireDelta,emeruga,EnigmaticQube,firubii,\nIamjace,JakeNeutron,Penkaru,Saki760,\nshiroeyoru,SantiOkuu,Shouko-kun,Starbitz,\nStariiFish,The Dustercord,Tiniest Turtles,\nUniqueGeese,vivwikls,Zee,\n还有你!",
+			"twitter": "",
+			"whichrole": 10
+		}
+	],
+	"listoroles": ["模组主创 / 领导人", "画师", "客串画师", "程序员", "谱师", "曲师", "音乐", "文本 / 翻译", "配音", "客串", "附加制作人"]
+}
