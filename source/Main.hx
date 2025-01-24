@@ -25,6 +25,13 @@ import sys.io.Process;
 
 using StringTools;
 
+#if linux
+@:cppInclude('./external/gamemode_client.h')
+@:cppFileCode('
+	#define GAMEMODE_AUTO
+')
+#end
+
 class Main extends Sprite
 {
 	var game:FlxGame;
