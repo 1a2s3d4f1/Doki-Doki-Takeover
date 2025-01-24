@@ -1,7 +1,7 @@
 ![Doki Doki Takeover Plus! logo](art/DokiTakeoverPlusLogo.png)
 
 ## **[GameBanana](https://gamebanana.com/mods/47364) - [GameJolt](https://gamejolt.com/games/DDTOPlus/791558)**
-## **汉化版相关信息：[Bilibili](https://www.bilibili.com/opus/880577177400115206) - []百度贴吧(https://tieba.baidu.com/p/8831211932)**
+## **汉化版相关信息：[Bilibili](https://www.bilibili.com/opus/880577177400115206) - [百度贴吧](https://tieba.baidu.com/p/8831211932)**
 
 # 原版游戏链接
 
